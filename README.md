@@ -7,13 +7,13 @@
 
 | 型番 | 製品名 | レポジトリリンク | 製品ページリンク(自社HP) |
 | -------- | -------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| AD00001  | 自動車用デジタルスピードメータ/青（キット）        | https://github.com/bit-trade-one/AD00001-Digital-Speed-Meter-Blue | https://bit-trade-one.co.jp/product/assemblydisk/ad00001/    |
+| AD00001  | 自動車用デジタルスピードメータ/青（キット）        | https://github.com/bit-trade-one/AD00001-Digital-Speed-Meter | https://bit-trade-one.co.jp/product/assemblydisk/ad00001/    |
 | AD00002  | 静電容量式タッチセンサモジュール                   |                                                              | https://bit-trade-one.co.jp/product/module/ad00002/          |
-| AD00003  | 自動車用デジタルスピードメータ/赤（キット）        | https://github.com/bit-trade-one/AD00001-Digital-Speed-Meter-Blue | [https://bit-trade-one.co.jp/product/assemblydisk/ad00003/](https://bit-trade-one.co.jp/product/assemblydisk/ad00001/) |
+| AD00003  | 自動車用デジタルスピードメータ/赤（キット）        | https://github.com/bit-trade-one/AD00001-Digital-Speed-Meter | [https://bit-trade-one.co.jp/product/assemblydisk/ad00003/](https://bit-trade-one.co.jp/product/assemblydisk/ad00001/) |
 | AD00007  | REVIVE USB（キット）                               | https://github.com/bit-trade-one/AD00007-REVIVE-USB          | https://bit-trade-one.co.jp/product/assemblydisk/revive-usb/ |
 | AD00007P | REVIVE USB（組立済）                               | https://github.com/bit-trade-one/AD00007-REVIVE-USB          | https://bit-trade-one.co.jp/product/assemblydisk/revive-usb/ |
 | AD00008  | ASOOVU USB                                         | https://github.com/bit-trade-one/AD00008-ASOOVU_USB          | https://bit-trade-one.co.jp/product/asoovu/                  |
-| AD00009B | USB DELEGATER B                                    | https://github.com/bit-trade-one/AD00009-USB_DELEGATER       | https://bit-trade-one.co.jp/delegaterb/                      |
+| AD00009B | USB DELEGATER B                                    | https://github.com/bit-trade-one/AD00009-USB_DELEGATER_B       | https://bit-trade-one.co.jp/delegaterb/                      |
 | AD00010  | 貼る タッチスイッチ・丸                            | https://github.com/bit-trade-one/AD00010_Touch_Switch_Circle | https://bit-trade-one.co.jp/product/module/ad00010/          |
 | AD00011  | Bit Touch                                          | https://github.com/bit-trade-one/AD00011_BitTouch            | https://bit-trade-one.co.jp/product/bitferrous/bittouch-2/   |
 | AD00012  | ASOOVU USB・かんたんUSB温度計（キット）            | https://github.com/bit-trade-one/AD00012_ASOOVU_USB_thermometer_kit | https://bit-trade-one.co.jp/product/asoovu/                  |
@@ -23,8 +23,8 @@
 | AD00019  | 透明シール型タッチスイッチ （マルチタイプ）        | https://github.com/bit-trade-one/AD00019_Clear_Touchswitch_multi | https://bit-trade-one.co.jp/product/module/ad00019/          |
 | AD00020  | USB赤外線リモコン（キット）                        | https://github.com/bit-trade-one/AD00020-USB_IR_Remote_Controller | https://bit-trade-one.co.jp/product/assemblydisk/ad00020/    |
 | AD00020P | USB赤外線リモコン（組立済）                        | https://github.com/bit-trade-one/AD00020-USB_IR_Remote_Controller | https://bit-trade-one.co.jp/product/assemblydisk/ad00020/    |
-| AD00023  | USB接続 充電容量チェッカー（キット）               | https://github.com/bit-trade-one/AD00023P_USB_Charge_Capacity_Checher_P | https://bit-trade-one.co.jp/product/assemblydisk/ad00023/    |
-| AD00023P | USB接続 充電容量チェッカー（組立済）               | https://github.com/bit-trade-one/AD00023P_USB_Charge_Capacity_Checher_P | https://bit-trade-one.co.jp/product/assemblydisk/ad00023/    |
+| AD00023  | USB接続 充電容量チェッカー（キット）               | https://github.com/bit-trade-one/AD00023_USB_Charge_Capacity_Checher | https://bit-trade-one.co.jp/product/assemblydisk/ad00023/    |
+| AD00023P | USB接続 充電容量チェッカー（組立済）               | https://github.com/bit-trade-one/AD00023_USB_Charge_Capacity_Checher | https://bit-trade-one.co.jp/product/assemblydisk/ad00023/    |
 | AD00026  | 電流帰還アンプ（キット）                           | https://github.com/bit-trade-one/AD00026_Current_Feedback_Amplifier | https://bit-trade-one.co.jp/product/assemblydisk/ad00026/    |
 | AD00026P | 電流帰還アンプ(組立済)                             | https://github.com/bit-trade-one/AD00026_Current_Feedback_Amplifier | https://bit-trade-one.co.jp/product/assemblydisk/ad00026/    |
 | AD00030  | カプセルスピーカー【 ポポポンプ 】（キット）       | https://github.com/bit-trade-one/AD00030_Po_Po_Pomp          | https://bit-trade-one.co.jp/product/assemblydisk/ad00030/    |
@@ -33,8 +33,9 @@
 | ADEC02   | 静電容量式 近接センサモジュール                              | https://github.com/bit-trade-one/ADEC02-Capacity-Proximity-sensor | https://bit-trade-one.co.jp/product/module/adec02/        |
 | ADFCS01  | 静電容量式フィルムセンサ開発ボード                           | https://github.com/bit-trade-one/ADFCS01_Capacity_Film_Sensor | https://bit-trade-one.co.jp/product/module/adfcs01/       |
 | ADTCS    | 触るだけでPCをコントロール！ 「超小型USBタッチスイッチ」     | https://github.com/bit-trade-one/ADTCS                       | https://bit-trade-one.co.jp/adtcs/                        |
-| ADTEDM   | 触感デバイス体感モジュール 1Ch モノラル                      | https://github.com/bit-trade-one/ADTEDM_Haptic_Device_Module_Monoral | https://bit-trade-one.co.jp/product/module/adtedm/        |
-| ADTEDS   | 触感デバイス体感モジュール 2Ch ステレオ                      | https://github.com/bit-trade-one/ADTEDM_Haptic_Device_Module_Monoral | https://bit-trade-one.co.jp/product/module/adtedm/        |
+| ADTEDM   | 触感デバイス体感モジュール 1Ch モノラル                      | https://github.com/bit-trade-one/ADTED_Haptic_Device_Module | https://bit-trade-one.co.jp/product/module/adtedm/        |
+| ADTEDS   | 触感デバイス体感モジュール 2Ch ステレオ                      | https://github.com/bit-trade-one/ADTED_Haptic_Device_Module | https://bit-trade-one.co.jp/product/module/adtedm/        |
+
 | ADIR01P  | USB赤外線リモコンアドバンス                                  | https://github.com/bit-trade-one/ADIR01P-USB_IR_Remote_Controller_Advance | https://bit-trade-one.co.jp/product/module/adir01p/       |
 | ADRADVA  | REVIVE USB -ADVANCE-                                         | https://github.com/bit-trade-one/ADRADVA-REVIVE-ADVANCE      | https://bit-trade-one.co.jp/adradva/                      |
 | ADRVBRB  | REVIVE USB MICROマトリクスブレイクアウトボード 端子台付      | https://github.com/bit-trade-one/ADRVMIC-REVIVE-USB-Micro    | https://bit-trade-one.co.jp/adrvbrb/                      |
@@ -43,8 +44,6 @@
 | ADSU01   | USB録音・音源再生モジュール                                  | https://github.com/bit-trade-one/ADSU01_Sound_Player_Module  | https://bit-trade-one.co.jp/product/module/adsu01/        |
 | ADSU01TB | USB録音・音源再生モジュール評価ボードセット（組立済）        | https://github.com/bit-trade-one/ADSU01TB_Sound_Player_Module_reference_board | https://bit-trade-one.co.jp/product/module/adsu01tb/      |
 | ADTCS    | 触るだけでPCをコントロール！ 「超小型USBタッチスイッチ」     | https://github.com/bit-trade-one/ADTCS                       | https://bit-trade-one.co.jp/adtcs/                        |
-| ADTEDM   | 触感デバイス体感モジュール 1Ch モノラル                      | https://github.com/bit-trade-one/ADTEDM_Haptic_Device_Module_Monoral | https://bit-trade-one.co.jp/product/module/adtedm/        |
-| ADTEDS   | 触感デバイス体感モジュール 2Ch ステレオ                      | https://github.com/bit-trade-one/ADTEDM_Haptic_Device_Module_Monoral | https://bit-trade-one.co.jp/product/module/adtedm/        |
 | ADU2B01P | USB HID Bluetooth変換アダプタキット USB2BT（組立済）         | https://github.com/bit-trade-one/ADU2BT01_USB2BT_Kit         | https://bit-trade-one.co.jp/product/assemblydisk/adu2b01/ |
 
 
@@ -150,9 +149,9 @@
 | ADRSBB | Raspberry Pi 用ブレッドボード基板 | https://github.com/bit-trade-one/ADRSBB-RaspberryPi-breadboard | https://bit-trade-one.co.jp/product/module/adrsbb/ |
 | ADRSEZCO | Raspberry Pi 用端子台出力基板 | https://github.com/bit-trade-one/ADRSEZCO-RaspberryPi-Terminal-board | https://bit-trade-one.co.jp/product/module/adrsezco/ |
 | ADRSIR | ラズベリー・パイ専用 学習リモコン基板 | https://github.com/bit-trade-one/ADRSIR_RaspberryPi_IR_Leaning_Controller | https://bit-trade-one.co.jp/product/module/adrsir/ |
-| ADRSRU2 | Raspberry Pi 用リレー制御拡張基板 2回路版 | https://github.com/bit-trade-one/ADRSRU2-RaspberryPi-Relay-Unit | https://bit-trade-one.co.jp/product/module/adrsru/ |
-| ADRSRU4 | Raspberry Pi 用リレー制御拡張基板 4回路版 | https://github.com/bit-trade-one/ADRSRU2-RaspberryPi-Relay-Unit | https://bit-trade-one.co.jp/product/module/adrsru/ |
-| ADRSRU8 | Raspberry Pi 用リレー制御拡張基板 8回路版 | https://github.com/bit-trade-one/ADRSRU2-RaspberryPi-Relay-Unit | https://bit-trade-one.co.jp/product/module/adrsru/ |
+| ADRSRU2 | Raspberry Pi 用リレー制御拡張基板 2回路版 | https://github.com/bit-trade-one/ADRSRU-RaspberryPi-Relay-Unit | https://bit-trade-one.co.jp/product/module/adrsru/ |
+| ADRSRU4 | Raspberry Pi 用リレー制御拡張基板 4回路版 | https://github.com/bit-trade-one/ADRSRU-RaspberryPi-Relay-Unit | https://bit-trade-one.co.jp/product/module/adrsru/ |
+| ADRSRU8 | Raspberry Pi 用リレー制御拡張基板 8回路版 | https://github.com/bit-trade-one/ADRSRU-RaspberryPi-Relay-Unit | https://bit-trade-one.co.jp/product/module/adrsru/ |
 | ADRSSSDML | 汎用USB接続7セグメントLEDコントロールボード  大7セグ+制御ボード | https://github.com/bit-trade-one/ADRSSS-7segLED | https://bit-trade-one.co.jp/adrsss/ |
 | ADRSSSDMM | 汎用USB接続7セグメントLEDコントロールボード 中7セグ+制御ボード | https://github.com/bit-trade-one/ADRSSS-7segLED | https://bit-trade-one.co.jp/adrsss/ |
 | ADRSSSDMS | 汎用USB接続7セグメントLEDコントロールボード  小7セグ+制御ボード | https://github.com/bit-trade-one/ADRSSS-7segLED | https://bit-trade-one.co.jp/adrsss/ |
