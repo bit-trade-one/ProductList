@@ -3,10 +3,7 @@
 
 
 
-<details>
-<summary> BitTradeOneブランド モジュール・タッチデバイス等 </summary>
-<pre>
-<code>
+## BitTradeOneブランド モジュール・タッチデバイス等 
 
 | 型番 | 製品名 | レポジトリリンク | 製品ページリンク(自社HP) |
 | -------- | -------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -50,14 +47,10 @@
 | ADTEDS   | 触感デバイス体感モジュール 2Ch ステレオ                      | https://github.com/bit-trade-one/ADTEDM_Haptic_Device_Module_Monoral | https://bit-trade-one.co.jp/product/module/adtedm/        |
 | ADU2B01P | USB HID Bluetooth変換アダプタキット USB2BT（組立済）         | https://github.com/bit-trade-one/ADU2BT01_USB2BT_Kit         | https://bit-trade-one.co.jp/product/assemblydisk/adu2b01/ |
 
-</code>
-</pre>
-</details>
 
-<details>
-<summary>雑誌連動製品（CQ出版・技術評論社・日経BP・シェルスクリプトマガジン・ラジオライフ等）</summary>
-<pre>
-<code>
+<br><br>
+## 雑誌連動製品（CQ出版・技術評論社・日経BP・シェルスクリプトマガジン・ラジオライフ等）
+
 
 | 型番         | 製品名                                                       | レポジトリリンク                                             | 製品ページリンク(自社HP)                                     |
 | ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -124,14 +117,10 @@
 | ADRL07 | 奇天烈電子工作 インバータモニター                    |                  | https://bit-trade-one.co.jp/adrl07/ |
 | ADRL12 | 奇天烈電子工作 ハードディスク連動LEDイルミネーション |                  | https://bit-trade-one.co.jp/adrl12/ |
 
-</code>
-</pre>
-</details>
 
-<details>
-<summary>デバイス製品 USB2BTPやUSBCableChecker2など</summary>
-<pre>
-<code>
+<br><br>
+## デバイス製品 USB2BTPやUSBCableChecker2など
+
 
 | 型番           | 製品名                   | レポジトリリンク            | 製品ページリンク(自社HP)    |
 | -------------- | ------------------------ | --------------------------- | --------------------------- |
@@ -145,14 +134,9 @@
 | BFHC2BK | 浪漫型パドルコントローラー　Horizontal Controller EX         | https://github.com/bit-trade-one/HorizontalControllerEX | https://bit-trade-one.co.jp/product/bitferrous/bfhc2bk/ |
 | BFTP01Y | 浪漫型ギターエフェクタースタイル USBフットペダル【TonePedal+】 | https://github.com/bit-trade-one/tone-pedal             | https://bit-trade-one.co.jp/product/bitferrous/bftp01y/ |
 
-</code>
-</pre>
-</details>
+<br><br>
+## IoT製品 Rhaspberry Pi関連 ゼロワンシリーズ
 
-<details>
-<summary>IoT製品 Rhaspberry Pi関連 ゼロワンシリーズ</summary>
-<pre>
-<code>
 
 | 型番           | 製品名                   | レポジトリリンク            | 製品ページリンク(自社HP)    |
 | -------------- | ------------------------ | --------------------------- | --------------------------- |
@@ -198,8 +182,5 @@
 | ADRSZSW | ゼロワン 照光スイッチ拡張基板 | https://github.com/bit-trade-one/RasPi-Zero-One-Series | https://bit-trade-one.co.jp/product/module/adrszsw/ |
 | ADRSZUP | ゼロワン 電源保持基板 | https://github.com/bit-trade-one/RasPi-Zero-One-Series | https://bit-trade-one.co.jp/adrszup/ |
 
-</code>
-</pre>
-</details>
 
 
