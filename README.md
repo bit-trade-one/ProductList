@@ -8,7 +8,7 @@
 | 型番 | 製品名 | レポジトリリンク | 製品ページリンク(自社HP) |
 | -------- | -------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | AD00001  | 自動車用デジタルスピードメータ/青（キット）        | https://github.com/bit-trade-one/AD00001-Digital-Speed-Meter | https://bit-trade-one.co.jp/product/assemblydisk/ad00001/    |
-| AD00002  | 静電容量式タッチセンサモジュール                   |                                                              | https://bit-trade-one.co.jp/product/module/ad00002/          |
+| AD00002  | 静電容量式タッチセンサモジュール                   | https://github.com/bit-trade-one/AD00002-TouchSensorModule                                                             | https://bit-trade-one.co.jp/product/module/ad00002/          |
 | AD00003  | 自動車用デジタルスピードメータ/赤（キット）        | https://github.com/bit-trade-one/AD00001-Digital-Speed-Meter | [https://bit-trade-one.co.jp/product/assemblydisk/ad00003/](https://bit-trade-one.co.jp/product/assemblydisk/ad00001/) |
 | AD00007  | REVIVE USB（キット）                               | https://github.com/bit-trade-one/AD00007-REVIVE-USB          | https://bit-trade-one.co.jp/product/assemblydisk/revive-usb/ |
 | AD00007P | REVIVE USB（組立済）                               | https://github.com/bit-trade-one/AD00007-REVIVE-USB          | https://bit-trade-one.co.jp/product/assemblydisk/revive-usb/ |
@@ -35,7 +35,6 @@
 | ADTCS    | 触るだけでPCをコントロール！ 「超小型USBタッチスイッチ」     | https://github.com/bit-trade-one/ADTCS                       | https://bit-trade-one.co.jp/adtcs/                        |
 | ADTEDM   | 触感デバイス体感モジュール 1Ch モノラル                      | https://github.com/bit-trade-one/ADTED_Haptic_Device_Module | https://bit-trade-one.co.jp/product/module/adtedm/        |
 | ADTEDS   | 触感デバイス体感モジュール 2Ch ステレオ                      | https://github.com/bit-trade-one/ADTED_Haptic_Device_Module | https://bit-trade-one.co.jp/product/module/adtedm/        |
-
 | ADIR01P  | USB赤外線リモコンアドバンス                                  | https://github.com/bit-trade-one/ADIR01P-USB_IR_Remote_Controller_Advance | https://bit-trade-one.co.jp/product/module/adir01p/       |
 | ADRADVA  | REVIVE USB -ADVANCE-                                         | https://github.com/bit-trade-one/ADRADVA-REVIVE-ADVANCE      | https://bit-trade-one.co.jp/adradva/                      |
 | ADRVBRB  | REVIVE USB MICROマトリクスブレイクアウトボード 端子台付      | https://github.com/bit-trade-one/ADRVMIC-REVIVE-USB-Micro    | https://bit-trade-one.co.jp/adrvbrb/                      |
