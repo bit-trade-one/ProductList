@@ -130,8 +130,8 @@
 | ADCRBT | クアッド・クローラー                                         | https://github.com/bit-trade-one/QuadCrawler                 | https://bit-trade-one.co.jp/adcrbt/ |
 | ADKRBT | プログラミング学習向け工作キット"リモコンロボ"               | https://github.com/bit-trade-one/ADKRBT_Remocon_Robo         | https://bit-trade-one.co.jp/adkrbt/ |
 | ADKRJS | リモコンロボ/クアッド・クローラー対応　赤外線ジョイスティックリモコン | https://github.com/bit-trade-one/ADKRJS_Remocon_Robo_Joystick_Controller | https://bit-trade-one.co.jp/adkrbt/ |
-| BFHC2BK | 浪漫型パドルコントローラー　Horizontal Controller EX         | https://github.com/bit-trade-one/HorizontalControllerEX | https://bit-trade-one.co.jp/product/bitferrous/bfhc2bk/ |
-| BFTP01Y | 浪漫型ギターエフェクタースタイル USBフットペダル【TonePedal+】 | https://github.com/bit-trade-one/tone-pedal             | https://bit-trade-one.co.jp/product/bitferrous/bftp01y/ |
+| BFHC2BK | 浪漫型パドルコントローラー　Horizontal Controller EX         | https://github.com/bit-trade-one/BFHC2-HorizontalControllerEX | https://bit-trade-one.co.jp/product/bitferrous/bfhc2bk/ |
+| BFTP01Y | 浪漫型ギターエフェクタースタイル USBフットペダル【TonePedal+】 | https://github.com/bit-trade-one/BFTP01-tone-pedal             | https://bit-trade-one.co.jp/product/bitferrous/bftp01y/ |
 
 <br><br>
 ## IoT製品 Rhaspberry Pi関連 ゼロワンシリーズ
