@@ -29,7 +29,7 @@
 | AD00026P | 電流帰還アンプ(組立済)                             | https://github.com/bit-trade-one/AD00026_Current_Feedback_Amplifier | https://bit-trade-one.co.jp/product/assemblydisk/ad00026/    |
 | AD00030  | カプセルスピーカー【 ポポポンプ 】（キット）       | https://github.com/bit-trade-one/AD00030_Po_Po_Pomp          | https://bit-trade-one.co.jp/product/assemblydisk/ad00030/    |
 | AD00032  | 電流帰還方式ポータブルヘッドフォンアンプ（組立済） | https://github.com/bit-trade-one/AD00032_Current_Feedback_Headphone_Amp | https://bit-trade-one.co.jp/product/bitferrous/ad00032/      |
-| ADBLE01P | Bluetooth Low Energy搭載 IoT実験ボード BLE静電容量式センサIoT開発キット |https://github.com/bit-trade-one/ADBLE01P_BLE_Capacity_TouchSensor_DevKit  | https://bit-trade-one.co.jp/product/module/adble01p/       |
+| ADBLE01P | Bluetooth Low Energy搭載 IoT実験ボード BLE静電容量式センサIoT開発キット | https://github.com/bit-trade-one/ADBLE01P_BLE_Capacity_TouchSensor_DevKit  | https://bit-trade-one.co.jp/product/module/adble01p/       |
 | ADEC02   | 静電容量式 近接センサモジュール                              | https://github.com/bit-trade-one/ADEC02-Capacity-Proximity-sensor | https://bit-trade-one.co.jp/product/module/adec02/        |
 | ADFCS01  | 静電容量式フィルムセンサ開発ボード                           | https://github.com/bit-trade-one/ADFCS01_Capacity_Film_Sensor | https://bit-trade-one.co.jp/product/module/adfcs01/       |
 | ADTCS    | 触るだけでPCをコントロール！ 「超小型USBタッチスイッチ」     | https://github.com/bit-trade-one/ADTCS                       | https://bit-trade-one.co.jp/adtcs/                        |
