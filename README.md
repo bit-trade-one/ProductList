@@ -10,8 +10,8 @@
 | AD00001  | 自動車用デジタルスピードメータ/青（キット）        | https://github.com/bit-trade-one/AD00001-Digital-Speed-Meter | https://bit-trade-one.co.jp/product/assemblydisk/ad00001/    |
 | AD00002  | 静電容量式タッチセンサモジュール                   | https://github.com/bit-trade-one/AD00002-TouchSensorModule                                                             | https://bit-trade-one.co.jp/product/module/ad00002/          |
 | AD00003  | 自動車用デジタルスピードメータ/赤（キット）        | https://github.com/bit-trade-one/AD00001-Digital-Speed-Meter | [https://bit-trade-one.co.jp/product/assemblydisk/ad00003/](https://bit-trade-one.co.jp/product/assemblydisk/ad00001/) |
-| AD00007  | REVIVE USB（キット）                               | https://github.com/bit-trade-one/AD00007-REVIVE-USB          | https://bit-trade-one.co.jp/product/assemblydisk/revive-usb/ |
-| AD00007P | REVIVE USB（組立済）                               | https://github.com/bit-trade-one/AD00007-REVIVE-USB          | https://bit-trade-one.co.jp/product/assemblydisk/revive-usb/ |
+| AD00007  | REVIVE USB（キット）                               | https://github.com/bit-trade-one/REVIVE-USB          | https://bit-trade-one.co.jp/product/assemblydisk/revive-usb/ |
+| AD00007P | REVIVE USB（組立済）                               | https://github.com/bit-trade-one/REVIVE-USB          | https://bit-trade-one.co.jp/product/assemblydisk/revive-usb/ |
 | AD00008  | ASOOVU USB                                         | https://github.com/bit-trade-one/AD00008-ASOOVU_USB          | https://bit-trade-one.co.jp/product/asoovu/                  |
 | AD00009B | USB DELEGATER B                                    | https://github.com/bit-trade-one/AD00009-USB_DELEGATER_B       | https://bit-trade-one.co.jp/delegaterb/                      |
 | AD00010  | 貼る タッチスイッチ・丸                            | https://github.com/bit-trade-one/AD00010_Touch_Switch_Circle | https://bit-trade-one.co.jp/product/module/ad00010/          |
