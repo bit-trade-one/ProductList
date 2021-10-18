@@ -33,6 +33,8 @@
 | ADEC02   | 静電容量式 近接センサモジュール                              | https://github.com/bit-trade-one/ADEC02-Capacity-Proximity-sensor | https://bit-trade-one.co.jp/product/module/adec02/        |
 | ADFCS01  | 静電容量式フィルムセンサ開発ボード                           | https://github.com/bit-trade-one/ADFCS01_Capacity_Film_Sensor | https://bit-trade-one.co.jp/product/module/adfcs01/       |
 | ADTCS    | 触るだけでPCをコントロール！ 「超小型USBタッチスイッチ」     | https://github.com/bit-trade-one/ADTCS                       | https://bit-trade-one.co.jp/adtcs/                        |
+| ADACHACY  | デジタル版 触感デバイス開発モジュール“hapStak”        | https://github.com/bit-trade-one/ADACHACY-hapStak | https://bit-trade-one.co.jp/hapstak/    |
+| ADTEDCY  | アナログ版 触感デバイス体感モジュール“hapStak”        | https://github.com/bit-trade-one/ADACHACY-hapStak | https://bit-trade-one.co.jp/hapstak/    |
 | ADTEDM   | 触感デバイス体感モジュール 1Ch モノラル                      | https://github.com/bit-trade-one/ADTED_Haptic_Device_Module | https://bit-trade-one.co.jp/product/module/adtedm/        |
 | ADTEDS   | 触感デバイス体感モジュール 2Ch ステレオ                      | https://github.com/bit-trade-one/ADTED_Haptic_Device_Module | https://bit-trade-one.co.jp/product/module/adtedm/        |
 | ADIR01P  | USB赤外線リモコンアドバンス                                  | https://github.com/bit-trade-one/ADIR01P-USB_IR_Remote_Controller_Advance | https://bit-trade-one.co.jp/product/module/adir01p/       |
