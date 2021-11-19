@@ -2,6 +2,8 @@
 各製品へのリンク一覧・検索用レポジトリです。  
 製品の型番もしくは製品名を検索し、個別のページをご確認ください。  
 (Ctrl + F などのページ内検索を使うと便利です。)  
+![CtrlFSearch](https://bit-trade-one.co.jp/wp/wp-content/uploads/2021/11/CtrlF.png)
+
 [GitHubを利用したファイルのダウンロード方法について](https://bit-trade-one.co.jp/h2gh/)  
 ## BitTradeOneブランド モジュール・タッチデバイス等 
 
