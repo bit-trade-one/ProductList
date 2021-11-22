@@ -5,7 +5,7 @@
 ### [ダウンロード方法がわからない方はこちら(使用方法記事リンク)](https://bit-trade-one.co.jp/h2gh/)  
 ## BitTradeOneブランド モジュール・タッチデバイス等 
 
-| 型番 | 製品名/レポジトリリンク | 製品ページリンク(自社HP) |
+| 型番 | 製品名/レポジトリリンク | 製品ページリンク(BTO_HP) |
 | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | <a id="AD00001">AD00001</a>  | [自動車用デジタルスピードメータ/青（キット）](https://github.com/bit-trade-one/AD00001-Digital-Speed-Meter) |  https://bit-trade-one.co.jp/product/assemblydisk/ad00001/    |
 | <a id="AD00002">AD00002</a>  | [静電容量式タッチセンサモジュール](https://github.com/bit-trade-one/AD00002-TouchSensorModule) |  https://bit-trade-one.co.jp/product/module/ad00002/|
