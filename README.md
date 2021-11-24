@@ -52,7 +52,7 @@
 ## 雑誌連動製品（CQ出版・技術評論社・日経BP・シェルスクリプトマガジン・ラジオライフ等）
 
 
-| 型番| 製品名/レポジトリリンク| 製品ページリンク(自社HP)|
+| 型番| 製品名/レポジトリリンク| 製品ページリンク(BTO_HP)|
 | ------------ |------------------------------------------------------------ | ------------------------------------------------------------ |
 | <a id="ADCQ1611AKRE">ADCQ1611AKRE</a> | [PICスパコン ラズベリーパイ拡張モジュール PiCCASO キット      ](https://github.com/bit-trade-one/ADCQ1611AP_CQ_PICCASO) |  https://bit-trade-one.co.jp/product/module/adcq1611ap/|
 | <a id="ADCQ1611APRE">ADCQ1611APRE</a> | [PICスパコン ラズベリーパイ拡張モジュール PiCCASO 組立済      ](https://github.com/bit-trade-one/ADCQ1611AP_CQ_PICCASO) |  https://bit-trade-one.co.jp/product/module/adcq1611ap/|
@@ -122,7 +122,7 @@
 ## デバイス製品 USB2BTPやUSBCableChecker2など
 
 
-| 型番| 製品名/レポジトリリンク| 製品ページリンク(自社HP)    |
+| 型番| 製品名/レポジトリリンク| 製品ページリンク(BTO_HP)    |
 | -------------- | --------------------------- | --------------------------- |
 | <a id="ADU2B02P">ADU2B02P</a> | [USB2BT PLUS](https://github.com/bit-trade-one/ADU2B02P_USB2BT_Plus) |  https://bit-trade-one.co.jp/product/module/usb2btp/|
 | <a id="ADUSBCIM">ADUSBCIM</a> | [USB CABLE CHECKER 2](https://github.com/bit-trade-one/USBCableChecker2) |  https://bit-trade-one.co.jp/adusbcim/|
@@ -138,7 +138,7 @@
 ## IoT製品 Rhaspberry Pi関連 ゼロワンシリーズ
 
 
-| 型番| 製品名/レポジトリリンク| 製品ページリンク(自社HP)    |
+| 型番| 製品名/レポジトリリンク| 製品ページリンク(BTO_HP)    |
 | -------------- | ------------------------ |--------------------------- |
 | <a id="ADAUDIR">ADAUDIR</a>   | [アルディーノ専用 学習リモコン基板](https://github.com/bit-trade-one/ADAUDIR_Arduino_IR_Remocon) |  https://bit-trade-one.co.jp/product/module/adaudir/  |
 | <a id="ADICGIR">ADICGIR</a>   | IchigoJam専用学習リモコン基板| https://bit-trade-one.co.jp/adicgir/|
