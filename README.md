@@ -135,12 +135,13 @@
 | <a id="BFTP01Y">BFTP01Y</a> | [浪漫型ギターエフェクタースタイル USBフットペダル【TonePedal+】 ](https://github.com/bit-trade-one/BFTP01-tone-pedal) |  https://bit-trade-one.co.jp/product/bitferrous/bftp01y/ |
 
 <br><br>
-## IoT製品 Rhaspberry Pi関連 ゼロワンシリーズ
+## IoT製品・Rhaspberry Pi関連・ゼロワンシリーズ等
 
 
 | 型番| 製品名/レポジトリリンク| 製品ページリンク(BTO_HP)    |
 | -------------- | ------------------------ |--------------------------- |
 | <a id="ADAUDIR">ADAUDIR</a>   | [アルディーノ専用 学習リモコン基板](https://github.com/bit-trade-one/ADAUDIR_Arduino_IR_Remocon) |  https://bit-trade-one.co.jp/product/module/adaudir/  |
+| <a id="ADRSRTC">ADRSRTC</a>   | [ラズベリーパイ専用リアルタイムクロック拡張ボード](https://github.com/bit-trade-one/ADRSRTC-RTC-HAT) |  https://bit-trade-one.co.jp/adrsrtc  |
 | <a id="ADICGIR">ADICGIR</a>   | IchigoJam専用学習リモコン基板| https://bit-trade-one.co.jp/adicgir/|
 | <a id="ADJTSB01">ADJTSB01</a>  | シェルスクリプトマガジン連動！Jetson ＆ Pi 電力測定ボード    | https://bit-trade-one.co.jp/adjtsb01/|
 | <a id="ADJTSB01B">ADJTSB01B</a> | シェルスクリプトマガジン連動！Jetson ＆ Pi 電力測定ボード 書籍同梱版 | https://bit-trade-one.co.jp/adjtsb01/|
