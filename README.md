@@ -139,9 +139,9 @@
 | 型番 | 製品名/レポジトリリンク | 製品ページリンク(BTO_HP) |
 | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | <a id="ADKB96">ADKB96</a>  | [96キー セルフメイドキーボードキットADKB96](https://github.com/bit-trade-one/ADKB96-hardware) |  https://bit-trade-one.co.jp/selfmadekb/adkb96/   |
-| <a id="ADSKB42">AADSKB42</a>  | [56キー セルフメイドキーボードキットERGO42](https://github.com/bit-trade-one/adskb42) | https://bit-trade-one.co.jp/selfmadekb/adskb42/   |
-| <a id="ADSKBCC">AADSKBCC</a>  | [半田付けのいらない42キー スプリットキーボードキットCorne Cherry](https://github.com/bit-trade-one/crkbd) | https://bit-trade-one.co.jp/selfmadekb/adskbcc/  |
-<br><br>
+| <a id="ADSKB42">ADSKB42</a>  | [56キー セルフメイドキーボードキットERGO42](https://github.com/bit-trade-one/adskb42) | https://bit-trade-one.co.jp/selfmadekb/adskb42/   |
+| <a id="ADSKBCC">ADSKBCC</a>  | [半田付けのいらない42キー スプリットキーボードキットCorne Cherry](https://github.com/bit-trade-one/crkbd) | https://bit-trade-one.co.jp/selfmadekb/adskbcc/  |
+
 ## IoT製品・Rhaspberry Pi関連・ゼロワンシリーズ等
 
 
