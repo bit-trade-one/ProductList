@@ -134,6 +134,13 @@
 | <a id="BFHC2BK">BFHC2BK</a> | [浪漫型パドルコントローラー　Horizontal Controller EX](https://github.com/bit-trade-one/BFHC2-HorizontalControllerEX) |  https://bit-trade-one.co.jp/product/bitferrous/bfhc2bk/ |
 | <a id="BFTP01Y">BFTP01Y</a> | [浪漫型ギターエフェクタースタイル USBフットペダル【TonePedal+】 ](https://github.com/bit-trade-one/BFTP01-tone-pedal) |  https://bit-trade-one.co.jp/product/bitferrous/bftp01y/ |
 
+## 自作キーボード関連等
+
+| 型番 | 製品名/レポジトリリンク | 製品ページリンク(BTO_HP) |
+| -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <a id="ADKB96">ADKB96</a>  | [96キー セルフメイドキーボードキットADKB96](https://github.com/bit-trade-one/ADKB96-hardware) |  https://bit-trade-one.co.jp/selfmadekb/adkb96/   |
+| <a id="ADSKB42">AADSKB42</a>  | [56キー セルフメイドキーボードキットERGO42](https://github.com/bit-trade-one/adskb42) | https://bit-trade-one.co.jp/selfmadekb/adskb42/   |
+| <a id="ADSKBCC">AADSKBCC</a>  | [半田付けのいらない42キー スプリットキーボードキットCorne Cherry](https://github.com/bit-trade-one/crkbd) | https://bit-trade-one.co.jp/selfmadekb/adskbcc/  |
 <br><br>
 ## IoT製品・Rhaspberry Pi関連・ゼロワンシリーズ等
 
