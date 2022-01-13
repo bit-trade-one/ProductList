@@ -149,7 +149,7 @@
 | -------------- | ------------------------ |--------------------------- |
 | <a id="ADAUDIR">ADAUDIR</a>   | [アルディーノ専用 学習リモコン基板](https://github.com/bit-trade-one/ADAUDIR_Arduino_IR_Remocon) |  https://bit-trade-one.co.jp/product/module/adaudir/  |
 | <a id="ADRSRTC">ADRSRTC</a>   | [ラズベリーパイ専用リアルタイムクロック拡張ボード](https://github.com/bit-trade-one/ADRSRTC-RTC-HAT) |  https://bit-trade-one.co.jp/adrsrtc  |
-| <a id="ADICGIR">ADICGIR</a>   | [IchigoJam専用学習リモコン基板].(https://github.com/bit-trade-one/ADICGIR)| https://bit-trade-one.co.jp/adicgir/|
+| <a id="ADICGIR">ADICGIR</a>   | [IchigoJam専用学習リモコン基板](https://github.com/bit-trade-one/ADICGIR)| https://bit-trade-one.co.jp/adicgir/|
 | <a id="ADJTSB01">ADJTSB01</a>  | シェルスクリプトマガジン連動！Jetson ＆ Pi 電力測定ボード    | https://bit-trade-one.co.jp/adjtsb01/|
 | <a id="ADJTSB01B">ADJTSB01B</a> | シェルスクリプトマガジン連動！Jetson ＆ Pi 電力測定ボード 書籍同梱版 | https://bit-trade-one.co.jp/adjtsb01/|
 | <a id="ADMU32F">ADMU32F</a> | [WiFi対応！ロボット・工作キットを拡張！ 多機能リモコンボード「Duke32AIO」 ](https://github.com/bit-trade-one/ADMU32F-Duke32) |  https://bit-trade-one.co.jp/admu32f/ |
