@@ -46,7 +46,7 @@
 | <a id="ADSU01TB">ADSU01TB</a> | [USB録音・音源再生モジュール評価ボードセット（組立済）](https://github.com/bit-trade-one/ADSU01TB_Sound_Player_Module_reference_board) |  https://bit-trade-one.co.jp/product/module/adsu01tb/      |
 | <a id="ADTCS">ADTCS</a>    | [触るだけでPCをコントロール！ 「超小型USBタッチスイッチ」     ](https://github.com/bit-trade-one/ADTCS) |  https://bit-trade-one.co.jp/adtcs/|
 | <a id="ADU2B01P">ADU2B01P</a> | [USB HID Bluetooth変換アダプタキット USB2BT（組立済）](https://github.com/bit-trade-one/ADU2BT01_USB2BT_Kit) |  https://bit-trade-one.co.jp/product/assemblydisk/adu2b01/ |
-
+| <a id="ADIRRVMD">ADIRRVMD</a> | [USB赤外線リモコン受光アダプタ](https://github.com/bit-trade-one/ADIRRVMD-USB-IR-Receive-Adapter) |  https://bit-trade-one.co.jp/adirrvmd |
 
 <br><br>
 ## 雑誌連動製品（CQ出版・技術評論社・日経BP・シェルスクリプトマガジン・ラジオライフ等）
