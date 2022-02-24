@@ -130,6 +130,7 @@
 | <a id="BTIC2">BTIC2</a>    | [低遅延型インターフェース変換装置　変わる君](https://github.com/bit-trade-one/BTIC2-KawaruKun) |  https://bit-trade-one.co.jp/product/bitferrous/btic2/     |
 | <a id="ADCRBT">ADCRBT</a> | [クアッド・クローラー](https://github.com/bit-trade-one/QuadCrawler) |  https://bit-trade-one.co.jp/adcrbt/ |
 | <a id="ADKRBT">ADKRBT</a> | [プログラミング学習向け工作キット"リモコンロボ"](https://github.com/bit-trade-one/ADKRBT_Remocon_Robo) |  https://bit-trade-one.co.jp/adkrbt/ |
+| <a id="ADCRKTR1">ADCRKTR1</a> | [Arduino制御入門用ロボットキット 「KTR-1」](https://github.com/bit-trade-one/ADCRKTR1-KTR-1) |  https://bit-trade-one.co.jp/adcrktr1/ |
 | <a id="ADKRJS">ADKRJS</a> | [リモコンロボ/クアッド・クローラー対応　赤外線ジョイスティックリモコン ](https://github.com/bit-trade-one/ADKRJS_Remocon_Robo_Joystick_Controller) |  https://bit-trade-one.co.jp/adkrbt/ |
 | <a id="BFHC2BK">BFHC2BK</a> | [浪漫型パドルコントローラー　Horizontal Controller EX](https://github.com/bit-trade-one/BFHC2-HorizontalControllerEX) |  https://bit-trade-one.co.jp/product/bitferrous/bfhc2bk/ |
 | <a id="BFTP01Y">BFTP01Y</a> | [浪漫型ギターエフェクタースタイル USBフットペダル【TonePedal+】 ](https://github.com/bit-trade-one/BFTP01-tone-pedal) |  https://bit-trade-one.co.jp/product/bitferrous/bftp01y/ |
