@@ -4,11 +4,20 @@
 (Ctrl + F などのページ内検索を使うと便利です。)  
 #### 各ページからのダウンロード方法は[こちら](https://bit-trade-one.co.jp/h2gh/)の記事で紹介しています。
 
+---
+
+## 目次
+- [BitTradeOneブランド モジュール・タッチデバイス等 ](https://github.com/bit-trade-one/ProductList/edit/main/README.md#bittradeone%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89-%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E3%82%BF%E3%83%83%E3%83%81%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9%E7%AD%89)
+- [雑誌連動製品（CQ出版・技術評論社・日経BP・シェルスクリプトマガジン・ラジオライフ等）](https://github.com/bit-trade-one/ProductList/edit/main/README.md#%E9%9B%91%E8%AA%8C%E9%80%A3%E5%8B%95%E8%A3%BD%E5%93%81cq%E5%87%BA%E7%89%88%E6%8A%80%E8%A1%93%E8%A9%95%E8%AB%96%E7%A4%BE%E6%97%A5%E7%B5%8Cbp%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%83%88%E3%83%9E%E3%82%AC%E3%82%B8%E3%83%B3%E3%83%A9%E3%82%B8%E3%82%AA%E3%83%A9%E3%82%A4%E3%83%95%E7%AD%89)
+- [デバイス製品 USB2BTPやUSBCableChecker2など](https://github.com/bit-trade-one/ProductList/edit/main/README.md#%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9%E8%A3%BD%E5%93%81-usb2btp%E3%82%84usbcablechecker2%E3%81%AA%E3%81%A9)
+- [自作キーボード関連等](https://github.com/bit-trade-one/ProductList/edit/main/README.md#%E8%87%AA%E4%BD%9C%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E9%96%A2%E9%80%A3%E7%AD%89)
+- [IoT製品・Rhaspberry Pi関連・ゼロワンシリーズ等](https://github.com/bit-trade-one/ProductList/edit/main/README.md#iot%E8%A3%BD%E5%93%81rhaspberry-pi%E9%96%A2%E9%80%A3%E3%82%BC%E3%83%AD%E3%83%AF%E3%83%B3%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%E7%AD%89)
+
+---
+
 
 ## BitTradeOneブランド モジュール・タッチデバイス等 
 
-<details>
-<summary>クリックして展開</summary>
   
 | 型番 | 製品名/レポジトリリンク | 製品ページリンク(BTO_HP) |
 | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -55,12 +64,11 @@
 
 
 <br><br>
-</details>
+
 
 ## 雑誌連動製品（CQ出版・技術評論社・日経BP・シェルスクリプトマガジン・ラジオライフ等）
 
-<details>
-<summary>クリックして展開</summary>
+
 
 | 型番| 製品名/レポジトリリンク| 製品ページリンク(BTO_HP)|
 | ------------ |------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -129,12 +137,11 @@
 
 
 <br><br>
-</details>
+
   
 ## デバイス製品 USB2BTPやUSBCableChecker2など
 
-<details>
-<summary>クリックして展開</summary>
+
 
 | 型番| 製品名/レポジトリリンク| 製品ページリンク(BTO_HP)    |
 | -------------- | --------------------------- | --------------------------- |
@@ -150,12 +157,11 @@
 | <a id="BFTP01Y">BFTP01Y</a> | [浪漫型ギターエフェクタースタイル USBフットペダル【TonePedal+】 ](https://github.com/bit-trade-one/BFTP01-tone-pedal) |  https://bit-trade-one.co.jp/product/bitferrous/bftp01y/ |
 
 
-</details>
+
   
 ## 自作キーボード関連等
 
-<details>
-<summary>クリックして展開</summary>
+
 
 | 型番 | 製品名/レポジトリリンク | 製品ページリンク(BTO_HP) |
 | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -163,12 +169,11 @@
 | <a id="ADSKB42">ADSKB42</a>  | [56キー セルフメイドキーボードキットERGO42](https://github.com/bit-trade-one/adskb42) | https://bit-trade-one.co.jp/selfmadekb/adskb42/   |
 | <a id="ADSKBCC">ADSKBCC</a>  | [半田付けのいらない42キー スプリットキーボードキットCorne Cherry](https://github.com/bit-trade-one/crkbd) | https://bit-trade-one.co.jp/selfmadekb/adskbcc/  |
 
-</details>
+
 
 ## IoT製品・Rhaspberry Pi関連・ゼロワンシリーズ等
 
-<details>
-<summary>クリックして展開</summary>
+
 
 | 型番| 製品名/レポジトリリンク| 製品ページリンク(BTO_HP)    |
 | -------------- | ------------------------ |--------------------------- |
@@ -215,5 +220,5 @@
 | <a id="ADRSZSW">ADRSZSW</a> | [ゼロワン 照光スイッチ拡張基板 ](https://github.com/bit-trade-one/RasPi-Zero-One-Series) |  https://bit-trade-one.co.jp/product/module/adrszsw/ |
 | <a id="ADRSZUP">ADRSZUP</a> | [ゼロワン 電源保持基板 ](https://github.com/bit-trade-one/RasPi-Zero-One-Series) |  https://bit-trade-one.co.jp/adrszup/ |
 
-</details>
+
 
