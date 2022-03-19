@@ -3,8 +3,13 @@
 製品の型番もしくは製品名を検索し、個別のページより必要なデータをダウンロードしてください。  
 (Ctrl + F などのページ内検索を使うと便利です。)  
 #### 各ページからのダウンロード方法は[こちら](https://bit-trade-one.co.jp/h2gh/)の記事で紹介しています。
+
+
 ## BitTradeOneブランド モジュール・タッチデバイス等 
 
+<details>
+<summary>クリックして展開</summary>
+  
 | 型番 | 製品名/レポジトリリンク | 製品ページリンク(BTO_HP) |
 | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | <a id="AD00001">AD00001</a>  | [自動車用デジタルスピードメータ/青（キット）](https://github.com/bit-trade-one/AD00001-Digital-Speed-Meter) |  https://bit-trade-one.co.jp/product/assemblydisk/ad00001/    |
@@ -48,9 +53,14 @@
 | <a id="ADU2B01P">ADU2B01P</a> | [USB HID Bluetooth変換アダプタキット USB2BT（組立済）](https://github.com/bit-trade-one/ADU2BT01_USB2BT_Kit) |  https://bit-trade-one.co.jp/product/assemblydisk/adu2b01/ |
 | <a id="ADIRRVMD">ADIRRVMD</a> | [USB赤外線リモコン受光アダプタ](https://github.com/bit-trade-one/ADIRRVMD-USB-IR-Receive-Adapter) |  https://bit-trade-one.co.jp/adirrvmd |
 
+
 <br><br>
+</details>
+
 ## 雑誌連動製品（CQ出版・技術評論社・日経BP・シェルスクリプトマガジン・ラジオライフ等）
 
+<details>
+<summary>クリックして展開</summary>
 
 | 型番| 製品名/レポジトリリンク| 製品ページリンク(BTO_HP)|
 | ------------ |------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -119,8 +129,12 @@
 
 
 <br><br>
+</details>
+  
 ## デバイス製品 USB2BTPやUSBCableChecker2など
 
+<details>
+<summary>クリックして展開</summary>
 
 | 型番| 製品名/レポジトリリンク| 製品ページリンク(BTO_HP)    |
 | -------------- | --------------------------- | --------------------------- |
@@ -135,7 +149,13 @@
 | <a id="BFHC2BK">BFHC2BK</a> | [浪漫型パドルコントローラー　Horizontal Controller EX](https://github.com/bit-trade-one/BFHC2-HorizontalControllerEX) |  https://bit-trade-one.co.jp/product/bitferrous/bfhc2bk/ |
 | <a id="BFTP01Y">BFTP01Y</a> | [浪漫型ギターエフェクタースタイル USBフットペダル【TonePedal+】 ](https://github.com/bit-trade-one/BFTP01-tone-pedal) |  https://bit-trade-one.co.jp/product/bitferrous/bftp01y/ |
 
+
+</details>
+  
 ## 自作キーボード関連等
+
+<details>
+<summary>クリックして展開</summary>
 
 | 型番 | 製品名/レポジトリリンク | 製品ページリンク(BTO_HP) |
 | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -143,8 +163,12 @@
 | <a id="ADSKB42">ADSKB42</a>  | [56キー セルフメイドキーボードキットERGO42](https://github.com/bit-trade-one/adskb42) | https://bit-trade-one.co.jp/selfmadekb/adskb42/   |
 | <a id="ADSKBCC">ADSKBCC</a>  | [半田付けのいらない42キー スプリットキーボードキットCorne Cherry](https://github.com/bit-trade-one/crkbd) | https://bit-trade-one.co.jp/selfmadekb/adskbcc/  |
 
+</details>
+
 ## IoT製品・Rhaspberry Pi関連・ゼロワンシリーズ等
 
+<details>
+<summary>クリックして展開</summary>
 
 | 型番| 製品名/レポジトリリンク| 製品ページリンク(BTO_HP)    |
 | -------------- | ------------------------ |--------------------------- |
@@ -191,5 +215,5 @@
 | <a id="ADRSZSW">ADRSZSW</a> | [ゼロワン 照光スイッチ拡張基板 ](https://github.com/bit-trade-one/RasPi-Zero-One-Series) |  https://bit-trade-one.co.jp/product/module/adrszsw/ |
 | <a id="ADRSZUP">ADRSZUP</a> | [ゼロワン 電源保持基板 ](https://github.com/bit-trade-one/RasPi-Zero-One-Series) |  https://bit-trade-one.co.jp/adrszup/ |
 
-
+</details>
 
