@@ -22,7 +22,7 @@
 ## BitTradeOneブランド モジュール,タッチデバイス等
 [トップへ戻る](#productlist)
   
-| 型番 | 製品名/レポジトリリンク | 製品ページリンク(BTO_HP) |
+| 型番 | 製品名/サポートページリンク | 製品ページリンク(BTO_HP) |
 | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | <a id="AD00001">AD00001</a>  | [自動車用デジタルスピードメータ/青（キット）](https://github.com/bit-trade-one/AD00001-Digital-Speed-Meter) |  https://bit-trade-one.co.jp/product/assemblydisk/ad00001/    |
 | <a id="AD00002">AD00002</a>  | [静電容量式タッチセンサモジュール](https://github.com/bit-trade-one/AD00002-TouchSensorModule) |  https://bit-trade-one.co.jp/product/module/ad00002/|
@@ -73,7 +73,7 @@
 [トップへ戻る](#productlist)
 
 
-| 型番| 製品名/レポジトリリンク| 製品ページリンク(BTO_HP)|
+| 型番| 製品名/サポートページリンク| 製品ページリンク(BTO_HP)|
 | ------------ |------------------------------------------------------------ | ------------------------------------------------------------ |
 | <a id="ADCQ1611AKRE">ADCQ1611AKRE</a> | [PICスパコン ラズベリーパイ拡張モジュール PiCCASO キット      ](https://github.com/bit-trade-one/ADCQ1611AP_CQ_PICCASO) |  https://bit-trade-one.co.jp/product/module/adcq1611ap/|
 | <a id="ADCQ1611APRE">ADCQ1611APRE</a> | [PICスパコン ラズベリーパイ拡張モジュール PiCCASO 組立済      ](https://github.com/bit-trade-one/ADCQ1611AP_CQ_PICCASO) |  https://bit-trade-one.co.jp/product/module/adcq1611ap/|
@@ -146,7 +146,7 @@
 [トップへ戻る](#productlist)
 
 
-| 型番| 製品名/レポジトリリンク| 製品ページリンク(BTO_HP)    |
+| 型番| 製品名/サポートページリンク| 製品ページリンク(BTO_HP)    |
 | -------------- | --------------------------- | --------------------------- |
 | <a id="ADU2B02P">ADU2B02P</a> | [USB2BT PLUS](https://github.com/bit-trade-one/ADU2B02P_USB2BT_Plus) |  https://bit-trade-one.co.jp/product/module/usb2btp/|
 | <a id="ADUSBCIM">ADUSBCIM</a> | [USB CABLE CHECKER 2](https://github.com/bit-trade-one/USBCableChecker2) |  https://bit-trade-one.co.jp/adusbcim/|
@@ -166,7 +166,7 @@
 [トップへ戻る](#productlist)
 
 
-| 型番 | 製品名/レポジトリリンク | 製品ページリンク(BTO_HP) |
+| 型番 | 製品名/サポートページリンク | 製品ページリンク(BTO_HP) |
 | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | <a id="ADKB96">ADKB96</a>  | [96キー セルフメイドキーボードキットADKB96](https://github.com/bit-trade-one/ADKB96-hardware) |  https://bit-trade-one.co.jp/selfmadekb/adkb96/   |
 | <a id="ADSKB42">ADSKB42</a>  | [56キー セルフメイドキーボードキットERGO42](https://github.com/bit-trade-one/adskb42) | https://bit-trade-one.co.jp/selfmadekb/adskb42/   |
@@ -177,7 +177,7 @@
 ## IoT製品,Raspberry Pi関連,ゼロワンシリーズ等
 [トップへ戻る](#productlist)
 
-| 型番| 製品名/レポジトリリンク| 製品ページリンク(BTO_HP)    |
+| 型番| 製品名/サポートページリンク| 製品ページリンク(BTO_HP)    |
 | -------------- | ------------------------ |--------------------------- |
 | <a id="ADAUDIR">ADAUDIR</a>   | [アルディーノ専用 学習リモコン基板](https://github.com/bit-trade-one/ADAUDIR_Arduino_IR_Remocon) |  https://bit-trade-one.co.jp/product/module/adaudir/  |
 | <a id="ADRSRTC">ADRSRTC</a>   | [ラズベリーパイ専用リアルタイムクロック拡張ボード](https://github.com/bit-trade-one/ADRSRTC-RTC-HAT) |  https://bit-trade-one.co.jp/adrsrtc  |
