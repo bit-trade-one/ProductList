@@ -26,7 +26,7 @@
 | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | <a id="AD00001">AD00001</a>  | [自動車用デジタルスピードメータ/青（キット）](https://github.com/bit-trade-one/AD00001-Digital-Speed-Meter) |  https://bit-trade-one.co.jp/product/assemblydisk/ad00001/    |
 | <a id="AD00002">AD00002</a>  | [静電容量式タッチセンサモジュール](https://github.com/bit-trade-one/AD00002-TouchSensorModule) |  https://bit-trade-one.co.jp/product/module/ad00002/|
-| <a id="AD00003">AD00003</a>  | [自動車用デジタルスピードメータ/赤（キット）](https://github.com/bit-trade-one/AD00001-Digital-Speed-Meter) |  [https://bit-trade-one.co.jp/product/assemblydisk/ad00003/](https://bit-trade-one.co.jp/product/assemblydisk/ad00001/) |
+| <a id="AD00003">AD00003</a>  | [自動車用デジタルスピードメータ/赤（キット）](https://github.com/bit-trade-one/AD00001-Digital-Speed-Meter) |  https://bit-trade-one.co.jp/product/assemblydisk/ad00001/ |
 | <a id="AD00007">AD00007</a>  | [REVIVE USB（キット）](https://github.com/bit-trade-one/REVIVE-USB) |  https://bit-trade-one.co.jp/product/assemblydisk/revive-usb/ |
 | <a id="AD00007P">AD00007P</a> | [REVIVE USB（組立済）](https://github.com/bit-trade-one/REVIVE-USB) |  https://bit-trade-one.co.jp/product/assemblydisk/revive-usb/ |
 | <a id="AD00008">AD00008</a>  | [ASOOVU USB](https://github.com/bit-trade-one/AD00008-ASOOVU_USB) |  https://bit-trade-one.co.jp/product/asoovu/|
