@@ -12,6 +12,7 @@
 - [デバイス製品 USB2BTPやUSBCableChecker2など](#デバイス製品-usb2btpやusbcablechecker2など)
 - [自作キーボード関連等](#自作キーボード関連等)
 - [IoT製品,Raspberry Pi関連,ゼロワンシリーズ等](#iot製品raspberry-pi関連ゼロワンシリーズ等)
+- [業務用シリーズ](#業務用シリーズ)
 
 <!--mdでページ内リンクを貼る際はこちらの記事がとてもわかりやすいので必読です！https://qiita.com/hennin/items/7ee58dd7d7c013a23be7#%E5%8D%8A%E8%A7%92%E8%A8%98%E5%8F%B7%E3%81%AF%E3%82%A2%E3%83%B3%E3%83%80%E3%83%BC%E3%83%90%E3%83%BC_%E3%81%A8%E3%83%8F%E3%82%A4%E3%83%95%E3%83%B3-%E4%BB%A5%E5%A4%96%E7%9C%81%E7%95%A5
 -->
@@ -225,3 +226,12 @@
 
 
 
+## 業務用シリーズ
+[トップへ戻る](#productlist)
+
+| 型番| 製品名/サポートページリンク| 製品ページリンク(BTO_HP)    |
+| -------------- | ------------------------ |--------------------------- |
+| <a id="ADSBI01Y">ADSBI01Y</a>   | [展示会向けUSBボタンインターフェイス](https://bit-trade-one.co.jp/adsbi01y/) |  https://bit-trade-one.co.jp/adsbi01y/  |
+| <a id="ADAUDIR">ADKB02NW</a>   | [2ボタンUSBインターフェイス](https://bit-trade-one.co.jp/adkb02nw/) |  https://bit-trade-one.co.jp/adkb02nw/  |
+| <a id="ADAUDIR">adirrvmd</a>   | [USB赤外線リモコン受光アダプタ](https://github.com/bit-trade-one/ADIRRVMD-USB-IR-Receive-Adapter) |  https://bit-trade-one.co.jp/adirrvmd/  |
+| <a id="ADAUDIR">BFU2S</a>   | [USBデュアルコネクトカスタムキーパッド](https://bit-trade-one.github.io/BFU2S-USBDualConnectCustomKeypad/) |  https://bit-trade-one.co.jp/bfu2s  |
