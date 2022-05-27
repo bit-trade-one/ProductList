@@ -15,7 +15,8 @@
 CQ出版,技術評論社,日経BP,シェルスクリプトマガジン,ラジオライフ等
 - [デバイス製品](#デバイス製品)
  USB2BTPLUSやUSBCableChecker2など
- - [IoT製品](#iot製品)
+- [自作キーボード関連等](#自作キーボード関連等)
+- [IoT製品](#iot製品)
 Raspberry Pi関連,ゼロワンシリーズ等
 - [業務用シリーズ](#業務用シリーズ)
  
@@ -484,7 +485,33 @@ Raspberry Pi関連,ゼロワンシリーズ等
 [BFTP01Y_HP]: https://bit-trade-one.co.jp/product/bitferrous/bftp01y/
 [BFTP01Y_SP]: https://github.com/bit-trade-one/BFTP01-tone-pedal
 
+
 ---
+
+## 自作キーボード関連等
+[トップへ戻る](README.md)
+
+
+
+| 型番| 製品名 | 製品HPリンク | サポートリンク | 
+| --- | --- | --- | --- |
+| <a id="ADKB96">ADKB96</a>    | 96キー セルフメイドキーボードキットADKB96                      |[製品ページ][ADKB96_HP]|[サポートページ][ADKB96_SP] |
+| <a id="ADSKB42">ADSKB42</a>  | 56キー セルフメイドキーボードキットERGO42                      |[製品ページ][ADSKB42_HP]|[サポートページ][ADSKB42_SP] |
+| <a id="ADSKBCC">ADSKBCC</a>  | 半田付けのいらない42キー スプリットキーボードキットCorne Cherry |[製品ページ][ADSKBCC_HP]|[サポートページ][ADSKBCC_SP] |
+
+<!-- 参照形式によるリンク 参考https://hail2u.net/blog/coding/markdown-reference-style-links.html -->
+
+[ADKB96_HP]: https://bit-trade-one.co.jp/selfmadekb/adkb96/
+[ADKB96_SP]: https://github.com/bit-trade-one/ADKB96-hardware
+
+[ADSKB42_HP]: https://bit-trade-one.co.jp/selfmadekb/adskb42/
+[ADSKB42_SP]: https://github.com/bit-trade-one/adskb42
+
+[ADSKBCC_HP]:https://bit-trade-one.co.jp/selfmadekb/adskbcc/ 
+[ADSKBCC_SP]: https://github.com/bit-trade-one/crkbd
+
+---
+
 ## IoT製品
 [トップへ戻る](README.md) / [対応機器一覧表](IoTProduct_CorrespondenceList.md)
 
