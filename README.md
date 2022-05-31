@@ -28,44 +28,45 @@ Raspberry Pi関連,ゼロワンシリーズ等
   
 | 型番| 製品名 | 製品HPリンク | サポートリンク | 
 | --- | --- | --- | --- |
-| <a id="AD00001">AD00001</a>   | 自動車用デジタルスピードメータ/青（キット）                            | [製品ページ][AD00001_HP] | [サポートページ][AD00001_SP] |
-| <a id="AD00002">AD00002</a>   | 静電容量式タッチセンサモジュール                                      | [製品ページ][AD00002_HP] | [サポートページ][AD00002_SP] |
-| <a id="AD00003">AD00003</a>   | 自動車用デジタルスピードメータ/赤（キット）                            | [製品ページ][AD00003_HP] | [サポートページ][AD00003_SP] |
-| <a id="AD00007">AD00007</a>   | REVIVE USB（キット）                                                | [製品ページ][AD00007_HP] | [サポートページ][AD00007_SP] |
-| <a id="AD00007P">AD00007P</a> | REVIVE USB（組立済）                                                | [製品ページ][AD00007P_HP] | [サポートページ][AD00007P_SP] |
-| <a id="AD00008">AD00008</a>   | ASOOVU USB                                                         | [製品ページ][AD00008_HP] | [サポートページ][AD00008_SP] |
-| <a id="AD00009B">AD00009B</a> | USB DELEGATER B                                                    | [製品ページ][AD00009B_HP] | [サポートページ][AD00009B_SP] |
-| <a id="AD00010">AD00010</a>   | 貼る タッチスイッチ・丸                                              | [製品ページ][AD00010_HP] | [サポートページ][AD00010_SP] |
-| <a id="AD00011">AD00011</a>   | Bit Touch                                                          | [製品ページ][AD00011_HP] | [サポートページ][AD00011_SP] |
-| <a id="AD00012">AD00012</a>   | ASOOVU USB・かんたんUSB温度計（キット）                              | [製品ページ][AD00012_HP] | [サポートページ][AD00012_SP] |
-| <a id="AD00013">AD00013</a>   | ASOOVU USB・デジタル入出力（キット）                                 | [製品ページ][AD00013_HP] | [サポートページ][AD00013_SP] |
-| <a id="AD00016">AD00016</a>   | デジタルスピードメータ LEDバーグラフ化キット                          | [製品ページ][AD00016_HP] | [サポートページ][AD00016_SP] |
-| <a id="AD00018">AD00018</a>   | 透明シール型タッチスイッチ （シンプルタイプ）                          | [製品ページ][AD00018_HP] | [サポートページ][AD00018_SP] |
-| <a id="AD00019">AD00019</a>   | 透明シール型タッチスイッチ （マルチタイプ）                            | [製品ページ][AD00019_HP] | [サポートページ][AD00019_SP] |
-| <a id="AD00020">AD00020</a>   | USB赤外線リモコン（キット）                                          | [製品ページ][AD00020_HP] | [サポートページ][AD00020_SP] |
-| <a id="AD00020P">AD00020P</a> | USB赤外線リモコン（組立済）                                          | [製品ページ][AD00020P_HP] | [サポートページ][AD00020P_SP] |
-| <a id="AD00023">AD00023</a>   |	USB接続 充電容量チェッカー（キット）                                  | [製品ページ][AD00023_HP] | [サポートページ][AD00023_SP] |
-| <a id="AD00023P">AD00023P</a> | USB接続 充電容量チェッカー（組立済）                                  | [製品ページ][AD00023P_HP] | [サポートページ][AD00023P_SP] |
-| <a id="AD00026">AD00026</a>   | 電流帰還アンプ（キット）                                             | [製品ページ][AD00026_HP] | [サポートページ][AD00026_SP] |
-| <a id="AD00026P">AD00026P</a> | 電流帰還アンプ(組立済)                                               | [製品ページ][AD00026P_HP] | [サポートページ][AD00026P_SP] |
-| <a id="AD00030">AD00030</a>   | カプセルスピーカー【 ポポポンプ 】（キット）                           | [製品ページ][AD00030_HP] | [サポートページ][AD00030_SP] |
-| <a id="AD00032">AD00032</a>   | 電流帰還方式ポータブルヘッドフォンアンプ（組立済)                       | [製品ページ][AD00032_HP] | [サポートページ][AD00032_SP] |
-| <a id="ADBLE01P">ADBLE01P</a> | Bluetooth Low Energy搭載 IoT実験ボード BLE静電容量式センサIoT開発キット | [製品ページ][ADBLE01P_HP] | [サポートページ][ADBLE01P_SP] |
-| <a id="ADEC02">ADEC02</a>     | 静電容量式 近接センサモジュール                                        | [製品ページ][ADEC02_HP] | [サポートページ][ADEC02_SP] |
-| <a id="ADFCS01">ADFCS01</a>   | 静電容量式フィルムセンサ開発ボード                                     | [製品ページ][ADFCS01_HP] | [サポートページ][ADFCS01_SP] |
-| <a id="ADTCS">ADTCS</a>       | 触るだけでPCをコントロール！ 「超小型USBタッチスイッチ」                | [製品ページ][ADTCS_HP] | [サポートページ][ADTCS_SP] |
-| <a id="ADACHACY">ADACHACY</a> | デジタル版 触感デバイス開発モジュール“hapStak”                         | [製品ページ][ADACHACY_HP] | [サポートページ][ADACHACY_SP] |
-| <a id="ADTEDCY">ADTEDCY</a>   | アナログ版 触感デバイス体感モジュール“hapStak”                         | [製品ページ][ADTEDCY_HP] | [サポートページ][ADTEDCY_SP] |
-| <a id="ADTEDM">ADTEDM</a>     | 触感デバイス体感モジュール 1Ch モノラル                                | [製品ページ][ADTEDM_HP] | [サポートページ][ADTEDM_SP] |
-| <a id="ADTEDS">ADTEDS</a>     | 触感デバイス体感モジュール 2Ch ステレオ                                | [製品ページ][ADTEDS_HP] | [サポートページ][ADTEDS_SP] |
-| <a id="ADIR01P">ADIR01P</a>   | USB赤外線リモコンアドバンス                                           | [製品ページ][ADIR01P_HP] | [サポートページ][ADIR01P_SP] |
-| <a id="ADRADVA">ADRADVA</a>   | REVIVE USB -ADVANCE-                                                | [製品ページ][ADRADVA_HP] | [サポートページ][ADRADVA_SP] |
-| <a id="ADRVBRB">ADRVBRB</a>   | REVIVE USB MICROマトリクスブレイクアウトボード 端子台付                 | [製品ページ][ADRVBRB_HP] | [サポートページ][ADRVBRB_SP] |
-| <a id="ADRVBRBN">ADRVBRBN</a> | REVIVE USB MICROマトリクスブレイクアウトボード 端子台無し               | [製品ページ][ADRVBRBN_HP] | [サポートページ][ADRVBRBN_SP] |
-| <a id="ADRVMIC">ADRVMIC</a>   | REVIVE USB †MICRO†                                                  | [製品ページ][ADRVMIC_HP] | [サポートページ][ADRVMIC_SP] |
-| <a id="ADSU01">ADSU01</a>     | USB録音・音源再生モジュール                                           | [製品ページ][ADSU01_HP] | [サポートページ][ADSU01_SP] |
-| <a id="ADSU01TB">ADSU01TB</a> | USB録音・音源再生モジュール評価ボードセット（組立済）                    | [製品ページ][ADSU01TB_HP] | [サポートページ][ADSU01TB_SP] |
-| <a id="ADU2B01P">ADU2B01P</a> | USB HID Bluetooth変換アダプタキット USB2BT（組立済）                   | [製品ページ][ADU2B01P_HP] | [サポートページ][ADU2B01P_SP] |
+| <a id="AD00001">AD00001</a>     | 自動車用デジタルスピードメータ/青（キット）                            | [製品ページ][AD00001_HP] | [サポートページ][AD00001_SP] |
+| <a id="AD00002">AD00002</a>     | 静電容量式タッチセンサモジュール                                      | [製品ページ][AD00002_HP] | [サポートページ][AD00002_SP] |
+| <a id="AD00003">AD00003</a>     | 自動車用デジタルスピードメータ/赤（キット）                            | [製品ページ][AD00003_HP] | [サポートページ][AD00003_SP] |
+| <a id="AD00007">AD00007</a>     | REVIVE USB（キット）                                                | [製品ページ][AD00007_HP] | [サポートページ][AD00007_SP] |
+| <a id="AD00007P">AD00007P</a>   | REVIVE USB（組立済）                                                | [製品ページ][AD00007P_HP] | [サポートページ][AD00007P_SP] |
+| <a id="AD00008">AD00008</a>     | ASOOVU USB                                                         | [製品ページ][AD00008_HP] | [サポートページ][AD00008_SP] |
+| <a id="AD00009B">AD00009B</a>   | USB DELEGATER B                                                    | [製品ページ][AD00009B_HP] | [サポートページ][AD00009B_SP] |
+| <a id="AD00010">AD00010</a>     | 貼る タッチスイッチ・丸                                              | [製品ページ][AD00010_HP] | [サポートページ][AD00010_SP] |
+| <a id="AD00011">AD00011</a>     | Bit Touch                                                          | [製品ページ][AD00011_HP] | [サポートページ][AD00011_SP] |
+| <a id="AD00012">AD00012</a>     | ASOOVU USB・かんたんUSB温度計（キット）                              | [製品ページ][AD00012_HP] | [サポートページ][AD00012_SP] |
+| <a id="AD00013">AD00013</a>     | ASOOVU USB・デジタル入出力（キット）                                 | [製品ページ][AD00013_HP] | [サポートページ][AD00013_SP] |
+| <a id="AD00016">AD00016</a>     | デジタルスピードメータ LEDバーグラフ化キット                          | [製品ページ][AD00016_HP] | [サポートページ][AD00016_SP] |
+| <a id="AD00018">AD00018</a>     | 透明シール型タッチスイッチ （シンプルタイプ）                          | [製品ページ][AD00018_HP] | [サポートページ][AD00018_SP] |
+| <a id="AD00019">AD00019</a>     | 透明シール型タッチスイッチ （マルチタイプ）                            | [製品ページ][AD00019_HP] | [サポートページ][AD00019_SP] |
+| <a id="AD00020">AD00020</a>     | USB赤外線リモコン（キット）                                          | [製品ページ][AD00020_HP] | [サポートページ][AD00020_SP] |
+| <a id="AD00020P">AD00020P</a>   | USB赤外線リモコン（組立済）                                          | [製品ページ][AD00020P_HP] | [サポートページ][AD00020P_SP] |
+| <a id="AD00023">AD00023</a>     |	USB接続 充電容量チェッカー（キット）                                  | [製品ページ][AD00023_HP] | [サポートページ][AD00023_SP] |
+| <a id="AD00023P">AD00023P</a>   | USB接続 充電容量チェッカー（組立済）                                  | [製品ページ][AD00023P_HP] | [サポートページ][AD00023P_SP] |
+| <a id="AD00026">AD00026</a>     | 電流帰還アンプ（キット）                                             | [製品ページ][AD00026_HP] | [サポートページ][AD00026_SP] |
+| <a id="AD00026P">AD00026P</a>   | 電流帰還アンプ(組立済)                                               | [製品ページ][AD00026P_HP] | [サポートページ][AD00026P_SP] |
+| <a id="AD00030">AD00030</a>     | カプセルスピーカー【 ポポポンプ 】（キット）                           | [製品ページ][AD00030_HP] | [サポートページ][AD00030_SP] |
+| <a id="AD00032">AD00032</a>     | 電流帰還方式ポータブルヘッドフォンアンプ（組立済)                       | [製品ページ][AD00032_HP] | [サポートページ][AD00032_SP] |
+| <a id="ADBLE01P">ADBLE01P</a>   | Bluetooth Low Energy搭載 IoT実験ボード BLE静電容量式センサIoT開発キット | [製品ページ][ADBLE01P_HP] | [サポートページ][ADBLE01P_SP] |
+| <a id="ADEC02">ADEC02</a>       | 静電容量式 近接センサモジュール                                        | [製品ページ][ADEC02_HP] | [サポートページ][ADEC02_SP] |
+| <a id="ADFCS01">ADFCS01</a>     | 静電容量式フィルムセンサ開発ボード                                     | [製品ページ][ADFCS01_HP] | [サポートページ][ADFCS01_SP] |
+| <a id="ADTCS">ADTCS</a>         | 触るだけでPCをコントロール！ 「超小型USBタッチスイッチ」                | [製品ページ][ADTCS_HP] | [サポートページ][ADTCS_SP] |
+| <a id="ADACHACY">ADACHACY</a>   | デジタル版 触感デバイス開発モジュール“hapStak”                         | [製品ページ][ADACHACY_HP] | [サポートページ][ADACHACY_SP] |
+| <a id="ADTEDCY">ADTEDCY</a>     | アナログ版 触感デバイス体感モジュール“hapStak”                         | [製品ページ][ADTEDCY_HP] | [サポートページ][ADTEDCY_SP] |
+| <a id="ADTEDM">ADTEDM</a>       | 触感デバイス体感モジュール 1Ch モノラル                                | [製品ページ][ADTEDM_HP] | [サポートページ][ADTEDM_SP] |
+| <a id="ADTEDS">ADTEDS</a>       | 触感デバイス体感モジュール 2Ch ステレオ                                | [製品ページ][ADTEDS_HP] | [サポートページ][ADTEDS_SP] |
+| <a id="ADIR01P">ADIR01P</a>     | USB赤外線リモコンアドバンス                                           | [製品ページ][ADIR01P_HP] | [サポートページ][ADIR01P_SP] |
+| <a id="ADRADVA">ADRADVA</a>     | REVIVE USB -ADVANCE-                                                | [製品ページ][ADRADVA_HP] | [サポートページ][ADRADVA_SP] |
+| <a id="ADRVBRB">ADRVBRB</a>     | REVIVE USB MICROマトリクスブレイクアウトボード 端子台付                 | [製品ページ][ADRVBRB_HP] | [サポートページ][ADRVBRB_SP] |
+| <a id="ADRVBRBN">ADRVBRBN</a>   | REVIVE USB MICROマトリクスブレイクアウトボード 端子台無し               | [製品ページ][ADRVBRBN_HP] | [サポートページ][ADRVBRBN_SP] |
+| <a id="ADRVMIC">ADRVMIC</a>     | REVIVE USB †MICRO†                                                  | [製品ページ][ADRVMIC_HP] | [サポートページ][ADRVMIC_SP] |
+| <a id="ADRVMICR2">ADRVMICR2</a> | REVIVE USB †MICRO†Rev.2                                             | [製品ページ][ADRVMICR2_HP] | [サポートページ][ADRVMICR2_SP] |
+| <a id="ADSU01">ADSU01</a>       | USB録音・音源再生モジュール                                           | [製品ページ][ADSU01_HP] | [サポートページ][ADSU01_SP] |
+| <a id="ADSU01TB">ADSU01TB</a>   | USB録音・音源再生モジュール評価ボードセット（組立済）                    | [製品ページ][ADSU01TB_HP] | [サポートページ][ADSU01TB_SP] |
+| <a id="ADU2B01P">ADU2B01P</a>   | USB HID Bluetooth変換アダプタキット USB2BT（組立済）                   | [製品ページ][ADU2B01P_HP] | [サポートページ][ADU2B01P_SP] |
 
 
  <!-- 参照形式によるリンク 参考https://hail2u.net/blog/coding/markdown-reference-style-links.html -->
@@ -174,6 +175,9 @@ Raspberry Pi関連,ゼロワンシリーズ等
   
 [ADRVMIC_HP]: https://bit-trade-one.co.jp/adrvmic/
 [ADRVMIC_SP]: https://github.com/bit-trade-one/ADRVMIC-REVIVE-USB-Micro
+  
+[ADRVMICR2_HP]: https://bit-trade-one.co.jp/adrvmic/
+[ADRVMICR2_SP]: https://github.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2
   
 [ADSU01_HP]: https://bit-trade-one.co.jp/product/module/adsu01/
 [ADSU01_SP]: https://github.com/bit-trade-one/ADSU01_Sound_Player_Module
