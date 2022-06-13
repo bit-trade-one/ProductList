@@ -13,4 +13,6 @@
 | <a id="ADCRKTR1">ADCRKTR1</a> | KTR-1 | 単独動作 | Arduino IDE(対応OS Windows,MAC OS,他) |
 | <a id="ADKRJS">ADKRJS</a> | 赤外線ジョイスティックリモコン  | リモコンロボ/クアッド・クローラー | - |
 | <a id="BFHC2BK">BFHC2BK</a> | Horizontal Controller EX  | Windows10, 8.1, 8, 7, Vista™<br>NEC PC-9800、PC-9821シリーズ非対応 | 日本語版OS: Windows10, 8.1, 8, 7, Vista™ |
-| <a id="BFTP01Y">BFTP01Y</a> | TonePedal+ | Windows10, 8.1, 8, 7, Vista™<br>NEC PC-9800、PC-9821シリーズ非対応 | 日本語版OS:Windows10, 8.1, 8, 7, Vista™
+| <a id="BFTP01Y">BFTP01Y</a> | TonePedal+ | Windows10, 8.1, 8, 7, Vista™<br>NEC PC-9800、PC-9821シリーズ非対応 | 日本語版OS:Windows10, 8.1, 8, 7, Vista™|
+| <a id="BFROM11BK">BFROM11BK</a> | Rev-O-mate | 日本語版OS: Windows11,Windows10,Windows8.1,Windows8,Windows7,macOS (10.12.6以降) | 日本語版OS: Windows11,Windows10,Windows8.1,Windows8,Windows7,macOS (10.12.6以降)|
+| <a id="BFTCXL">BFTCXL</a>   | TracXcroll | 日本語版OS:Windows11,Windows10,Windows8.1,Windows8,Windows7,macOS ,Linux | 日本語版OS: Windows10,Windows8.1,Windows8,Windows7|
