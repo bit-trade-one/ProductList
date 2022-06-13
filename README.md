@@ -67,6 +67,9 @@ Raspberry Pi関連,ゼロワンシリーズ等
 | <a id="ADSU01">ADSU01</a>       | USB録音・音源再生モジュール                                           | [製品ページ][ADSU01_HP] | [サポートページ][ADSU01_SP] |
 | <a id="ADSU01TB">ADSU01TB</a>   | USB録音・音源再生モジュール評価ボードセット（組立済）                    | [製品ページ][ADSU01TB_HP] | [サポートページ][ADSU01TB_SP] |
 | <a id="ADU2B01P">ADU2B01P</a>   | USB HID Bluetooth変換アダプタキット USB2BT（組立済）                   | [製品ページ][ADU2B01P_HP] | [サポートページ][ADU2B01P_SP] |
+| <a id="ADSLAR">ADSLAR</a>       | 自動走行ロボットキット「D3BV」                                         | [製品ページ][ADSLAR_HP] | [サポートページ][ADSLAR_SP] |
+| <a id="ADFBE">ADFBE</a>         | スマートテキスタイルセンサ開発ボードセット                              | [製品ページ][ADFBE_HP] | [サポートページ][ADFBE_SP] |
+
 
 
  <!-- 参照形式によるリンク 参考https://hail2u.net/blog/coding/markdown-reference-style-links.html -->
@@ -187,6 +190,12 @@ Raspberry Pi関連,ゼロワンシリーズ等
   
 [ADU2B01P_HP]: https://bit-trade-one.co.jp/product/assemblydisk/adu2b01/
 [ADU2B01P_SP]: https://github.com/bit-trade-one/ADU2BT01_USB2BT_Kit
+
+[ADSLAR_HP]: https://bit-trade-one.co.jp/adslar/
+[ADSLAR_SP]: https://github.com/bit-trade-one/ADSLAR_D3BV_DualDetect_DualBehavior_Vehicle
+
+[ADFBE_HP]: https://bit-trade-one.co.jp/product/module/adfbe/
+[ADFBE_SP]: https://github.com/bit-trade-one/ADFBE-Smart-Textile-Develop
   
  
 
