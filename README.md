@@ -462,8 +462,8 @@ Raspberry Pi関連,ゼロワンシリーズ等
 | <a id="ADKRJS">ADKRJS</a>     | リモコンロボ/クアッド・クローラー対応　赤外線ジョイスティックリモコン  |  [製品ページ][ADKRJS_HP]   | [サポートページ][ADKRJS_SP]   |
 | <a id="BFHC2BK">BFHC2BK</a>   | 浪漫型パドルコントローラー　Horizontal Controller EX               |  [製品ページ][BFHC2BK_HP]  | [サポートページ][BFHC2BK_SP]  |
 | <a id="BFTP01Y">BFTP01Y</a>   | 浪漫型ギターエフェクタースタイル USBフットペダル【TonePedal+】       |  [製品ページ][BFTP01Y_HP]  | [サポートページ][BFTP01Y_SP]  |
-| <a id="BFTP01Y">BFROM11BK</a> | Rev-O-mate                                                     |  [製品ページ][BFROM11BK_HP]  | - |
-| <a id="BFTCXL">BFTCXL</a>     | TracXcroll                                                         |  [製品ページ][BFTCXL_HP]  | - |
+| <a id="BFTP01Y">BFROM11BK</a> | Rev-O-mate                                                       |  [製品ページ][BFROM11BK_HP] | [サポートページ][BFROM11BK_SP] |
+| <a id="BFTCXL">BFTCXL</a>     | TracXcroll                                                       |  [製品ページ][BFTCXL_HP]    | [サポートページ][BFTCXL_SP] |
 
 <!-- 参照形式によるリンク 参考https://hail2u.net/blog/coding/markdown-reference-style-links.html -->
 
@@ -501,10 +501,10 @@ Raspberry Pi関連,ゼロワンシリーズ等
 [BFTP01Y_SP]: https://github.com/bit-trade-one/BFTP01-tone-pedal
 
 [BFROM11BK_HP]: https://bit-trade-one.co.jp/product/bitferrous/bfrom11/
-
+[BFROM11BK_SP]: https://bit-trade-one.co.jp/product/bitferrous/bfrom11/manual_jpn/
 
 [BFTCXL_HP]: https://bit-trade-one.co.jp/tracxcroll/
-
+[BFTCXL_SP]: https://bit-trade-one.co.jp/tracxcroll/tracxcrollmanual/
 
 
 ---
