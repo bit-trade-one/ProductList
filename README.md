@@ -636,7 +636,7 @@ Raspberry Pi関連,ゼロワンシリーズ等
 [ADULEDB_SP]: https://github.com/bit-trade-one/ADULEDB-USBControll
  
 [ADRSZBB_HP]: https://bit-trade-one.co.jp/adrszbb/
-[ADRSZBB_SP]: https://github.com/bit-trade-one/RasPi-Zero-One-Series
+[ADRSZBB_SP]: https://github.com/bit-trade-one/adrszbb-GPIO-expansion-board
  
 [ADRSZBM_HP]: https://bit-trade-one.co.jp/product/module/adrszbm/
 [ADRSZBM_SP]: https://github.com/bit-trade-one/RasPi-Zero-One-Series
