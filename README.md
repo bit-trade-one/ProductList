@@ -464,7 +464,7 @@ Raspberry Pi関連,ゼロワンシリーズ等
 | <a id="BFTP01Y">BFTP01Y</a>   | 浪漫型ギターエフェクタースタイル USBフットペダル【TonePedal+】       |  [製品ページ][BFTP01Y_HP]  | [サポートページ][BFTP01Y_SP]  |
 | <a id="BFTP01Y">BFROM11BK</a> | Rev-O-mate                                                       |  [製品ページ][BFROM11BK_HP] | [サポートページ][BFROM11BK_SP] |
 | <a id="BFTCXL">BFTCXL</a>     | TracXcroll                                                       |  [製品ページ][BFTCXL_HP]    | [サポートページ][BFTCXL_SP] |
-| <a id="DYKKEP">DYKKEP</a>     | キーボード工作用2-IN-1 キープラー                                 |  [製品ページ][DYKKEP_HP]    |  - |
+
 
 <!-- 参照形式によるリンク 参考https://hail2u.net/blog/coding/markdown-reference-style-links.html -->
 
@@ -507,7 +507,7 @@ Raspberry Pi関連,ゼロワンシリーズ等
 [BFTCXL_HP]: https://bit-trade-one.co.jp/tracxcroll/
 [BFTCXL_SP]: https://bit-trade-one.co.jp/tracxcroll/tracxcrollmanual/
 
-[DYKKEP_HP]: https://bit-trade-one.co.jp/selfmadekb/dykkep/
+
 
 ---
 
@@ -521,6 +521,7 @@ Raspberry Pi関連,ゼロワンシリーズ等
 | <a id="ADKB96">ADKB96</a>    | 96キー セルフメイドキーボードキットADKB96                      |[製品ページ][ADKB96_HP]|[サポートページ][ADKB96_SP] |
 | <a id="ADSKB42">ADSKB42</a>  | 56キー セルフメイドキーボードキットERGO42                      |[製品ページ][ADSKB42_HP]|[サポートページ][ADSKB42_SP] |
 | <a id="ADSKBCC">ADSKBCC</a>  | 半田付けのいらない42キー スプリットキーボードキットCorne Cherry |[製品ページ][ADSKBCC_HP]|[サポートページ][ADSKBCC_SP] |
+| <a id="DYKKEP">DYKKEP</a>     | キーボード工作用2-IN-1 キープラー                             |  [製品ページ][DYKKEP_HP]    |  - |
 
 <!-- 参照形式によるリンク 参考https://hail2u.net/blog/coding/markdown-reference-style-links.html -->
 
@@ -532,6 +533,9 @@ Raspberry Pi関連,ゼロワンシリーズ等
 
 [ADSKBCC_HP]:https://bit-trade-one.co.jp/selfmadekb/adskbcc/ 
 [ADSKBCC_SP]: https://github.com/bit-trade-one/crkbd
+
+[DYKKEP_HP]: https://bit-trade-one.co.jp/selfmadekb/dykkep/
+
 
 ---
 
