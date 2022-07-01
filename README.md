@@ -171,10 +171,10 @@ Raspberry Pi関連,ゼロワンシリーズ等
 [ADRADVA_SP]: https://github.com/bit-trade-one/ADRADVA-REVIVE-ADVANCE
   
 [ADRVBRB_HP]: https://bit-trade-one.co.jp/adrvbrb/
-[ADRVBRB_SP]: https://github.com/bit-trade-one/ADRVMIC-REVIVE-USB-Micro
+[ADRVBRB_SP]: https://bit-trade-one.github.io/ADRVMIC-REVIVE-USB-Micro/
   
 [ADRVBRBN_HP]: https://bit-trade-one.co.jp/adrvbrb/
-[ADRVBRBN_SP]: https://github.com/bit-trade-one/ADRVMIC-REVIVE-USB-Micro
+[ADRVBRBN_SP]: https://bit-trade-one.github.io/ADRVMIC-REVIVE-USB-Micro/
   
 [ADRVMIC_HP]: https://bit-trade-one.co.jp/adrvmic/
 [ADRVMIC_SP]: https://bit-trade-one.github.io/ADRVMIC-REVIVE-USB-Micro/
