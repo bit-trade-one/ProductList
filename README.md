@@ -177,10 +177,10 @@ Raspberry Pi関連,ゼロワンシリーズ等
 [ADRVBRBN_SP]: https://github.com/bit-trade-one/ADRVMIC-REVIVE-USB-Micro
   
 [ADRVMIC_HP]: https://bit-trade-one.co.jp/adrvmic/
-[ADRVMIC_SP]: https://github.com/bit-trade-one/ADRVMIC-REVIVE-USB-Micro
+[ADRVMIC_SP]: https://bit-trade-one.github.io/ADRVMIC-REVIVE-USB-Micro/
   
 [ADRVMICR2_HP]: https://bit-trade-one.co.jp/adrvmic/
-[ADRVMICR2_SP]: https://github.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2
+[ADRVMICR2_SP]: https://bit-trade-one.github.io/ADRVMICR2-REVIVE-USB-Micro-Rev2/
   
 [ADSU01_HP]: https://bit-trade-one.co.jp/product/module/adsu01/
 [ADSU01_SP]: https://github.com/bit-trade-one/ADSU01_Sound_Player_Module
