@@ -24,12 +24,12 @@
 ||||
 | <a id="ADRSZBB">ADRSZBB</a> | ラズベリーパイ専用GPIOスタック拡張ボード | 推奨機種：Raspberry Pi Zero WH /  Raspberry Pi 3B<br>対応可能機種：Raspberry Pi Zero v1.3 / W  (v1.3,WにはGPIOピンヘッダのはんだ付けが必要です)　Raspberry Pi 2/3B+ (再起動スイッチは使えません)  | - |
 | <a id="ADRSZBM">ADRSZBM</a> | ゼロワン 温湿度・気圧センサ拡張基板 | Raspberry Pi Zero v1.3 / W / WH (v1.3,WにはGPIOピンヘッダのはんだ付けが必要です)Raspberry Pi 2/3 (ネジ固定が出来ない場合があります、再起動スイッチは使えません) | - |
-| <a id="ADRSZCM">ADRSZCM</a> | ゼロワン クランプメータ拡張基板 | 推奨機種：Raspberry Pi Zero  WH <br>対応可能機種：Raspberry Pi Zero v1.3 / W  (v1.3,WにはGPIOピンヘッダのはんだ付けが必要です) Raspberry Pi 2/3 (ネジ固定が出来ない場合があります、再起動スイッチは使えません) | - |
+| <a id="ADRSZCM">ADRSZCM</a> | ゼロワン クランプメータ拡張基板 | 推奨機種：Raspberry Pi Zero  WH <br>対応可能機種：Raspberry Pi Zero v1.3 / W  (v1.3,WにはGPIOピンヘッダのはんだ付けが必要です) Raspberry Pi 2/3/4 (ネジ固定が出来ない場合があります、再起動スイッチは使えません) | - |
 | <a id="ADRSZCS">ADRSZCS</a> | ゼロワンカラーセンサ拡張基板 | 推奨機種：Raspberry Pi Zero WH <br>対応可能機種：Raspberry Pi Zero v1.3 / W (v1.3,WにはGPIOピンヘッダのはんだ付けが必要です)Raspberry Pi 2/3 (ネジ固定が出来ない場合があります、再起動スイッチは使えません) | - |
 | <a id="ADRSZDAC">ADRSZDAC</a> | ゼロワン ハイレゾDAC拡張基板 | Raspberry Pi Zero v1.3 / W / WH (v1.3,WにはGPIOピンヘッダのはんだ付けが必要です)Raspberry Pi 2/3 (ネジ固定が出来ない場合があります、再起動スイッチは使えません) | - |
 | <a id="ADRSZEI">ADRSZEI</a> | ゼロワン 電子ペーパーモニタ拡張基板 | 推奨機種：Raspberry Pi Zero  WH<br>対応可能機種：Raspberry Pi Zero v1.3 / W  (v1.3,WにはGPIOピンヘッダのはんだ付けが必要です)Raspberry Pi 2/3 | - |
 | <a id="ADRSZGP">ADRSZGP</a> | ゼロワン GPS拡張基板 | 推奨機種：Raspberry Pi Zero  WH<br>対応可能機種：Raspberry Pi Zero v1.3 / W  (v1.3,WにはGPIOピンヘッダのはんだ付けが必要です)Raspberry Pi 2/3 (ネジ固定が出来ない場合があります) | - |
-| <a id="ADRSZGR">ADRSZGR</a> | ゼロワン 9軸センサ拡張基板  | Raspberry Pi Zero v1.3 / W / WH (v1.3,WにはGPIOピンヘッダのはんだ付けが必要です)Raspberry Pi 2/3 (ネジ固定が出来ない場合があります、再起動スイッチは使えません) | - |
+| <a id="ADRSZGR">ADRSZGR</a> | ゼロワン 9軸センサ拡張基板  | Raspberry Pi Zero v1.3 / W / WH (v1.3,WにはGPIOピンヘッダのはんだ付けが必要です)Raspberry Pi 2/3/4 (ネジ固定が出来ない場合があります、再起動スイッチは使えません) | - |
 | <a id="ADRSZHB">ADRSZHB</a> | ゼロワン USB拡張基板  | 推奨機種：Raspberry Pi Zero  WH<br>対応可能機種：Raspberry Pi Zero v1.3 / W  (v1.3,WにはGPIOピンヘッダのはんだ付けが必要です)Raspberry Pi 2/3 (ネジ固定が出来ない場合があります) | - |
 | <a id="ADRSZIRR">ADRSZIRR</a> | ゼロワン 赤外線受信拡張基板 | Raspberry Pi Zero v1.3 / W / WH (v1.3,WにはGPIOピンヘッダのはんだ付けが必要です)Raspberry Pi 2/3 (ネジ固定が出来ない場合があります、再起動スイッチは使えません) | - |
 | <a id="ADRSZIRS">ADRSZIRS</a> | ゼロワン 赤外線リモコン拡張基板  | Raspberry Pi Zero v1.3 / W / WH (v1.3,WにはGPIOピンヘッダのはんだ付けが必要です)Raspberry Pi 2/3 (ネジ固定が出来ない場合があります、再起動スイッチは使えません) | - |
