@@ -455,10 +455,11 @@ Raspberry Pi関連,ゼロワンシリーズ等
 | <a id="ADUSBCIM">ADUSBCIM</a> | USB CABLE CHECKER 2                                             |  [製品ページ][ADUSBCIM_HP] | [サポートページ][ADUSBCIM_SP] |
 | <a id="BTCLK">BTCLK</a>       | WLAN電波時計　BitClock                                           |  [製品ページ][BTCLK_HP]    | - |
 | <a id="BTIC2">BTIC2</a>       | 低遅延型インターフェース変換装置　変わる君                          |  [製品ページ][BTIC2_HP]    | [サポートページ][BTIC2_SP]    |
+| <a id="BTIC2">BTIRSW</a>      | 赤外線リモコンインターフェイス変換装置「リモート変わる君」         |  [製品ページ][BTIRSW_HP]    | [サポートページ][BTIRSW_SP]    |
 | <a id="ADCRBT">ADCRBT</a>     | クアッド・クローラー                                              |  [製品ページ][ADCRBT_HP]   | [サポートページ][ADCRBT_SP]   |
 | <a id="ADCRAIBT">ADCRAIBT</a> | クアッド・クローラーAI                                            |  [製品ページ][ADCRAIBT_HP] | [サポートページ][ADCRAIBT_SP] |
 | <a id="ADKRBT">ADKRBT</a>     | プログラミング学習向け工作キット"リモコンロボ"                      |  [製品ページ][ADKRBT_HP]   | [サポートページ][ADKRBT_SP]   |
-| <a id="ADCRKTR1">ADCRKTR1</a> |Arduino制御入門用ロボットキット 「KTR-1」                           |  [製品ページ][ADCRKTR1_HP] | [サポートページ][ADCRKTR1_SP] |
+| <a id="ADCRKTR1">ADCRKTR1</a> | Arduino制御入門用ロボットキット 「KTR-1」                           |  [製品ページ][ADCRKTR1_HP] | [サポートページ][ADCRKTR1_SP] |
 | <a id="ADKRJS">ADKRJS</a>     | リモコンロボ/クアッド・クローラー対応　赤外線ジョイスティックリモコン  |  [製品ページ][ADKRJS_HP]   | [サポートページ][ADKRJS_SP]   |
 | <a id="BFHC2BK">BFHC2BK</a>   | 浪漫型パドルコントローラー　Horizontal Controller EX               |  [製品ページ][BFHC2BK_HP]  | [サポートページ][BFHC2BK_SP]  |
 | <a id="BFTP01Y">BFTP01Y</a>   | 浪漫型ギターエフェクタースタイル USBフットペダル【TonePedal+】       |  [製品ページ][BFTP01Y_HP]  | [サポートページ][BFTP01Y_SP]  |
@@ -480,6 +481,9 @@ Raspberry Pi関連,ゼロワンシリーズ等
 
 [BTIC2_HP]: https://bit-trade-one.co.jp/product/bitferrous/btic2/
 [BTIC2_SP]: https://github.com/bit-trade-one/BTIC2-KawaruKun
+
+[BTIRSW_HP]: https://bit-trade-one.co.jp/btirsw/
+[BTIRSW_SP]: https://bit-trade-one.github.io/BTIRSW-Remote-KawaruKun/
 
 [ADCRBT_HP]: https://bit-trade-one.co.jp/adcrbt/
 [ADCRBT_SP]: https://github.com/bit-trade-one/QuadCrawler
