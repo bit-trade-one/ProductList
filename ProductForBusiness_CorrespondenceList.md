@@ -7,3 +7,4 @@
 | <a id="ADKB02NW">ADKB02NW</a>   | 2ボタンUSBインターフェイス           | USB HID 対応機器 | 現行のWindows PCでの動作に対応 |
 | <a id="adirrvmd">adirrvmd</a>   | USB赤外線リモコン受光アダプタ         | USB HID 対応機器 | Windows 10/8/7/Vista/XP |
 | <a id="BFU2S">BFU2S</a>         | USBデュアルコネクトカスタムキーパッド | USB HID 対応機器 |  Windows7以降  |
+| <a id="ADBSDIO">ADBSDIO</a>     | USBデュアルコネクトカスタムキーパッド | Chorome等ブラウザ |  Winターミナルソフトにてシリアル通信  |
