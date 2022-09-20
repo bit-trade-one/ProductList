@@ -728,6 +728,7 @@ Raspberry Pi関連,ゼロワンシリーズ等
 | <a id="ADKB02NW">ADKB02NW</a>   | 2ボタンUSBインターフェイス           | [製品ページ][ADKB02NW_HP]  | - |
 | <a id="adirrvmd">adirrvmd</a>   | USB赤外線リモコン受光アダプタ         | [製品ページ][adirrvmd_HP] | [サポートページ][adirrvmd_SP] |
 | <a id="BFU2S">BFU2S</a>         | USBデュアルコネクトカスタムキーパッド | [製品ページ][BFU2S_HP]     |  [サポートページ][BFU2S_SP]  |
+| <a id="ADBSDIO">ADBSDIO</a>     | ブラウザスイッチDIO                  | [製品ページ][ADBSDIO_HP]     |  [サポートページ][ADBSDIO_SP]  |
 
  <!-- 参照形式によるリンク 参考https://hail2u.net/blog/coding/markdown-reference-style-links.html -->
 
@@ -742,4 +743,7 @@ Raspberry Pi関連,ゼロワンシリーズ等
  
 [BFU2S_HP]: https://bit-trade-one.co.jp/bfu2s/
 [BFU2S_SP]: https://bit-trade-one.github.io/BFU2S-USBDualConnectCustomKeypad/
+
+[ADBSDIO_HP]: https://bit-trade-one.co.jp/adbsdio/
+[ADBSDIO_SP]: https://bit-trade-one.github.io/ADBSDIO_BrowserSwitchDIO/
  
