@@ -43,3 +43,4 @@
 | <a id="ADSU01">ADSU01</a>     | 日本語版OS: Windows10, Windows8, Windows7，Vista™搭載のDOS/Vパソコン<br>インターフェース規格：USB2.0(タイプminiBコネクタ) | 日本語版OS: Windows10, Windows8, Windows7，Vista™搭載のDOS/Vパソコン
 | <a id="ADSU01TB">ADSU01TB</a> | 日本語版OS: Windows10, Windows8, Windows7，Vista™搭載のDOS/Vパソコン<br>DC電源入力：5V<br>インターフェース規格：USB2.0(タイプminiBコネクタ) | 日本語版OS: Windows10, Windows8, Windows7，Vista™搭載のDOS/Vパソコン
 | <a id="ADU2B01P">ADU2B01P</a> | 対象システム： Android4.0以降/ iOS(iPhone3G、第１・第２世代iPod touch除く)/ Windows 7以降/MAC OSX/ PS4<br>電源：5V (USBミニBコネクタ)| - |
+| <a id="ADE32CD">ADE32CD</a>   | USBマイクロB | - |
