@@ -69,6 +69,7 @@ Raspberry Pi関連,ゼロワンシリーズ等
 | <a id="ADU2B01P">ADU2B01P</a>   | USB HID Bluetooth変換アダプタキット USB2BT（組立済）                   | [製品ページ][ADU2B01P_HP] | [サポートページ][ADU2B01P_SP] |
 | <a id="ADSLAR">ADSLAR</a>       | 自動走行ロボットキット「D3BV」                                         | [製品ページ][ADSLAR_HP] | [サポートページ][ADSLAR_SP] |
 | <a id="ADFBE">ADFBE</a>         | スマートテキスタイルセンサ開発ボードセット                              | [製品ページ][ADFBE_HP] | [サポートページ][ADFBE_SP] |
+| <a id="ADE32CD">ADE32CD</a>     | ESP32オーディオストリーミングスタンド実験ボード「Connected Doll」       | [製品ページ][ADE32CD_HP] | [サポートページ][ADE32CD_SP] |
 
 
 
@@ -196,6 +197,9 @@ Raspberry Pi関連,ゼロワンシリーズ等
 
 [ADFBE_HP]: https://bit-trade-one.co.jp/product/module/adfbe/
 [ADFBE_SP]: https://github.com/bit-trade-one/ADFBE-Smart-Textile-Develop
+
+[ADE32CD_HP]: https://bit-trade-one.co.jp/ADE32CD/
+[ADE32CD_SP]: https://github.com/bit-trade-one/ADE32CD-Connected-Doll
   
  
 
