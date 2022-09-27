@@ -22,7 +22,7 @@
 | <a id="ADUBRU9">ADUBRU9</a> | 汎用USB接続リレー制御基板  9回路版| 単独動作 | Windows7, Windows8.1, Windows10 搭載のDOS/Vパソコン（サンプルアプリを動かすには .NET Framework4.0が必要）|
 | <a id="ADULEDB">ADULEDB</a> | 汎用USB接続LEDコントロールボード| 単独動作 | Windows / C#ライブラリ / C++ライブラリ / Visual Basicライブラリ |
 ||||
-| <a id="ADRSZBB">ADRSZBB</a> | ラズベリーパイ専用GPIOスタック拡張ボード | 推奨機種：Raspberry Pi Zero WH /  Raspberry Pi 3B<br>対応可能機種：Raspberry Pi Zero v1.3 / W  (v1.3,WにはGPIOピンヘッダのはんだ付けが必要です)　Raspberry Pi 2/3B+ (再起動スイッチは使えません)  | - |
+| <a id="ADRSZBB">ADRSZBB</a> | ラズベリーパイ専用GPIOスタック拡張ボード | 【RasPi4非対応】推奨機種：Raspberry Pi Zero WH /  Raspberry Pi 3B<br>対応可能機種：Raspberry Pi Zero v1.3 / W  (v1.3,WにはGPIOピンヘッダのはんだ付けが必要です)　Raspberry Pi 2/3B+ (再起動スイッチは使えません)  | - |
 | <a id="ADRSZBM">ADRSZBM</a> | ゼロワン 温湿度・気圧センサ拡張基板 | Raspberry Pi Zero v1.3 / W / WH (v1.3,WにはGPIOピンヘッダのはんだ付けが必要です)Raspberry Pi 2/3 (ネジ固定が出来ない場合があります、再起動スイッチは使えません) | - |
 | <a id="ADRSZCM">ADRSZCM</a> | ゼロワン クランプメータ拡張基板 | 推奨機種：Raspberry Pi Zero  WH <br>対応可能機種：Raspberry Pi Zero v1.3 / W  (v1.3,WにはGPIOピンヘッダのはんだ付けが必要です) Raspberry Pi 2/3/4 (ネジ固定が出来ない場合があります、再起動スイッチは使えません) | - |
 | <a id="ADRSZCS">ADRSZCS</a> | ゼロワンカラーセンサ拡張基板 | 推奨機種：Raspberry Pi Zero WH <br>対応可能機種：Raspberry Pi Zero v1.3 / W (v1.3,WにはGPIOピンヘッダのはんだ付けが必要です)Raspberry Pi 2/3 (ネジ固定が出来ない場合があります、再起動スイッチは使えません) | - |
