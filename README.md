@@ -569,6 +569,7 @@ Raspberry Pi関連,ゼロワンシリーズ等
 | <a id="ADRSRU2">ADRSRU2</a>    | Raspberry Pi 用リレー制御拡張基板 2回路版                             | [製品ページ][ADRSRU2_HP] | [サポートページ][ADRSRU2_SP] |
 | <a id="ADRSRU4">ADRSRU4</a>    | Raspberry Pi 用リレー制御拡張基板 4回路版                             | [製品ページ][ADRSRU4_HP] | [サポートページ][ADRSRU4_SP] |
 | <a id="ADRSRU8">ADRSRU8</a>    | Raspberry Pi 用リレー制御拡張基板 8回路版                             | [製品ページ][ADRSRU8_HP] | [サポートページ][ADRSRU8_SP] |
+| <a id="ADRSINS">ADRSINS</a>    | ラズベリーパイ専用 絶縁入力拡張ボード                                  | [製品ページ][ADRSINS_HP] | [サポートページ][ADRSINS_SP] |
 | <a id="ADRSSSDML">ADRSSSDML</a> | 汎用USB接続7セグメントLEDコントロールボード  大7セグ+制御ボード        |  [製品ページ][ADRSSSDML_HP] | [サポートページ][ADRSSSDML_SP] |
 | <a id="ADRSSSDMM">ADRSSSDMM</a> | 汎用USB接続7セグメントLEDコントロールボード 中7セグ+制御ボード          | [製品ページ][ADRSSSDMM_HP] | [サポートページ][ADRSSSDMM_SP] |
 | <a id="ADRSSSDMS">ADRSSSDMS</a> | 汎用USB接続7セグメントLEDコントロールボード  小7セグ+制御ボード         | [製品ページ][ADRSSSDMS_HP] | [サポートページ][ADRSSSDMS_SP] |
@@ -635,7 +636,10 @@ Raspberry Pi関連,ゼロワンシリーズ等
  
 [ADRSRU8_HP]: https://bit-trade-one.co.jp/product/module/adrsru/
 [ADRSRU8_SP]: https://github.com/bit-trade-one/ADRSRU-RaspberryPi-Relay-Unit
- 
+
+[ADRSINS_HP]:https://bit-trade-one.co.jp/adrsins/
+[ADRSINS_SP]:https://github.com/bit-trade-one/ADRSINS-RaspberryPi-insulation#adrsins-raspberrypi-insulation
+
 [ADRSSSDML_HP]:	https://bit-trade-one.co.jp/adrsss/
 [ADRSSSDML_SP]: https://github.com/bit-trade-one/ADRSSS-7segLED
  
