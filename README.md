@@ -493,7 +493,7 @@ Raspberry Pi関連,ゼロワンシリーズ等
 [ADCRBT_SP]: https://github.com/bit-trade-one/QuadCrawler
 
 [ADCRAIBT_HP]: https://bit-trade-one.co.jp/adcraibt/
-[ADCRAIBT_SP]: https://github.com/bit-trade-one/QuadCrawlerAI
+[ADCRAIBT_SP]: https://bit-trade-one.github.io/QuadCrawlerAI/
 
 [ADKRBT_HP]: https://bit-trade-one.co.jp/adkrbt/
 [ADKRBT_SP]: https://github.com/bit-trade-one/ADKRBT_Remocon_Robo
