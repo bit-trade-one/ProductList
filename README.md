@@ -362,7 +362,7 @@ Raspberry Pi関連,ゼロワンシリーズ等
 [ADGH03P_SP]: https://github.com/bit-trade-one/ADGH03P_IR_Remocon_InternetRadio
   
 [ADGH04K_HP]: https://bit-trade-one.co.jp/product/picraspi/adgh04/
-[ADGH04K_SP]: https://github.com/bit-trade-one/ADGH04P_Enviroment_Data_Logger
+[ADGH04K_SP]: https://github.com/bit-trade-one/ADGH04K_Enviroment_Data_Logger_Kit
   
 [ADGH04P_HP]: https://bit-trade-one.co.jp/product/picraspi/adgh04/
 [ADGH04P_SP]: https://github.com/bit-trade-one/ADGH04P_Enviroment_Data_Logger
