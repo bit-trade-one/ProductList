@@ -71,6 +71,7 @@ Raspberry Pi関連,ゼロワンシリーズ等
 | <a id="ADFBE">ADFBE</a>         | スマートテキスタイルセンサ開発ボードセット                              | [製品ページ][ADFBE_HP] | [サポートページ][ADFBE_SP] |
 | <a id="ADE32CD">ADE32CD</a>     | ESP32オーディオストリーミングスタンド実験ボード「Connected Doll」       | [製品ページ][ADE32CD_HP] | [サポートページ][ADE32CD_SP] |
 | <a id="ADTTM8">ADTTM8</a>       | ロジックICで創る自作CPU組み立てキット「TTM8」                           | [製品ページ][ADTTM8_HP] | - |
+| <a id="ADSEMX">ADSEMX</a>       | 俺の効果音!!                                                          | [製品ページ][ADSEMX_HP] | [サポートページ][ADSEMX_SP] |
 
 
  <!-- 参照形式によるリンク 参考https://hail2u.net/blog/coding/markdown-reference-style-links.html -->
@@ -203,6 +204,9 @@ Raspberry Pi関連,ゼロワンシリーズ等
 
 [ADTTM8_HP]: https://bit-trade-one.co.jp/adttm8/
 [ADTTM8_SP]: -
+
+[ADSEMX_HP]: https://bit-trade-one.co.jp/adsemx/
+[ADSEMX_SP]: https://github.com/bit-trade-one/ADSEMX
   
  
 
