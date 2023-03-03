@@ -564,25 +564,26 @@ Raspberry Pi関連,ゼロワンシリーズ等
 
 | 型番| 製品名 | 製品HPリンク | サポートリンク | 
 | --- | --- | --- | --- |
-| <a id="ADAUDIR">ADAUDIR</a>   | アルディーノ専用 学習リモコン基板                                      | [製品ページ][ADAUDIR_HP] | [サポートページ][ADAUDIR_SP] |
-| <a id="ADRSRTC">ADRSRTC</a>   | ラズベリーパイ専用リアルタイムクロック拡張ボード                         | [製品ページ][ADRSRTC_HP] | [サポートページ][ADRSRTC_SP] |
-| <a id="ADICGIR">ADICGIR</a>   | IchigoJam専用学習リモコン基板                                         | [製品ページ][ADICGIR_HP] | [サポートページ][ADICGIR_SP] |
-| <a id="ADMU32F">ADMU32F</a>    | WiFi対応！ロボット・工作キットを拡張！ 多機能リモコンボード「Duke32AIO」 | [製品ページ][ADMU32F_HP] | [サポートページ][ADMU32F_SP] |
-| <a id="ADRPTB8C">ADRPTB8C</a>  | ラズベリーパイ専用 汎用電動機制御基板                                  | [製品ページ][ADRPTB8C_HP] | [サポートページ][ADRPTB8C_SP] |
-| <a id="ADRSADC">ADRSADC</a>    | Raspberry Pi 用Arduino シールド変換基板                              | [製品ページ][ADRSADC_HP] | [サポートページ][ADRSADC_SP] |
-| <a id="ADRSBB">ADRSBB</a>      | Raspberry Pi 用ブレッドボード基板                                     | [製品ページ][ADRSBB_HP] | [サポートページ][ADRSBB_SP] |
-| <a id="ADRSEZCO">ADRSEZCO</a>  | Raspberry Pi 用端子台出力基板                                        | [製品ページ][ADRSEZCO_HP] | [サポートページ][ADRSEZCO_SP] |
-| <a id="ADRSIR">ADRSIR</a>      | ラズベリー・パイ専用 学習リモコン基板                                  | [製品ページ][ADRSIR_HP] | [サポートページ][ADRSIR_SP] |
-| <a id="ADRSRU2">ADRSRU2</a>    | Raspberry Pi 用リレー制御拡張基板 2回路版                             | [製品ページ][ADRSRU2_HP] | [サポートページ][ADRSRU2_SP] |
-| <a id="ADRSRU4">ADRSRU4</a>    | Raspberry Pi 用リレー制御拡張基板 4回路版                             | [製品ページ][ADRSRU4_HP] | [サポートページ][ADRSRU4_SP] |
-| <a id="ADRSRU8">ADRSRU8</a>    | Raspberry Pi 用リレー制御拡張基板 8回路版                             | [製品ページ][ADRSRU8_HP] | [サポートページ][ADRSRU8_SP] |
-| <a id="ADRSINS">ADRSINS</a>    | ラズベリーパイ専用 絶縁入力拡張ボード                                  | [製品ページ][ADRSINS_HP] | [サポートページ][ADRSINS_SP] |
-| <a id="ADRSSSDML">ADRSSSDML</a> | 汎用USB接続7セグメントLEDコントロールボード  大7セグ+制御ボード        |  [製品ページ][ADRSSSDML_HP] | [サポートページ][ADRSSSDML_SP] |
+| <a id="ADAUDIR">ADAUDIR</a>     | アルディーノ専用 学習リモコン基板                                      | [製品ページ][ADAUDIR_HP] | [サポートページ][ADAUDIR_SP] |
+| <a id="ADRSRTC">ADRSRTC</a>     | ラズベリーパイ専用リアルタイムクロック拡張ボード                         | [製品ページ][ADRSRTC_HP] | [サポートページ][ADRSRTC_SP] |
+| <a id="ADICGIR">ADICGIR</a>     | IchigoJam専用学習リモコン基板                                         | [製品ページ][ADICGIR_HP] | [サポートページ][ADICGIR_SP] |
+| <a id="ADMU32F">ADMU32F</a>     | WiFi対応！ロボット・工作キットを拡張！ 多機能リモコンボード「Duke32AIO」 | [製品ページ][ADMU32F_HP] | [サポートページ][ADMU32F_SP] |
+| <a id="ADRPTB8C">ADRPTB8C</a>   | ラズベリーパイ専用 汎用電動機制御基板                                  | [製品ページ][ADRPTB8C_HP] | [サポートページ][ADRPTB8C_SP] |
+| <a id="ADRSADC">ADRSADC</a>     | Raspberry Pi 用Arduino シールド変換基板                              | [製品ページ][ADRSADC_HP] | [サポートページ][ADRSADC_SP] |
+| <a id="ADRSBB">ADRSBB</a>       | Raspberry Pi 用ブレッドボード基板                                     | [製品ページ][ADRSBB_HP] | [サポートページ][ADRSBB_SP] |
+| <a id="ADRSEZCO">ADRSEZCO</a>   | Raspberry Pi 用端子台出力基板                                        | [製品ページ][ADRSEZCO_HP] | [サポートページ][ADRSEZCO_SP] |
+| <a id="ADRSIR">ADRSIR</a>       | ラズベリー・パイ専用 学習リモコン基板                                  | [製品ページ][ADRSIR_HP] | [サポートページ][ADRSIR_SP] |
+| <a id="ADRSRU2">ADRSRU2</a>     | Raspberry Pi 用リレー制御拡張基板 2回路版                             | [製品ページ][ADRSRU2_HP] | [サポートページ][ADRSRU2_SP] |
+| <a id="ADRSRU4">ADRSRU4</a>     | Raspberry Pi 用リレー制御拡張基板 4回路版                             | [製品ページ][ADRSRU4_HP] | [サポートページ][ADRSRU4_SP] |
+| <a id="ADRSRU8">ADRSRU8</a>     | Raspberry Pi 用リレー制御拡張基板 8回路版                             | [製品ページ][ADRSRU8_HP] | [サポートページ][ADRSRU8_SP] |
+| <a id="ADRSINS">ADRSINS</a>     | ラズベリーパイ専用 絶縁入力拡張ボード                                  | [製品ページ][ADRSINS_HP] | [サポートページ][ADRSINS_SP] |
+| <a id="ADRSSSDML">ADRSSSDML</a> | 汎用USB接続7セグメントLEDコントロールボード  大7セグ+制御ボード         |  [製品ページ][ADRSSSDML_HP] | [サポートページ][ADRSSSDML_SP] |
 | <a id="ADRSSSDMM">ADRSSSDMM</a> | 汎用USB接続7セグメントLEDコントロールボード 中7セグ+制御ボード          | [製品ページ][ADRSSSDMM_HP] | [サポートページ][ADRSSSDMM_SP] |
 | <a id="ADRSSSDMS">ADRSSSDMS</a> | 汎用USB接続7セグメントLEDコントロールボード  小7セグ+制御ボード         | [製品ページ][ADRSSSDMS_HP] | [サポートページ][ADRSSSDMS_SP] |
-| <a id="ADUBRU5">ADUBRU5</a>    | 汎用USB接続リレー制御基板 5回路版                                     | [製品ページ][ADUBRU5_HP] | [サポートページ][ADUBRU5_SP] |
-| <a id="ADUBRU9">ADUBRU9</a>    | 汎用USB接続リレー制御基板  9回路版                                    | [製品ページ][ADUBRU9_HP] | [サポートページ][ADUBRU9_SP] |
-| <a id="ADULEDB">ADULEDB</a>    | 汎用USB接続LEDコントロールボード                                      | [製品ページ][ADULEDB_HP] | [サポートページ][ADULEDB_SP] |
+| <a id="ADUBRU5">ADUBRU5</a>     | 汎用USB接続リレー制御基板 5回路版                                     | [製品ページ][ADUBRU5_HP] | [サポートページ][ADUBRU5_SP] |
+| <a id="ADUBRU9">ADUBRU9</a>     | 汎用USB接続リレー制御基板  9回路版                                    | [製品ページ][ADUBRU9_HP] | [サポートページ][ADUBRU9_SP] |
+| <a id="ADULEDB">ADULEDB</a>     | 汎用USB接続LEDコントロールボード                                      | [製品ページ][ADULEDB_HP] | [サポートページ][ADULEDB_SP] |
+| <a id="ADRS2040U">ADRS2040U</a> | ラズベリーパイ接続 RP2040エッジアクセラレータ                          | [製品ページ][ADRS2040U_HP] | [サポートページ][ADRS2040U_SP] |
 ||||
 | <a id="ADRSZBB">ADRSZBB</a>   | ラズベリーパイ専用GPIOスタック拡張ボード | [製品ページ][ADRSZBB_HP] | [サポートページ][ADRSZBB_SP] |
 | <a id="ADRSZBM">ADRSZBM</a>   | ゼロワン 温湿度・気圧センサ拡張基板      | [製品ページ][ADRSZBM_HP] | [サポートページ][ADRSZBM_SP] |
@@ -664,6 +665,11 @@ Raspberry Pi関連,ゼロワンシリーズ等
  
 [ADULEDB_HP]: https://bit-trade-one.co.jp/aduledb/
 [ADULEDB_SP]: https://github.com/bit-trade-one/ADULEDB-USBControll
+ 
+[ADRS2040U_HP]: https://bit-trade-one.co.jp/adrs2040u/
+[ADRS2040U_SP]: https://github.com/bit-trade-one/ADRS2040U
+ 
+ 
  
 [ADRSZBB_HP]: https://bit-trade-one.co.jp/adrszbb/
 [ADRSZBB_SP]: https://github.com/bit-trade-one/adrszbb-GPIO-expansion-board
