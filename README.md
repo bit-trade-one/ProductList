@@ -279,6 +279,10 @@ Raspberry Pi関連,ゼロワンシリーズ等
 | <a id="ADRL07">ADRL07</a> | 奇天烈電子工作 インバータモニター                   | [製品ページ][ADRL07_HP] | - |
 | <a id="ADRL12">ADRL12</a> | 奇天烈電子工作 ハードディスク連動LEDイルミネーション |  [製品ページ][ADRL12_HP] | - |
 
+
+
+
+
   <!-- 参照形式によるリンク 参考https://hail2u.net/blog/coding/markdown-reference-style-links.html -->
 
 [ADCQ1611AKRE_HP]: https://bit-trade-one.co.jp/product/module/adcq1611ap/
@@ -454,6 +458,7 @@ Raspberry Pi関連,ゼロワンシリーズ等
   
 [ADRL12_HP]: https://bit-trade-one.co.jp/adrl12/
 
+
  
 ---
 ## デバイス製品
@@ -583,7 +588,8 @@ Raspberry Pi関連,ゼロワンシリーズ等
 | <a id="ADUBRU5">ADUBRU5</a>     | 汎用USB接続リレー制御基板 5回路版                                     | [製品ページ][ADUBRU5_HP] | [サポートページ][ADUBRU5_SP] |
 | <a id="ADUBRU9">ADUBRU9</a>     | 汎用USB接続リレー制御基板  9回路版                                    | [製品ページ][ADUBRU9_HP] | [サポートページ][ADUBRU9_SP] |
 | <a id="ADULEDB">ADULEDB</a>     | 汎用USB接続LEDコントロールボード                                      | [製品ページ][ADULEDB_HP] | [サポートページ][ADULEDB_SP] |
-| <a id="ADRS2040U">ADRS2040U</a> | ラズベリーパイ接続 RP2040エッジアクセラレータ                          | [製品ページ][ADRS2040U_HP] | [サポートページ][ADRS2040U_SP] |
+| <a id="ADRS2040U">ADRS2040U</a> | ラズベリーパイ接続 RP2040エッジアクセラレータ                          | [製品ページ][ADRS2040U_HP] | [サポートページ][ADRS2040U_SP]|
+| <a id="ADRSPWDJ">ADRSPWDJ</a>   | Raspberry Pi DC電源入力拡張ボード                                     | [製品ページ][ADRSPWDJ_HP] | [サポートページ][ADRSPWDJ_SP]| 
 ||||
 | <a id="ADRSZBB">ADRSZBB</a>   | ラズベリーパイ専用GPIOスタック拡張ボード | [製品ページ][ADRSZBB_HP] | [サポートページ][ADRSZBB_SP] |
 | <a id="ADRSZBM">ADRSZBM</a>   | ゼロワン 温湿度・気圧センサ拡張基板      | [製品ページ][ADRSZBM_HP] | [サポートページ][ADRSZBM_SP] |
@@ -606,6 +612,8 @@ Raspberry Pi関連,ゼロワンシリーズ等
 | <a id="ADRSZSN">ADRSZSN</a>   | ゼロワン ソレノイド拡張基板              | [製品ページ][ADRSZSN_HP] | [サポートページ][ADRSZSN_SP] |
 | <a id="ADRSZSW">ADRSZSW</a>   | ゼロワン 照光スイッチ拡張基板             | [製品ページ][ADRSZSW_HP] | [サポートページ][ADRSZSW_SP] |
 | <a id="ADRSZUP">ADRSZUP</a>   | ゼロワン 電源保持基板                    | [製品ページ][ADRSZUP_HP] | [サポートページ][ADRSZUP_SP] |
+||||
+| <a id="AD2040AA">AD2040AA</a> | Raspberry Pi Pico 単3電池拡張ボード                 | [製品ページ][AD2040AA_HP] | [サポートページ][AD2040AA_SP] |
 
 <!-- 参照形式によるリンク 参考https://hail2u.net/blog/coding/markdown-reference-style-links.html -->
 
@@ -668,6 +676,9 @@ Raspberry Pi関連,ゼロワンシリーズ等
  
 [ADRS2040U_HP]: https://bit-trade-one.co.jp/adrs2040u/
 [ADRS2040U_SP]: https://github.com/bit-trade-one/ADRS2040U
+
+[ADRSPWDJ_HP]: https://bit-trade-one.co.jp/adrspwdj/
+[ADRSPWDJ_SP]: https://github.com/bit-trade-one/ADRSPWDJ
  
  
  
@@ -734,7 +745,9 @@ Raspberry Pi関連,ゼロワンシリーズ等
 [ADRSZUP_HP]: https://bit-trade-one.co.jp/adrszup/
 [ADRSZUP_SP]: https://github.com/bit-trade-one/RasPi-Zero-One-Series
  
- 
+[AD2040AA_HP]: https://bit-trade-one.co.jp/ad2040aa/
+[AD2040AA_SP]: https://github.com/bit-trade-one/AD2040AA
+
 ---
 
 
