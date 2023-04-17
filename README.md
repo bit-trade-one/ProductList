@@ -72,6 +72,7 @@ Raspberry Pi関連,ゼロワンシリーズ等
 | <a id="ADE32CD">ADE32CD</a>     | ESP32オーディオストリーミングスタンド実験ボード「Connected Doll」       | [製品ページ][ADE32CD_HP] | [サポートページ][ADE32CD_SP] |
 | <a id="ADTTM8">ADTTM8</a>       | ロジックICで創る自作CPU組み立てキット「TTM8」                           | [製品ページ][ADTTM8_HP] | - |
 | <a id="ADSEMX">ADSEMX</a>       | 俺の効果音!!                                                          | [製品ページ][ADSEMX_HP] | [サポートページ][ADSEMX_SP] |
+| <a id="b03079">b03079</a>       | ESP32タッチ液晶モジュール                                              | [製品ページ][b03079_HP] | [サポートページ][b03079_SP] |
 
 
  <!-- 参照形式によるリンク 参考https://hail2u.net/blog/coding/markdown-reference-style-links.html -->
@@ -207,8 +208,9 @@ Raspberry Pi関連,ゼロワンシリーズ等
 
 [ADSEMX_HP]: https://bit-trade-one.co.jp/adsemx/
 [ADSEMX_SP]: https://github.com/bit-trade-one/ADSEMX
-  
- 
+
+[b03079_HP]: https://bit-trade-one.co.jp/blog/20230414/
+[b03079_SP]: https://github.com/bit-trade-one/b03079
 
 ---
 ## 雑誌連動製品
