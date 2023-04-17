@@ -11,14 +11,14 @@
 ## 目次
 - [BitTradeOneブランド](#bittradeoneブランド)
 モジュール,タッチデバイス等 
-- [雑誌連動製品](#雑誌連動製品)
-CQ出版,技術評論社,日経BP,シェルスクリプトマガジン,ラジオライフ等
 - [デバイス製品](#デバイス製品)
  USB2BTPLUSやUSBCableChecker2など
 - [自作キーボード関連等](#自作キーボード関連等)
 - [IoT製品](#iot製品)
 Raspberry Pi関連,ゼロワンシリーズ等
 - [業務用シリーズ](#業務用シリーズ)
+- [雑誌連動製品](#雑誌連動製品)
+CQ出版,技術評論社,日経BP,シェルスクリプトマガジン,ラジオライフ等
 - [旧AssemblyDeskファイルアップローダ保管ページ](#旧assemblydeskファイルアップローダ保管ページ) 
 
  
@@ -214,253 +214,6 @@ Raspberry Pi関連,ゼロワンシリーズ等
 [b03079_HP]: https://bit-trade-one.co.jp/blog/20230414/
 [b03079_SP]: https://github.com/bit-trade-one/b03079
 
----
-## 雑誌連動製品
-[目次へ戻る](#目次) / [対応機器一覧表](MagazineProduct_CorrespondenceList.md)
-
-| 型番| 製品名 | 製品HPリンク | サポートリンク | 
-| --- | --- | --- | --- |
-| <a id="ADCQ1611AKRE">ADCQ1611AKRE</a> | PICスパコン ラズベリーパイ拡張モジュール PiCCASO キット                | [製品ページ][ADCQ1611AKRE_HP] | [サポートページ][ADCQ1611AKRE_SP] |
-| <a id="ADCQ1611APRE">ADCQ1611APRE</a> | PICスパコン ラズベリーパイ拡張モジュール PiCCASO 組立済                | [製品ページ][ADCQ1611APRE_HP] | [サポートページ][ADCQ1611APRE_SP] |
-| <a id="ADCQ1611BKRE">ADCQ1611BKRE</a> | ラズベリー・パイ対応！サーボモーター制御拡張モジュール キット            | [製品ページ][ADCQ1611BKRE_HP] | [サポートページ][ADCQ1611BKRE_SP] |
-| <a id="ADCQ1611BPRE">ADCQ1611BPRE</a> | ラズベリー・パイ対応！サーボモーター制御拡張モジュール 組立済            | [製品ページ][ADCQ1611BPRE_HP] | [サポートページ][ADCQ1611BPRE_SP] |
-| <a id="ADCQ1612PB">ADCQ1612PB</a>     | Bluetooth搭載　周波数レスポンス・アナライザ 小冊子付スペシャルバージョン | [製品ページ][ADCQ1612PB_HP] | [サポートページ][ADCQ1612PB_SP] |
-| <a id="ADCQ1706AKRE">ADCQ1706AKRE</a> | ラズベリー・パイ対応！トラ技デジマルUSBマルチメータ キット               | [製品ページ][ADCQ1706AKRE_HP] | [サポートページ][ADCQ1706AKRE_SP] |
-| <a id="ADCQ1706APRE">ADCQ1706APRE</a> | ラズベリー・パイ対応！トラ技デジマルUSBマルチメータ 組立済               | [製品ページ][ADCQ1706APRE_HP] | [サポートページ][ADCQ1706APRE_SP] |
-| <a id="ADCQ1706BPRE">ADCQ1706BPRE</a> | ラズベリー・パイ対応！USBオシロスコープ                                 | [製品ページ][ADCQ1706BPRE_HP] | [サポートページ][ADCQ1706BPRE_SP] |
-| <a id="ADCQ1706CPRE">ADCQ1706CPRE</a> | ラズベリー・パイ対応！μアンペア・オシロ                                 | [製品ページ][ADCQ1706CPRE_HP] | [サポートページ][ADCQ1706CPRE_SP] |
-| <a id="ADCQ1708CKRE">ADCQ1708CKRE</a> | ラズベリー・パイ対応！波形発生器Wave Generator　キット                  | [製品ページ][ADCQ1708CKRE_HP] | [サポートページ][ADCQ1708CKRE_SP] |
-| <a id="ADCQ1708CPRE">ADCQ1708CPRE</a> | ラズベリー・パイ対応！波形発生器Wave Generator　組立済                  | [製品ページ][ADCQ1708CPRE_HP] | [サポートページ][ADCQ1708CPRE_SP] |
-| <a id="ADCQ1708DKRE">ADCQ1708DKRE</a> | ラズベリー・パイ対応！レベル測定ボード　キット                           | [製品ページ][ADCQ1708DKRE_HP] | [サポートページ][ADCQ1708DKRE_SP] |
-| <a id="ADCQ1708DPRE">ADCQ1708DPRE</a> | ラズベリー・パイ対応！レベル測定ボード　組立済                           | [製品ページ][ADCQ1708DPRE_HP] | [サポートページ][ADCQ1708DPRE_SP] |
-| <a id="ADCQ1805K">ADCQ1805K</a>       | IoT時代のマイコンC言語入門ボード"PICoT"（ピコット） キット               | [製品ページ][ADCQ1805K_HP] | [サポートページ][ADCQ1805K_SP] |
-| <a id="ADCQ1805OP">ADCQ1805OP</a>     | IoT時代のマイコンC言語入門ボード"PICoT"（ピコット） オプションボード      | [製品ページ][ADCQ1805OP_HP] | - |
-| <a id="ADCQ1805P">ADCQ1805P</a>       | IoT時代のマイコンC言語入門ボード"PICoT"（ピコット） 組立済               | [製品ページ][ADCQ1805P_HP] | [サポートページ][ADCQ1805P_SP] |
-| <a id="ADCQ1904">ADCQ1904</a>         | ラズパイ用ハードウェア・アクセラレート基板"PiSoC"                        | [製品ページ][ADCQ1904_HP] | [サポートページ][ADCQ1904_SP] |
-| <a id="ADCQ1905K">ADCQ1905K</a>       | ラズパイ拡張基板 IoT 実験コンピュータ "Apple Pi" 部品セット              | [製品ページ][ADCQ1905K_HP] | [サポートページ][ADCQ1905K_SP] |
-| <a id="ADCQ1905P">ADCQ1905P</a>       | ラズパイ拡張基板 IoT 実験コンピュータ "Apple Pi" 組立済                  | [製品ページ][ADCQ1905P_HP] | [サポートページ][ADCQ1905P_SP] |
-| <a id="ADCQHR1702B">ADCQHR1702B</a>   | Web記事で作れる！CQ ham radioコラボ製品 <br> 作って合点！　ラジオのしくみ　No.1　ゲルマニウム・ラジオ キット        | [製品ページ][ADCQHR1702B_HP] | [サポートページ][ADCQHR1702B_SP] |
-| <a id="ADCQHR1703B">ADCQHR1703B</a>   | Web記事で作れる！CQ ham radioコラボ製品 <br> 作って合点！ラジオのしくみ No.２ ストレート・ラジオ キット            | [製品ページ][ADCQHR1703B_HP] | [サポートページ][ADCQHR1703B_SP] |
-| <a id="ADCQHR1704B">ADCQHR1704B</a>   | Web記事で作れる！CQ ham radioコラボ製品 <br> 作って合点！　ラジオのしくみ　No.3　レフレックス・ラジオ キット       | [製品ページ][ADCQHR1704B_HP] | [サポートページ][ADCQHR1704B_SP] |
-| <a id="ADCQHR1705B">ADCQHR1705B</a>   | Web記事で作れる！CQ ham radioコラボ製品 <br> 作って合点！　ラジオのしくみ　No.4　スーパーヘテロダイン・ラジオ キット| [製品ページ][ADCQHR1705B_HP] | [サポートページ][ADCQHR1705B_SP] |
-||||
-| <a id="ADGH01K">ADGH01K</a>           | ラズベリーパイ接続　GPIO入出力インターフェース汎用テストボード[ラズパイ3対応] キット                 | [製品ページ][ADGH01K_HP] | [サポートページ][ADGH01K_SP] |
-| <a id="ADGH01P">ADGH01P</a>           | ラズベリーパイ接続　GPIO入出力インターフェース汎用テストボード[ラズパイ3対応]組立済み                | [製品ページ][ADGH01P_HP] | [サポートページ][ADGH01P_SP] |
-| <a id="ADGH02K">ADGH02K</a>           | ラズベリーパイ接続　時計制御ボード“おしゃべり時計”[ラズパイ3対応]　キット                           | [製品ページ][ADGH02K_HP] | [サポートページ][ADGH02K_SP] |
-| <a id="ADGH02P">ADGH02P</a>           | ラズベリーパイ接続　時計制御ボード“おしゃべり時計”[ラズパイ3対応]　組立済み                         | [製品ページ][ADGH02P_HP] | [サポートページ][ADGH02P_SP] |
-| <a id="ADGH03K">ADGH03K</a>           | ラズベリーパイ接続　ラジオ制御ボード“赤外線リモコン対応インターネットラジオ”[ラズパイ3対応]　キット   | [製品ページ][ADGH03K_HP] | [サポートページ][ADGH03K_SP] |
-| <a id="ADGH03P">ADGH03P</a>           | ラズベリーパイ接続　ラジオ制御ボード“赤外線リモコン対応インターネットラジオ”[ラズパイ3対応]　組立済み  | [製品ページ][ADGH03P_HP] | [サポートページ][ADGH03P_SP] |
-| <a id="ADGH04K">ADGH04K</a>           | ラズベリーパイ接続　室内環境データ収集ボード“データロガー”[ラズパイ3対応]　キット                    | [製品ページ][ADGH04K_HP] | [サポートページ][ADGH04K_SP] |
-| <a id="ADGH04P">ADGH04P</a>           | ラズベリーパイ接続　室内環境データ収集ボード“データロガー”[ラズパイ3対応]　組立済み                  | [製品ページ][ADGH04P_HP] | [サポートページ][ADGH04P_SP] |
-| <a id="ADGH05K">ADGH05K</a>           | ラズベリーパイ接続　サーボモータ制御ボード　 [ラズパイ3対応]　キット                                | [製品ページ][ADGH05K_HP] | [サポートページ][ADGH05K_SP] |
-| <a id="ADGH05P">ADGH05P</a>           | ラズベリーパイ接続　サーボモータ制御ボード　 [ラズパイ3対応]　組立済み                              | [製品ページ][ADGH05P_HP] | [サポートページ][ADGH05P_SP] |
-| <a id="ADGH06K">ADGH06K</a>           | ラズベリーパイ接続　DCモータ制御ボード　 [ラズパイ3対応]　キット                                   | [製品ページ][ADGH06K_HP] | [サポートページ][ADGH06K_SP] |
-| <a id="ADGH06P">ADGH06P</a>           | ラズベリーパイ接続　DCモータ制御ボード　 [ラズパイ3対応]　組立済み                                 | [製品ページ][ADGH06P_HP] | [サポートページ][ADGH06P_SP] |
-| <a id="ADGH07K">ADGH07K</a>           | 技術評論社書籍連動企画Arduinoで楽しむ鉄道模型実験ボード キット                                     | [製品ページ][ADGH07K_HP] | [サポートページ][ADGH07K_SP] |
-| <a id="ADGH07P">ADGH07P</a>           | 技術評論社書籍連動企画Arduinoで楽しむ鉄道模型実験ボード 組立済                                     | [製品ページ][ADGH07P_HP] | [サポートページ][ADGH07P_SP] |
-| <a id="ADGH184APC">ADGH184APC</a>     | ｢C言語によるPICプログラミング大全」アナログ基板                                                   | [製品ページ][ADGH184APC_HP] | [サポートページ][ADGH184APC_SP] |
-| <a id="ADGH184DPC">ADGH184DPC</a>     |「C言語によるPICプログラミング大全」デジタル基板                                                   | [製品ページ][ADGH184DPC_HP] | [サポートページ][ADGH184DPC_SP] |
-||||
-| <a id="ADRPM1801C">ADRPM1801C</a>     | ラズパイマガジン連動 ラズベリーパイ用ハイレゾDAC拡張ボード 外部システムクロックボード   | [製品ページ][ADRPM1801C_HP] | [サポートページ][ADRPM1801C_SP] |
-| <a id="ADRPM1901KB">ADRPM1901KB</a>   | 実験パーツてんこもり「主要パーツすぐに試せるボード」 　キット                          | [製品ページ][ADRPM1901KB_HP] | [サポートページ][ADRPM1901KB_SP] |
-| <a id="ADRPM1901PB">ADRPM1901PB</a>   | 実験パーツてんこもり「主要パーツすぐに試せるボード」 　組立済                          | [製品ページ][ADRPM1901PB_HP] | [サポートページ][ADRPM1901PB_SP] |
-| <a id="ADRPM1902K">ADRPM1902K</a>     | ラズパイマガジン連動 ラズベリーパイ用ハイレゾDAC拡張ボード 部品セット                  | [製品ページ][ADRPM1902K_HP] | [サポートページ][ADRPM1902K_SP] |
-| <a id="ADRPM1902P">ADRPM1902P</a>     | ラズパイマガジン連動 ラズベリーパイ用ハイレゾDAC拡張ボード 組立済                      | [製品ページ][ADRPM1902P_HP] | [サポートページ][ADRPM1902P_SP] |
-| <a id="ADRPM1903K">ADRPM1903K</a>     | ラズベリーパイ用GPS拡張ボード“GPSCAP” キット                                        | [製品ページ][ADRPM1903K_HP] | [サポートページ][ADRPM1903K_SP] |
-| <a id="ADRPM1903P">ADRPM1903P</a>     | ラズベリーパイ用GPS拡張ボード“GPSCAP” 組立済                                        | [製品ページ][ADRPM1903P_HP] | [サポートページ][ADRPM1903P_SP] |
-| <a id="ADRPM2001K">ADRPM2001K</a>     | ラズパイマガジンで学ぶ！基本パーツ配線済みボード　 部品セット（基板は付属しません）     | [製品ページ][ADRPM2001K_HP] | - | 
-| <a id="ADRPM2001P">ADRPM2001P</a>     | ラズパイマガジンで学ぶ！基本パーツ配線済みボード　 組立済                             | [製品ページ][ADRPM2001P_HP] | - | 
-| <a id="ADRPM5122P">ADRPM5122P</a>     | ラズパイマガジン連動 ラズベリーパイ用ハイレゾDAC拡張ボード モジュールのみ              |  [製品ページ][ADRPM5122P_HP] | - |                        
-||||
-| <a id="ADSSMG01KM">ADSSMG01KM</a>     | リニューアル小冊子付！ ラズパイ入門ボード キット                    |  [製品ページ][ADSSMG01KM_HP] | [サポートページ][ADSSMG01KM_SP] |
-| <a id="ADSSMG01PM">ADSSMG01PM</a>     | リニューアル小冊子付！ ラズパイ入門ボード 組立済                    |  [製品ページ][ADSSMG01PM_HP] | [サポートページ][ADSSMG01PM_SP] |
-| <a id="ADSSMG02PM">ADSSMG02PM</a>     | リニューアル小冊子付！ラズパイセンサーボード                        |  [製品ページ][ADSSMG02PM_HP] | [サポートページ][ADSSMG02PM_SP] |
-| <a id="ADJTSB01">ADJTSB01</a>         | シェルスクリプトマガジン連動！Jetson ＆ Pi 電力測定ボード           |  [製品ページ][ADJTSB01_HP]   | - |
-| <a id="ADJTSB01B">ADJTSB01B</a>       | シェルスクリプトマガジン連動！Jetson ＆ Pi 電力測定ボード 書籍同梱版 |  [製品ページ][ADJTSB01B_HP]  | - |
-||||
-| <a id="ADRL01">ADRL01</a> | 奇天烈電子工作 ピー音発生装置                       | [製品ページ][ADRL01_HP] | - |
-| <a id="ADRL06">ADRL06</a> | 奇天烈電子工作 LED電圧＆電流テスター                | [製品ページ][ADRL06_HP] | - |
-| <a id="ADRL07">ADRL07</a> | 奇天烈電子工作 インバータモニター                   | [製品ページ][ADRL07_HP] | - |
-| <a id="ADRL12">ADRL12</a> | 奇天烈電子工作 ハードディスク連動LEDイルミネーション |  [製品ページ][ADRL12_HP] | - |
-
-
-
-
-
-  <!-- 参照形式によるリンク 参考https://hail2u.net/blog/coding/markdown-reference-style-links.html -->
-
-[ADCQ1611AKRE_HP]: https://bit-trade-one.co.jp/product/module/adcq1611ap/
-[ADCQ1611AKRE_SP]:https://github.com/bit-trade-one/ADCQ1611AP_CQ_PICCASO
-  
-[ADCQ1611APRE_HP]: https://bit-trade-one.co.jp/product/module/adcq1611ap/
-[ADCQ1611APRE_SP]: https://github.com/bit-trade-one/ADCQ1611AP_CQ_PICCASO
-  
-[ADCQ1611BKRE_HP]: https://bit-trade-one.co.jp/product/module/adcq1611bp/
-[ADCQ1611BKRE_SP]: https://github.com/bit-trade-one/ADCQ1611BP_CQ_ServoController
-  
-[ADCQ1611BPRE_HP]: https://bit-trade-one.co.jp/product/module/adcq1611bp/
-[ADCQ1611BPRE_SP]:https://github.com/bit-trade-one/ADCQ1611BP_CQ_ServoController
-  
-[ADCQ1612PB_HP]: https://bit-trade-one.co.jp/product/module/adcq1612pb/
-[ADCQ1612PB_SP]: https://github.com/bit-trade-one/ADCQ1612_Frequency_Response_Analyzer
-  
-[ADCQ1706AKRE_HP]: https://bit-trade-one.co.jp/product/module/adcq1706ap/
-[ADCQ1706AKRE_SP]: https://github.com/bit-trade-one/ADCQ1706AP_Digital_Multi_Meter
-  
-[ADCQ1706APRE_HP]: https://bit-trade-one.co.jp/product/module/adcq1706ap/
-[ADCQ1706APRE_SP]: https://github.com/bit-trade-one/ADCQ1706AP_Digital_Multi_Meter
-  
-[ADCQ1706BPRE_HP]: https://bit-trade-one.co.jp/product/module/adcq1706bp/
-[ADCQ1706BPRE_SP]: https://github.com/bit-trade-one/ADCQ1706BP_OscilloScope
-  
-[ADCQ1706CPRE_HP]: https://bit-trade-one.co.jp/product/module/adcq1706cp/
-[ADCQ1706CPRE_SP]: https://github.com/bit-trade-one/ADCQ1706CP_micro_Ampere_Oscillo
-  
-[ADCQ1708CKRE_HP]: https://bit-trade-one.co.jp/product/assemblydisk/adcq1708cp/
-[ADCQ1708CKRE_SP]: https://github.com/bit-trade-one/ADCQ1708CP_Wave_generator
-  
-[ADCQ1708CPRE_HP]: https://bit-trade-one.co.jp/product/assemblydisk/adcq1708cp/
-[ADCQ1708CPRE_SP]: https://github.com/bit-trade-one/ADCQ1708CP_Wave_generator
-  
-[ADCQ1708DKRE_HP]: https://bit-trade-one.co.jp/product/module/adcq1708dp/
-[ADCQ1708DKRE_SP]: https://github.com/bit-trade-one/ADCQ1708DP_Level_measure_board
-  
-[ADCQ1708DPRE_HP]: https://bit-trade-one.co.jp/product/module/adcq1708dp/
-[ADCQ1708DPRE_SP]: https://github.com/bit-trade-one/ADCQ1708DP_Level_measure_board
-  
-[ADCQ1805K_HP]: https://bit-trade-one.co.jp/product/assemblydisk/adcq1805p/
-[ADCQ1805K_SP]: https://github.com/bit-trade-one/ADCQ1805P_PICoT
-  
-[ADCQ1805OP_HP]: https://bit-trade-one.co.jp/product/assemblydisk/adcq1805p/
-
-  
-[ADCQ1805P_HP]: https://bit-trade-one.co.jp/product/assemblydisk/adcq1805p/
-[ADCQ1805P_SP]: https://github.com/bit-trade-one/ADCQ1805P_PICoT
-  
-[ADCQ1904_HP]: https://bit-trade-one.co.jp/adcq1904/
-[ADCQ1904_SP]: https://github.com/bit-trade-one/ADCQ1904_HardwareAccelerator_PiSoC
-  
-[ADCQ1905K_HP]: https://bit-trade-one.co.jp/adcq1905/
-[ADCQ1905K_SP]: https://github.com/bit-trade-one/ADCQ1905_IoT_Extended_Board_ApplePi
-  
-[ADCQ1905P_HP]: https://bit-trade-one.co.jp/adcq1905/
-[ADCQ1905P_SP]: https://github.com/bit-trade-one/ADCQ1905_IoT_Extended_Board_ApplePi
-  
-[ADCQHR1702B_HP]: https://bit-trade-one.co.jp/product/assemblydisk/adcqhr1702/
-[ADCQHR1702B_SP]: https://github.com/bit-trade-one/ADCQHR1702_Germanium_Radio
-  
-[ADCQHR1703B_HP]: https://bit-trade-one.co.jp/product/assemblydisk/adcqhr1703/
-[ADCQHR1703B_SP]: https://github.com/bit-trade-one/ADCQHR1703_Straight_Radio
-  
-[ADCQHR1704B_HP]: https://bit-trade-one.co.jp/product/assemblydisk/adcqhr1704/
-[ADCQHR1704B_SP]: https://github.com/bit-trade-one/ADCQHR1704_Reflex_Radio
-  
-[ADCQHR1705B_HP]: https://bit-trade-one.co.jp/product/assemblydisk/adcqhr1705/
-[ADCQHR1705B_SP]: https://github.com/bit-trade-one/ADCQHR1705_Superheterodyne_Radio
-  
-[ADGH01K_HP]: https://bit-trade-one.co.jp/product/picraspi/adgh01/
-[ADGH01K_SP]: https://github.com/bit-trade-one/ADCQHR1705_Superheterodyne_Radio
-  
-[ADGH01P_HP]: https://bit-trade-one.co.jp/product/picraspi/adgh01/
-[ADGH01P_SP]: https://github.com/bit-trade-one/ADGH01P_GPIO_Interface_Testboard
-  
-[ADGH02K_HP]: https://bit-trade-one.co.jp/product/picraspi/adgh02/
-[ADGH02K_SP]: https://github.com/bit-trade-one/ADGH02P_Talk_Clock_Controller
-  
-[ADGH02P_HP]: https://bit-trade-one.co.jp/product/picraspi/adgh02/
-[ADGH02P_SP]: https://github.com/bit-trade-one/ADGH02P_Talk_Clock_Controller
-  
-[ADGH03K_HP]: https://bit-trade-one.co.jp/product/picraspi/adgh03/
-[ADGH03K_SP]: https://github.com/bit-trade-one/ADGH03P_IR_Remocon_InternetRadio
-  
-[ADGH03P_HP]: https://bit-trade-one.co.jp/product/picraspi/adgh03/
-[ADGH03P_SP]: https://github.com/bit-trade-one/ADGH03P_IR_Remocon_InternetRadio
-  
-[ADGH04K_HP]: https://bit-trade-one.co.jp/product/picraspi/adgh04/
-[ADGH04K_SP]: https://github.com/bit-trade-one/ADGH04K_Enviroment_Data_Logger_Kit
-  
-[ADGH04P_HP]: https://bit-trade-one.co.jp/product/picraspi/adgh04/
-[ADGH04P_SP]: https://github.com/bit-trade-one/ADGH04P_Enviroment_Data_Logger
-  
-[ADGH05K_HP]: https://bit-trade-one.co.jp/product/picraspi/adgh05/
-[ADGH05K_SP]: https://github.com/bit-trade-one/ADGH05P_ServoMotor_Control_Board
-  
-[ADGH05P_HP]: https://bit-trade-one.co.jp/product/picraspi/adgh05/
-[ADGH05P_SP]: https://github.com/bit-trade-one/ADGH05P_ServoMotor_Control_Board
-  
-[ADGH06K_HP]: https://bit-trade-one.co.jp/product/picraspi/adgh06p/
-[ADGH06K_SP]: https://github.com/bit-trade-one/ADGH06P_DCmotor_Control_board
-  
-[ADGH06P_HP]: https://bit-trade-one.co.jp/product/picraspi/adgh06p/
-[ADGH06P_SP]: https://github.com/bit-trade-one/ADGH06P_DCmotor_Control_board
-  
-[ADGH07K_HP]: https://bit-trade-one.co.jp/product/assemblydisk/adgh07/
-[ADGH07K_SP]: https://github.com/bit-trade-one/ADGH07_ScaleModelRailway_Controller
-  
-[ADGH07P_HP]: https://bit-trade-one.co.jp/product/assemblydisk/adgh07/
-[ADGH07P_SP]: https://github.com/bit-trade-one/ADGH07_ScaleModelRailway_Controller
-  
-[ADGH184APC_HP]: https://bit-trade-one.co.jp/product/assemblydisk/adgh184apc/
-[ADGH184APC_SP]: https://github.com/bit-trade-one/ADGH184-Pic-Programming-Complete-Book
-  
-[ADGH184DPC_HP]: https://bit-trade-one.co.jp/product/assemblydisk/adgh184apc/
-[ADGH184DPC_SP]: https://github.com/bit-trade-one/ADGH184-Pic-Programming-Complete-Book
-  
-[ADRPM1801C_HP]: https://bit-trade-one.co.jp/adrpm1902/
-[ADRPM1801C_SP]: https://github.com/bit-trade-one/ADRPM1902_RasPi_Hi-Res_DAC
-  
-[ADRPM1901KB_HP]: https://bit-trade-one.co.jp/adrpm1901/
-[ADRPM1901KB_SP]: https://github.com/bit-trade-one/ADRPM1901
-  
-[ADRPM1901PB_HP]: https://bit-trade-one.co.jp/adrpm1901/
-[ADRPM1901PB_SP]: https://github.com/bit-trade-one/ADRPM1901
-  
-[ADRPM1902K_HP]: https://bit-trade-one.co.jp/adrpm1902/
-[ADRPM1902K_SP]: https://github.com/bit-trade-one/ADRPM1902_RasPi_Hi-Res_DAC
-  
-[ADRPM1902P_HP]: https://bit-trade-one.co.jp/adrpm1902/
-[ADRPM1902P_SP]: https://github.com/bit-trade-one/ADRPM1902_RasPi_Hi-Res_DAC
-  
-[ADRPM1903K_HP]: https://bit-trade-one.co.jp/adrpm1903/
-[ADRPM1903K_SP]: https://github.com/bit-trade-one/ADRPM1903_GPS_CAP
-  
-[ADRPM1903P_HP]: https://bit-trade-one.co.jp/adrpm1903/
-[ADRPM1903P_SP]: https://github.com/bit-trade-one/ADRPM1903_GPS_CAP
-  
-[ADRPM2001K_HP]: https://bit-trade-one.co.jp/adrpm2001/
-
-  
-[ADRPM2001P_HP]: https://bit-trade-one.co.jp/adrpm2001/
-
-  
-[ADRPM5122P_HP]: 	https://bit-trade-one.co.jp/adrpm1902/
-
-  
-[ADSSMG01KM_HP]: https://bit-trade-one.co.jp/product/assemblydisk/adssmg01gk/
-[ADSSMG01KM_SP]: https://github.com/bit-trade-one/ADSSMG01_RaspberryPi_Beginning_board
-  
-[ADSSMG01PM_HP]: https://bit-trade-one.co.jp/product/assemblydisk/adssmg01gk/
-[ADSSMG01PM_SP]: https://github.com/bit-trade-one/ADSSMG01_RaspberryPi_Beginning_board
-  
-[ADSSMG02PM_HP]: https://bit-trade-one.co.jp/adssmg02/
-[ADSSMG02PM_SP]: https://github.com/bit-trade-one/ADSSMG02_RasPi_Sensor_Board
-  
-[ADJTSB01_HP]: 	https://bit-trade-one.co.jp/adjtsb01/
-
-  
-[ADJTSB01B_HP]: 	https://bit-trade-one.co.jp/adjtsb01/
-
-  
-[ADRL01_HP]: https://bit-trade-one.co.jp/adrl01/
-
-  
-[ADRL06_HP]: https://bit-trade-one.co.jp/adrl06/
-
-  
-[ADRL07_HP]: 	https://bit-trade-one.co.jp/adrl07/
-
-  
-[ADRL12_HP]: https://bit-trade-one.co.jp/adrl12/
 
 
  
@@ -784,6 +537,255 @@ Raspberry Pi関連,ゼロワンシリーズ等
 
 [ADBSDIO_HP]: https://bit-trade-one.co.jp/adbsdio/
 [ADBSDIO_SP]: https://bit-trade-one.github.io/ADBSDIO_BrowserSwitchDIO/
+
+---
+
+## 雑誌連動製品
+[目次へ戻る](#目次) / [対応機器一覧表](MagazineProduct_CorrespondenceList.md)
+
+| 型番| 製品名 | 製品HPリンク | サポートリンク | 
+| --- | --- | --- | --- |
+| <a id="ADCQ1611AKRE">ADCQ1611AKRE</a> | PICスパコン ラズベリーパイ拡張モジュール PiCCASO キット                | [製品ページ][ADCQ1611AKRE_HP] | [サポートページ][ADCQ1611AKRE_SP] |
+| <a id="ADCQ1611APRE">ADCQ1611APRE</a> | PICスパコン ラズベリーパイ拡張モジュール PiCCASO 組立済                | [製品ページ][ADCQ1611APRE_HP] | [サポートページ][ADCQ1611APRE_SP] |
+| <a id="ADCQ1611BKRE">ADCQ1611BKRE</a> | ラズベリー・パイ対応！サーボモーター制御拡張モジュール キット            | [製品ページ][ADCQ1611BKRE_HP] | [サポートページ][ADCQ1611BKRE_SP] |
+| <a id="ADCQ1611BPRE">ADCQ1611BPRE</a> | ラズベリー・パイ対応！サーボモーター制御拡張モジュール 組立済            | [製品ページ][ADCQ1611BPRE_HP] | [サポートページ][ADCQ1611BPRE_SP] |
+| <a id="ADCQ1612PB">ADCQ1612PB</a>     | Bluetooth搭載　周波数レスポンス・アナライザ 小冊子付スペシャルバージョン | [製品ページ][ADCQ1612PB_HP] | [サポートページ][ADCQ1612PB_SP] |
+| <a id="ADCQ1706AKRE">ADCQ1706AKRE</a> | ラズベリー・パイ対応！トラ技デジマルUSBマルチメータ キット               | [製品ページ][ADCQ1706AKRE_HP] | [サポートページ][ADCQ1706AKRE_SP] |
+| <a id="ADCQ1706APRE">ADCQ1706APRE</a> | ラズベリー・パイ対応！トラ技デジマルUSBマルチメータ 組立済               | [製品ページ][ADCQ1706APRE_HP] | [サポートページ][ADCQ1706APRE_SP] |
+| <a id="ADCQ1706BPRE">ADCQ1706BPRE</a> | ラズベリー・パイ対応！USBオシロスコープ                                 | [製品ページ][ADCQ1706BPRE_HP] | [サポートページ][ADCQ1706BPRE_SP] |
+| <a id="ADCQ1706CPRE">ADCQ1706CPRE</a> | ラズベリー・パイ対応！μアンペア・オシロ                                 | [製品ページ][ADCQ1706CPRE_HP] | [サポートページ][ADCQ1706CPRE_SP] |
+| <a id="ADCQ1708CKRE">ADCQ1708CKRE</a> | ラズベリー・パイ対応！波形発生器Wave Generator　キット                  | [製品ページ][ADCQ1708CKRE_HP] | [サポートページ][ADCQ1708CKRE_SP] |
+| <a id="ADCQ1708CPRE">ADCQ1708CPRE</a> | ラズベリー・パイ対応！波形発生器Wave Generator　組立済                  | [製品ページ][ADCQ1708CPRE_HP] | [サポートページ][ADCQ1708CPRE_SP] |
+| <a id="ADCQ1708DKRE">ADCQ1708DKRE</a> | ラズベリー・パイ対応！レベル測定ボード　キット                           | [製品ページ][ADCQ1708DKRE_HP] | [サポートページ][ADCQ1708DKRE_SP] |
+| <a id="ADCQ1708DPRE">ADCQ1708DPRE</a> | ラズベリー・パイ対応！レベル測定ボード　組立済                           | [製品ページ][ADCQ1708DPRE_HP] | [サポートページ][ADCQ1708DPRE_SP] |
+| <a id="ADCQ1805K">ADCQ1805K</a>       | IoT時代のマイコンC言語入門ボード"PICoT"（ピコット） キット               | [製品ページ][ADCQ1805K_HP] | [サポートページ][ADCQ1805K_SP] |
+| <a id="ADCQ1805OP">ADCQ1805OP</a>     | IoT時代のマイコンC言語入門ボード"PICoT"（ピコット） オプションボード      | [製品ページ][ADCQ1805OP_HP] | - |
+| <a id="ADCQ1805P">ADCQ1805P</a>       | IoT時代のマイコンC言語入門ボード"PICoT"（ピコット） 組立済               | [製品ページ][ADCQ1805P_HP] | [サポートページ][ADCQ1805P_SP] |
+| <a id="ADCQ1904">ADCQ1904</a>         | ラズパイ用ハードウェア・アクセラレート基板"PiSoC"                        | [製品ページ][ADCQ1904_HP] | [サポートページ][ADCQ1904_SP] |
+| <a id="ADCQ1905K">ADCQ1905K</a>       | ラズパイ拡張基板 IoT 実験コンピュータ "Apple Pi" 部品セット              | [製品ページ][ADCQ1905K_HP] | [サポートページ][ADCQ1905K_SP] |
+| <a id="ADCQ1905P">ADCQ1905P</a>       | ラズパイ拡張基板 IoT 実験コンピュータ "Apple Pi" 組立済                  | [製品ページ][ADCQ1905P_HP] | [サポートページ][ADCQ1905P_SP] |
+| <a id="ADCQHR1702B">ADCQHR1702B</a>   | Web記事で作れる！CQ ham radioコラボ製品 <br> 作って合点！　ラジオのしくみ　No.1　ゲルマニウム・ラジオ キット        | [製品ページ][ADCQHR1702B_HP] | [サポートページ][ADCQHR1702B_SP] |
+| <a id="ADCQHR1703B">ADCQHR1703B</a>   | Web記事で作れる！CQ ham radioコラボ製品 <br> 作って合点！ラジオのしくみ No.２ ストレート・ラジオ キット            | [製品ページ][ADCQHR1703B_HP] | [サポートページ][ADCQHR1703B_SP] |
+| <a id="ADCQHR1704B">ADCQHR1704B</a>   | Web記事で作れる！CQ ham radioコラボ製品 <br> 作って合点！　ラジオのしくみ　No.3　レフレックス・ラジオ キット       | [製品ページ][ADCQHR1704B_HP] | [サポートページ][ADCQHR1704B_SP] |
+| <a id="ADCQHR1705B">ADCQHR1705B</a>   | Web記事で作れる！CQ ham radioコラボ製品 <br> 作って合点！　ラジオのしくみ　No.4　スーパーヘテロダイン・ラジオ キット| [製品ページ][ADCQHR1705B_HP] | [サポートページ][ADCQHR1705B_SP] |
+||||
+| <a id="ADGH01K">ADGH01K</a>           | ラズベリーパイ接続　GPIO入出力インターフェース汎用テストボード[ラズパイ3対応] キット                 | [製品ページ][ADGH01K_HP] | [サポートページ][ADGH01K_SP] |
+| <a id="ADGH01P">ADGH01P</a>           | ラズベリーパイ接続　GPIO入出力インターフェース汎用テストボード[ラズパイ3対応]組立済み                | [製品ページ][ADGH01P_HP] | [サポートページ][ADGH01P_SP] |
+| <a id="ADGH02K">ADGH02K</a>           | ラズベリーパイ接続　時計制御ボード“おしゃべり時計”[ラズパイ3対応]　キット                           | [製品ページ][ADGH02K_HP] | [サポートページ][ADGH02K_SP] |
+| <a id="ADGH02P">ADGH02P</a>           | ラズベリーパイ接続　時計制御ボード“おしゃべり時計”[ラズパイ3対応]　組立済み                         | [製品ページ][ADGH02P_HP] | [サポートページ][ADGH02P_SP] |
+| <a id="ADGH03K">ADGH03K</a>           | ラズベリーパイ接続　ラジオ制御ボード“赤外線リモコン対応インターネットラジオ”[ラズパイ3対応]　キット   | [製品ページ][ADGH03K_HP] | [サポートページ][ADGH03K_SP] |
+| <a id="ADGH03P">ADGH03P</a>           | ラズベリーパイ接続　ラジオ制御ボード“赤外線リモコン対応インターネットラジオ”[ラズパイ3対応]　組立済み  | [製品ページ][ADGH03P_HP] | [サポートページ][ADGH03P_SP] |
+| <a id="ADGH04K">ADGH04K</a>           | ラズベリーパイ接続　室内環境データ収集ボード“データロガー”[ラズパイ3対応]　キット                    | [製品ページ][ADGH04K_HP] | [サポートページ][ADGH04K_SP] |
+| <a id="ADGH04P">ADGH04P</a>           | ラズベリーパイ接続　室内環境データ収集ボード“データロガー”[ラズパイ3対応]　組立済み                  | [製品ページ][ADGH04P_HP] | [サポートページ][ADGH04P_SP] |
+| <a id="ADGH05K">ADGH05K</a>           | ラズベリーパイ接続　サーボモータ制御ボード　 [ラズパイ3対応]　キット                                | [製品ページ][ADGH05K_HP] | [サポートページ][ADGH05K_SP] |
+| <a id="ADGH05P">ADGH05P</a>           | ラズベリーパイ接続　サーボモータ制御ボード　 [ラズパイ3対応]　組立済み                              | [製品ページ][ADGH05P_HP] | [サポートページ][ADGH05P_SP] |
+| <a id="ADGH06K">ADGH06K</a>           | ラズベリーパイ接続　DCモータ制御ボード　 [ラズパイ3対応]　キット                                   | [製品ページ][ADGH06K_HP] | [サポートページ][ADGH06K_SP] |
+| <a id="ADGH06P">ADGH06P</a>           | ラズベリーパイ接続　DCモータ制御ボード　 [ラズパイ3対応]　組立済み                                 | [製品ページ][ADGH06P_HP] | [サポートページ][ADGH06P_SP] |
+| <a id="ADGH07K">ADGH07K</a>           | 技術評論社書籍連動企画Arduinoで楽しむ鉄道模型実験ボード キット                                     | [製品ページ][ADGH07K_HP] | [サポートページ][ADGH07K_SP] |
+| <a id="ADGH07P">ADGH07P</a>           | 技術評論社書籍連動企画Arduinoで楽しむ鉄道模型実験ボード 組立済                                     | [製品ページ][ADGH07P_HP] | [サポートページ][ADGH07P_SP] |
+| <a id="ADGH184APC">ADGH184APC</a>     | ｢C言語によるPICプログラミング大全」アナログ基板                                                   | [製品ページ][ADGH184APC_HP] | [サポートページ][ADGH184APC_SP] |
+| <a id="ADGH184DPC">ADGH184DPC</a>     |「C言語によるPICプログラミング大全」デジタル基板                                                   | [製品ページ][ADGH184DPC_HP] | [サポートページ][ADGH184DPC_SP] |
+||||
+| <a id="ADRPM1801C">ADRPM1801C</a>     | ラズパイマガジン連動 ラズベリーパイ用ハイレゾDAC拡張ボード 外部システムクロックボード   | [製品ページ][ADRPM1801C_HP] | [サポートページ][ADRPM1801C_SP] |
+| <a id="ADRPM1901KB">ADRPM1901KB</a>   | 実験パーツてんこもり「主要パーツすぐに試せるボード」 　キット                          | [製品ページ][ADRPM1901KB_HP] | [サポートページ][ADRPM1901KB_SP] |
+| <a id="ADRPM1901PB">ADRPM1901PB</a>   | 実験パーツてんこもり「主要パーツすぐに試せるボード」 　組立済                          | [製品ページ][ADRPM1901PB_HP] | [サポートページ][ADRPM1901PB_SP] |
+| <a id="ADRPM1902K">ADRPM1902K</a>     | ラズパイマガジン連動 ラズベリーパイ用ハイレゾDAC拡張ボード 部品セット                  | [製品ページ][ADRPM1902K_HP] | [サポートページ][ADRPM1902K_SP] |
+| <a id="ADRPM1902P">ADRPM1902P</a>     | ラズパイマガジン連動 ラズベリーパイ用ハイレゾDAC拡張ボード 組立済                      | [製品ページ][ADRPM1902P_HP] | [サポートページ][ADRPM1902P_SP] |
+| <a id="ADRPM1903K">ADRPM1903K</a>     | ラズベリーパイ用GPS拡張ボード“GPSCAP” キット                                        | [製品ページ][ADRPM1903K_HP] | [サポートページ][ADRPM1903K_SP] |
+| <a id="ADRPM1903P">ADRPM1903P</a>     | ラズベリーパイ用GPS拡張ボード“GPSCAP” 組立済                                        | [製品ページ][ADRPM1903P_HP] | [サポートページ][ADRPM1903P_SP] |
+| <a id="ADRPM2001K">ADRPM2001K</a>     | ラズパイマガジンで学ぶ！基本パーツ配線済みボード　 部品セット（基板は付属しません）     | [製品ページ][ADRPM2001K_HP] | - | 
+| <a id="ADRPM2001P">ADRPM2001P</a>     | ラズパイマガジンで学ぶ！基本パーツ配線済みボード　 組立済                             | [製品ページ][ADRPM2001P_HP] | - | 
+| <a id="ADRPM5122P">ADRPM5122P</a>     | ラズパイマガジン連動 ラズベリーパイ用ハイレゾDAC拡張ボード モジュールのみ              |  [製品ページ][ADRPM5122P_HP] | - |                        
+||||
+| <a id="ADSSMG01KM">ADSSMG01KM</a>     | リニューアル小冊子付！ ラズパイ入門ボード キット                    |  [製品ページ][ADSSMG01KM_HP] | [サポートページ][ADSSMG01KM_SP] |
+| <a id="ADSSMG01PM">ADSSMG01PM</a>     | リニューアル小冊子付！ ラズパイ入門ボード 組立済                    |  [製品ページ][ADSSMG01PM_HP] | [サポートページ][ADSSMG01PM_SP] |
+| <a id="ADSSMG02PM">ADSSMG02PM</a>     | リニューアル小冊子付！ラズパイセンサーボード                        |  [製品ページ][ADSSMG02PM_HP] | [サポートページ][ADSSMG02PM_SP] |
+| <a id="ADJTSB01">ADJTSB01</a>         | シェルスクリプトマガジン連動！Jetson ＆ Pi 電力測定ボード           |  [製品ページ][ADJTSB01_HP]   | - |
+| <a id="ADJTSB01B">ADJTSB01B</a>       | シェルスクリプトマガジン連動！Jetson ＆ Pi 電力測定ボード 書籍同梱版 |  [製品ページ][ADJTSB01B_HP]  | - |
+||||
+| <a id="ADRL01">ADRL01</a> | 奇天烈電子工作 ピー音発生装置                       | [製品ページ][ADRL01_HP] | - |
+| <a id="ADRL06">ADRL06</a> | 奇天烈電子工作 LED電圧＆電流テスター                | [製品ページ][ADRL06_HP] | - |
+| <a id="ADRL07">ADRL07</a> | 奇天烈電子工作 インバータモニター                   | [製品ページ][ADRL07_HP] | - |
+| <a id="ADRL12">ADRL12</a> | 奇天烈電子工作 ハードディスク連動LEDイルミネーション |  [製品ページ][ADRL12_HP] | - |
+
+
+
+
+
+  <!-- 参照形式によるリンク 参考https://hail2u.net/blog/coding/markdown-reference-style-links.html -->
+
+[ADCQ1611AKRE_HP]: https://bit-trade-one.co.jp/product/module/adcq1611ap/
+[ADCQ1611AKRE_SP]:https://github.com/bit-trade-one/ADCQ1611AP_CQ_PICCASO
+  
+[ADCQ1611APRE_HP]: https://bit-trade-one.co.jp/product/module/adcq1611ap/
+[ADCQ1611APRE_SP]: https://github.com/bit-trade-one/ADCQ1611AP_CQ_PICCASO
+  
+[ADCQ1611BKRE_HP]: https://bit-trade-one.co.jp/product/module/adcq1611bp/
+[ADCQ1611BKRE_SP]: https://github.com/bit-trade-one/ADCQ1611BP_CQ_ServoController
+  
+[ADCQ1611BPRE_HP]: https://bit-trade-one.co.jp/product/module/adcq1611bp/
+[ADCQ1611BPRE_SP]:https://github.com/bit-trade-one/ADCQ1611BP_CQ_ServoController
+  
+[ADCQ1612PB_HP]: https://bit-trade-one.co.jp/product/module/adcq1612pb/
+[ADCQ1612PB_SP]: https://github.com/bit-trade-one/ADCQ1612_Frequency_Response_Analyzer
+  
+[ADCQ1706AKRE_HP]: https://bit-trade-one.co.jp/product/module/adcq1706ap/
+[ADCQ1706AKRE_SP]: https://github.com/bit-trade-one/ADCQ1706AP_Digital_Multi_Meter
+  
+[ADCQ1706APRE_HP]: https://bit-trade-one.co.jp/product/module/adcq1706ap/
+[ADCQ1706APRE_SP]: https://github.com/bit-trade-one/ADCQ1706AP_Digital_Multi_Meter
+  
+[ADCQ1706BPRE_HP]: https://bit-trade-one.co.jp/product/module/adcq1706bp/
+[ADCQ1706BPRE_SP]: https://github.com/bit-trade-one/ADCQ1706BP_OscilloScope
+  
+[ADCQ1706CPRE_HP]: https://bit-trade-one.co.jp/product/module/adcq1706cp/
+[ADCQ1706CPRE_SP]: https://github.com/bit-trade-one/ADCQ1706CP_micro_Ampere_Oscillo
+  
+[ADCQ1708CKRE_HP]: https://bit-trade-one.co.jp/product/assemblydisk/adcq1708cp/
+[ADCQ1708CKRE_SP]: https://github.com/bit-trade-one/ADCQ1708CP_Wave_generator
+  
+[ADCQ1708CPRE_HP]: https://bit-trade-one.co.jp/product/assemblydisk/adcq1708cp/
+[ADCQ1708CPRE_SP]: https://github.com/bit-trade-one/ADCQ1708CP_Wave_generator
+  
+[ADCQ1708DKRE_HP]: https://bit-trade-one.co.jp/product/module/adcq1708dp/
+[ADCQ1708DKRE_SP]: https://github.com/bit-trade-one/ADCQ1708DP_Level_measure_board
+  
+[ADCQ1708DPRE_HP]: https://bit-trade-one.co.jp/product/module/adcq1708dp/
+[ADCQ1708DPRE_SP]: https://github.com/bit-trade-one/ADCQ1708DP_Level_measure_board
+  
+[ADCQ1805K_HP]: https://bit-trade-one.co.jp/product/assemblydisk/adcq1805p/
+[ADCQ1805K_SP]: https://github.com/bit-trade-one/ADCQ1805P_PICoT
+  
+[ADCQ1805OP_HP]: https://bit-trade-one.co.jp/product/assemblydisk/adcq1805p/
+
+  
+[ADCQ1805P_HP]: https://bit-trade-one.co.jp/product/assemblydisk/adcq1805p/
+[ADCQ1805P_SP]: https://github.com/bit-trade-one/ADCQ1805P_PICoT
+  
+[ADCQ1904_HP]: https://bit-trade-one.co.jp/adcq1904/
+[ADCQ1904_SP]: https://github.com/bit-trade-one/ADCQ1904_HardwareAccelerator_PiSoC
+  
+[ADCQ1905K_HP]: https://bit-trade-one.co.jp/adcq1905/
+[ADCQ1905K_SP]: https://github.com/bit-trade-one/ADCQ1905_IoT_Extended_Board_ApplePi
+  
+[ADCQ1905P_HP]: https://bit-trade-one.co.jp/adcq1905/
+[ADCQ1905P_SP]: https://github.com/bit-trade-one/ADCQ1905_IoT_Extended_Board_ApplePi
+  
+[ADCQHR1702B_HP]: https://bit-trade-one.co.jp/product/assemblydisk/adcqhr1702/
+[ADCQHR1702B_SP]: https://github.com/bit-trade-one/ADCQHR1702_Germanium_Radio
+  
+[ADCQHR1703B_HP]: https://bit-trade-one.co.jp/product/assemblydisk/adcqhr1703/
+[ADCQHR1703B_SP]: https://github.com/bit-trade-one/ADCQHR1703_Straight_Radio
+  
+[ADCQHR1704B_HP]: https://bit-trade-one.co.jp/product/assemblydisk/adcqhr1704/
+[ADCQHR1704B_SP]: https://github.com/bit-trade-one/ADCQHR1704_Reflex_Radio
+  
+[ADCQHR1705B_HP]: https://bit-trade-one.co.jp/product/assemblydisk/adcqhr1705/
+[ADCQHR1705B_SP]: https://github.com/bit-trade-one/ADCQHR1705_Superheterodyne_Radio
+  
+[ADGH01K_HP]: https://bit-trade-one.co.jp/product/picraspi/adgh01/
+[ADGH01K_SP]: https://github.com/bit-trade-one/ADCQHR1705_Superheterodyne_Radio
+  
+[ADGH01P_HP]: https://bit-trade-one.co.jp/product/picraspi/adgh01/
+[ADGH01P_SP]: https://github.com/bit-trade-one/ADGH01P_GPIO_Interface_Testboard
+  
+[ADGH02K_HP]: https://bit-trade-one.co.jp/product/picraspi/adgh02/
+[ADGH02K_SP]: https://github.com/bit-trade-one/ADGH02P_Talk_Clock_Controller
+  
+[ADGH02P_HP]: https://bit-trade-one.co.jp/product/picraspi/adgh02/
+[ADGH02P_SP]: https://github.com/bit-trade-one/ADGH02P_Talk_Clock_Controller
+  
+[ADGH03K_HP]: https://bit-trade-one.co.jp/product/picraspi/adgh03/
+[ADGH03K_SP]: https://github.com/bit-trade-one/ADGH03P_IR_Remocon_InternetRadio
+  
+[ADGH03P_HP]: https://bit-trade-one.co.jp/product/picraspi/adgh03/
+[ADGH03P_SP]: https://github.com/bit-trade-one/ADGH03P_IR_Remocon_InternetRadio
+  
+[ADGH04K_HP]: https://bit-trade-one.co.jp/product/picraspi/adgh04/
+[ADGH04K_SP]: https://github.com/bit-trade-one/ADGH04K_Enviroment_Data_Logger_Kit
+  
+[ADGH04P_HP]: https://bit-trade-one.co.jp/product/picraspi/adgh04/
+[ADGH04P_SP]: https://github.com/bit-trade-one/ADGH04P_Enviroment_Data_Logger
+  
+[ADGH05K_HP]: https://bit-trade-one.co.jp/product/picraspi/adgh05/
+[ADGH05K_SP]: https://github.com/bit-trade-one/ADGH05P_ServoMotor_Control_Board
+  
+[ADGH05P_HP]: https://bit-trade-one.co.jp/product/picraspi/adgh05/
+[ADGH05P_SP]: https://github.com/bit-trade-one/ADGH05P_ServoMotor_Control_Board
+  
+[ADGH06K_HP]: https://bit-trade-one.co.jp/product/picraspi/adgh06p/
+[ADGH06K_SP]: https://github.com/bit-trade-one/ADGH06P_DCmotor_Control_board
+  
+[ADGH06P_HP]: https://bit-trade-one.co.jp/product/picraspi/adgh06p/
+[ADGH06P_SP]: https://github.com/bit-trade-one/ADGH06P_DCmotor_Control_board
+  
+[ADGH07K_HP]: https://bit-trade-one.co.jp/product/assemblydisk/adgh07/
+[ADGH07K_SP]: https://github.com/bit-trade-one/ADGH07_ScaleModelRailway_Controller
+  
+[ADGH07P_HP]: https://bit-trade-one.co.jp/product/assemblydisk/adgh07/
+[ADGH07P_SP]: https://github.com/bit-trade-one/ADGH07_ScaleModelRailway_Controller
+  
+[ADGH184APC_HP]: https://bit-trade-one.co.jp/product/assemblydisk/adgh184apc/
+[ADGH184APC_SP]: https://github.com/bit-trade-one/ADGH184-Pic-Programming-Complete-Book
+  
+[ADGH184DPC_HP]: https://bit-trade-one.co.jp/product/assemblydisk/adgh184apc/
+[ADGH184DPC_SP]: https://github.com/bit-trade-one/ADGH184-Pic-Programming-Complete-Book
+  
+[ADRPM1801C_HP]: https://bit-trade-one.co.jp/adrpm1902/
+[ADRPM1801C_SP]: https://github.com/bit-trade-one/ADRPM1902_RasPi_Hi-Res_DAC
+  
+[ADRPM1901KB_HP]: https://bit-trade-one.co.jp/adrpm1901/
+[ADRPM1901KB_SP]: https://github.com/bit-trade-one/ADRPM1901
+  
+[ADRPM1901PB_HP]: https://bit-trade-one.co.jp/adrpm1901/
+[ADRPM1901PB_SP]: https://github.com/bit-trade-one/ADRPM1901
+  
+[ADRPM1902K_HP]: https://bit-trade-one.co.jp/adrpm1902/
+[ADRPM1902K_SP]: https://github.com/bit-trade-one/ADRPM1902_RasPi_Hi-Res_DAC
+  
+[ADRPM1902P_HP]: https://bit-trade-one.co.jp/adrpm1902/
+[ADRPM1902P_SP]: https://github.com/bit-trade-one/ADRPM1902_RasPi_Hi-Res_DAC
+  
+[ADRPM1903K_HP]: https://bit-trade-one.co.jp/adrpm1903/
+[ADRPM1903K_SP]: https://github.com/bit-trade-one/ADRPM1903_GPS_CAP
+  
+[ADRPM1903P_HP]: https://bit-trade-one.co.jp/adrpm1903/
+[ADRPM1903P_SP]: https://github.com/bit-trade-one/ADRPM1903_GPS_CAP
+  
+[ADRPM2001K_HP]: https://bit-trade-one.co.jp/adrpm2001/
+
+  
+[ADRPM2001P_HP]: https://bit-trade-one.co.jp/adrpm2001/
+
+  
+[ADRPM5122P_HP]: 	https://bit-trade-one.co.jp/adrpm1902/
+
+  
+[ADSSMG01KM_HP]: https://bit-trade-one.co.jp/product/assemblydisk/adssmg01gk/
+[ADSSMG01KM_SP]: https://github.com/bit-trade-one/ADSSMG01_RaspberryPi_Beginning_board
+  
+[ADSSMG01PM_HP]: https://bit-trade-one.co.jp/product/assemblydisk/adssmg01gk/
+[ADSSMG01PM_SP]: https://github.com/bit-trade-one/ADSSMG01_RaspberryPi_Beginning_board
+  
+[ADSSMG02PM_HP]: https://bit-trade-one.co.jp/adssmg02/
+[ADSSMG02PM_SP]: https://github.com/bit-trade-one/ADSSMG02_RasPi_Sensor_Board
+  
+[ADJTSB01_HP]: 	https://bit-trade-one.co.jp/adjtsb01/
+
+  
+[ADJTSB01B_HP]: 	https://bit-trade-one.co.jp/adjtsb01/
+
+  
+[ADRL01_HP]: https://bit-trade-one.co.jp/adrl01/
+
+  
+[ADRL06_HP]: https://bit-trade-one.co.jp/adrl06/
+
+  
+[ADRL07_HP]: 	https://bit-trade-one.co.jp/adrl07/
+
+  
+[ADRL12_HP]: https://bit-trade-one.co.jp/adrl12/
 
 ---
 
