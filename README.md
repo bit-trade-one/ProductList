@@ -19,6 +19,8 @@ CQ出版,技術評論社,日経BP,シェルスクリプトマガジン,ラジオ
 - [IoT製品](#iot製品)
 Raspberry Pi関連,ゼロワンシリーズ等
 - [業務用シリーズ](#業務用シリーズ)
+- [旧AssemblyDeskファイルアップローダ保管ページ](#旧assemblydeskファイルアップローダ保管ページ) 
+
  
 <!--mdでページ内リンクを貼る際はこちらの記事がとてもわかりやすいので必読です！https://qiita.com/hennin/items/7ee58dd7d7c013a23be7#%E5%8D%8A%E8%A7%92%E8%A8%98%E5%8F%B7%E3%81%AF%E3%82%A2%E3%83%B3%E3%83%80%E3%83%BC%E3%83%90%E3%83%BC_%E3%81%A8%E3%83%8F%E3%82%A4%E3%83%95%E3%83%B3-%E4%BB%A5%E5%A4%96%E7%9C%81%E7%95%A5
 -->
@@ -782,4 +784,12 @@ Raspberry Pi関連,ゼロワンシリーズ等
 
 [ADBSDIO_HP]: https://bit-trade-one.co.jp/adbsdio/
 [ADBSDIO_SP]: https://bit-trade-one.github.io/ADBSDIO_BrowserSwitchDIO/
- 
+
+---
+
+## 旧AssemblyDeskファイルアップローダ保管ページ   
+
+[目次へ戻る](#目次)
+
+### [・保管ページへ](https://bit-trade-one.co.jp/assemblydeskfiles/)
+
