@@ -390,7 +390,7 @@ CQ出版,技術評論社,日経BP,シェルスクリプトマガジン,ラジオ
 [ADRPTB8C_SP]: https://github.com/bit-trade-one/ADRPT8C_Generic_Motor_Controller
  
 [ADRSADC_HP]: https://bit-trade-one.co.jp/product/module/adrsadc/
-[ADRSADC_SP]: https://github.com/bit-trade-one/ADRSADC-RaspberryPi-ArduinoShield-Converter
+[ADRSADC_SP]: https://github.com/bit-trade-one/ADRSADC
  
 [ADRSBB_HP]: https://bit-trade-one.co.jp/product/module/adrsbb/
 [ADRSBB_SP]: https://github.com/bit-trade-one/ADRSBB-RaspberryPi-breadboard
