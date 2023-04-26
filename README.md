@@ -370,8 +370,9 @@ CQ出版,技術評論社,日経BP,シェルスクリプトマガジン,ラジオ
 | <a id="ADRSZSW">ADRSZSW</a>   | ゼロワン 照光スイッチ拡張基板             | [製品ページ][ADRSZSW_HP] | [サポートページ][ADRSZSW_SP] |
 | <a id="ADRSZUP">ADRSZUP</a>   | ゼロワン 電源保持基板                    | [製品ページ][ADRSZUP_HP] | [サポートページ][ADRSZUP_SP] |
 ||||
-| <a id="AD2040AA">AD2040AA</a> | Raspberry Pi Pico 単3電池拡張ボード                 | [製品ページ][AD2040AA_HP] | [サポートページ][AD2040AA_SP] |
-| <a id="AD2040RSH">AD2040RSH</a> | ラズベリーパイ ホストファンクションテスター Pico    | [製品ページ][AD2040RSH_HP] | [サポートページ][AD2040RSH_SP] |
+| <a id="AD2040AA">AD2040AA</a> | Raspberry Pi Pico 単3電池拡張ボード                             | [製品ページ][AD2040AA_HP] | [サポートページ][AD2040AA_SP] |
+| <a id="AD2040RSH">AD2040RSH</a> | ラズベリーパイ ホストファンクションテスター Pico               | [製品ページ][AD2040RSH_HP] | [サポートページ][AD2040RSH_SP] |
+| <a id="AD2040RSHP">AD2040RSHP</a> | ラズベリーパイ ホストファンクションテスター Pico 実装済み    |  同上 |  同上 |
 
 <!-- 参照形式によるリンク 参考https://hail2u.net/blog/coding/markdown-reference-style-links.html -->
 
