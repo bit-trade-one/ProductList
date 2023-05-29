@@ -228,7 +228,7 @@ CQ出版,技術評論社,日経BP,シェルスクリプトマガジン,ラジオ
 | <a id="ADUSBCIM">ADUSBCIM</a> | USB CABLE CHECKER 2                                             |  [製品ページ][ADUSBCIM_HP] | [サポートページ][ADUSBCIM_SP] |
 | <a id="BTCLK">BTCLK</a>       | WLAN電波時計　BitClock                                           |  [製品ページ][BTCLK_HP]    | - |
 | <a id="BTIC2">BTIC2</a>       | 低遅延型インターフェース変換装置　変わる君                          |  [製品ページ][BTIC2_HP]    | [サポートページ][BTIC2_SP]    |
-| <a id="BTIC2">BTIRSW</a>      | 赤外線リモコンインターフェイス変換装置「リモート変わる君」         |  [製品ページ][BTIRSW_HP]    | [サポートページ][BTIRSW_SP]    |
+| <a id="BTIC2">BTIRSW</a>      | 赤外線リモコンインターフェイス変換装置「リモート変わる君」           |  [製品ページ][BTIRSW_HP]    | [サポートページ][BTIRSW_SP]    |
 | <a id="ADCRBT">ADCRBT</a>     | クアッド・クローラー                                              |  [製品ページ][ADCRBT_HP]   | [サポートページ][ADCRBT_SP]   |
 | <a id="ADCRAIBT">ADCRAIBT</a> | クアッド・クローラーAI                                            |  [製品ページ][ADCRAIBT_HP] | [サポートページ][ADCRAIBT_SP] |
 | <a id="ADKRBT">ADKRBT</a>     | プログラミング学習向け工作キット"リモコンロボ"                      |  [製品ページ][ADKRBT_HP]   | [サポートページ][ADKRBT_SP]   |
@@ -238,7 +238,8 @@ CQ出版,技術評論社,日経BP,シェルスクリプトマガジン,ラジオ
 | <a id="BFTP01Y">BFTP01Y</a>   | 浪漫型ギターエフェクタースタイル USBフットペダル【TonePedal+】       |  [製品ページ][BFTP01Y_HP]  | [サポートページ][BFTP01Y_SP]  |
 | <a id="BFTP01Y">BFROM11BK</a> | Rev-O-mate                                                       |  [製品ページ][BFROM11BK_HP] | [サポートページ][BFROM11BK_SP] |
 | <a id="BFTCXL">BFTCXL</a>     | TracXcroll                                                       |  [製品ページ][BFTCXL_HP]    | [サポートページ][BFTCXL_SP] |
-| <a id="ADUIC">ADUIC</a>       | UIcreator                                                        |  [製品ページ][ADUIC_HP]    | [サポートページ][ADUIC_SP] |
+| <a id="ADUIC">ADUIC</a>       | UIcreator                                                         |  [製品ページ][ADUIC_HP]    | [サポートページ][ADUIC_SP] |
+| <a id="ADBMM">ADBMM</a>       | 美耳 バイノーラルマイク                                             |  [製品ページ][ADBMM_HP]    | [サポートページ][ADBMM_SP] |
 
 
 <!-- 参照形式によるリンク 参考https://hail2u.net/blog/coding/markdown-reference-style-links.html -->
@@ -287,6 +288,9 @@ CQ出版,技術評論社,日経BP,シェルスクリプトマガジン,ラジオ
 
 [ADUIC_HP]: https://bit-trade-one.co.jp/aduic/
 [ADUIC_SP]: https://uicreator.wiki.fc2.com/
+
+[ADBMM_HP]: https://bit-trade-one.co.jp/bimimi/
+[ADBMM_SP]: https://bit-trade-one.github.io/ADBMM/
 
 
 
