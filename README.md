@@ -75,7 +75,7 @@ CQ出版,技術評論社,日経BP,シェルスクリプトマガジン,ラジオ
 | <a id="ADTTM8">ADTTM8</a>       | ロジックICで創る自作CPU組み立てキット「TTM8」                           | [製品ページ][ADTTM8_HP] | - |
 | <a id="ADSEMX">ADSEMX</a>       | 俺の効果音!!                                                          | [製品ページ][ADSEMX_HP] | [サポートページ][ADSEMX_SP] |
 | <a id="b03079">b03079</a>       | ESP32タッチ液晶モジュール                                              | [製品ページ][b03079_HP] | [サポートページ][b03079_SP] |
-
+| <a id="ADMGL">ADMGL</a>         | 磁気スイッチ付LEDマイクロモジュールADMGL                                 | [製品ページ][ADMGL_HP] | [サポートページ][ADMGL_SP] |
 
  <!-- 参照形式によるリンク 参考https://hail2u.net/blog/coding/markdown-reference-style-links.html -->
  
@@ -213,6 +213,9 @@ CQ出版,技術評論社,日経BP,シェルスクリプトマガジン,ラジオ
 
 [b03079_HP]: https://bit-trade-one.co.jp/blog/20230414/
 [b03079_SP]: https://github.com/bit-trade-one/b03079
+
+[ADMGL_HP]: https://bit-trade-one.co.jp/admgl/
+[ADMGL_SP]: https://github.com/bit-trade-one/ADMGL
 
 
 
