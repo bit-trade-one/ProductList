@@ -519,8 +519,8 @@ CQ出版,技術評論社,日経BP,シェルスクリプトマガジン,ラジオ
 [AD2040RSH_SP]: https://github.com/bit-trade-one/AD2040RSH
 
 
-[AD2040RSH_HP]: https://bit-trade-one.co.jp/ad2040st/
-[AD2040RSH_SP]: https://github.com/bit-trade-one/AD2040ST
+[AD2040ST_HP]: https://bit-trade-one.co.jp/ad2040st/
+[AD2040ST_SP]: https://github.com/bit-trade-one/AD2040ST
 
 ---
 
