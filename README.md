@@ -380,6 +380,7 @@ CQ出版,技術評論社,日経BP,シェルスクリプトマガジン,ラジオ
 | <a id="AD2040AA">AD2040AA</a> | Raspberry Pi Pico 単3電池拡張ボード                             | [製品ページ][AD2040AA_HP] | [サポートページ][AD2040AA_SP] |
 | <a id="AD2040RSH">AD2040RSH</a> | ラズベリーパイ ホストファンクションテスター Pico               | [製品ページ][AD2040RSH_HP] | [サポートページ][AD2040RSH_SP] |
 | <a id="AD2040RSHP">AD2040RSHP</a> | ラズベリーパイ ホストファンクションテスター Pico 実装済み    |  同上 |  同上 |
+| <a id="AD2040ST">AD2040ST</a> | ラズベリーパイ Pico ソケット・ターミナル拡張ボード            | [製品ページ][AD2040ST_HP] | [サポートページ][AD2040ST_SP] |
 
 <!-- 参照形式によるリンク 参考https://hail2u.net/blog/coding/markdown-reference-style-links.html -->
 
@@ -516,6 +517,10 @@ CQ出版,技術評論社,日経BP,シェルスクリプトマガジン,ラジオ
 
 [AD2040RSH_HP]: https://bit-trade-one.co.jp/ad2040rsh
 [AD2040RSH_SP]: https://github.com/bit-trade-one/AD2040RSH
+
+
+[AD2040RSH_HP]: https://bit-trade-one.co.jp/ad2040st/
+[AD2040RSH_SP]: https://github.com/bit-trade-one/AD2040ST
 
 ---
 
