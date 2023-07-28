@@ -76,6 +76,7 @@ CQ出版,技術評論社,日経BP,シェルスクリプトマガジン,ラジオ
 | <a id="ADSEMX">ADSEMX</a>       | 俺の効果音!!                                                          | [製品ページ][ADSEMX_HP] | [サポートページ][ADSEMX_SP] |
 | <a id="b03079">b03079</a>       | ESP32タッチ液晶モジュール                                              | [製品ページ][b03079_HP] | [サポートページ][b03079_SP] |
 | <a id="ADMGL">ADMGL</a>         | 磁気スイッチ付LEDマイクロモジュールADMGL                                 | [製品ページ][ADMGL_HP] | [サポートページ][ADMGL_SP] |
+| <a id="ADMGL">AD7SGPR</a>       | Nanapo                                                                | [製品ページ][AD7SGPR_HP] | [サポートページ][AD7SGPR_SP] |
 
  <!-- 参照形式によるリンク 参考https://hail2u.net/blog/coding/markdown-reference-style-links.html -->
  
@@ -217,6 +218,9 @@ CQ出版,技術評論社,日経BP,シェルスクリプトマガジン,ラジオ
 [ADMGL_HP]: https://bit-trade-one.co.jp/admgl/
 [ADMGL_SP]: https://github.com/bit-trade-one/ADMGL
 
+[AD7SGPR_HP]: https://bit-trade-one.co.jp/ad7sgpr/
+[AD7SGPR_SP]: https://bit-trade-one.github.io/AD7SGPR/
+
 
 
  
@@ -243,7 +247,7 @@ CQ出版,技術評論社,日経BP,シェルスクリプトマガジン,ラジオ
 | <a id="BFTCXL">BFTCXL</a>     | TracXcroll                                                       |  [製品ページ][BFTCXL_HP]    | [サポートページ][BFTCXL_SP] |
 | <a id="ADUIC">ADUIC</a>       | UIcreator                                                         |  [製品ページ][ADUIC_HP]    | [サポートページ][ADUIC_SP] |
 | <a id="ADBMM">ADBMM</a>       | 美耳 バイノーラルマイク                                             |  [製品ページ][ADBMM_HP]    | [サポートページ][ADBMM_SP] |
-
+| <a id="ADBMM">ADHHKM</a>      | リモートワーク向けPC自動操作用小型USBデバイス 「HHKM」               |  [製品ページ][ADHHKM_HP]    | [サポートページ][ADHHKM_SP] |
 
 <!-- 参照形式によるリンク 参考https://hail2u.net/blog/coding/markdown-reference-style-links.html -->
 
@@ -295,6 +299,8 @@ CQ出版,技術評論社,日経BP,シェルスクリプトマガジン,ラジオ
 [ADBMM_HP]: https://bit-trade-one.co.jp/bimimi/
 [ADBMM_SP]: https://bit-trade-one.github.io/ADBMM/
 
+[ADHHKM_HP]: https://bit-trade-one.co.jp/adhhkm/
+[ADHHKM_SP]: https://github.com/ShowTakano/HHKM_Programmer
 
 
 
@@ -537,6 +543,7 @@ CQ出版,技術評論社,日経BP,シェルスクリプトマガジン,ラジオ
 | <a id="adirrvmd">adirrvmd</a>   | USB赤外線リモコン受光アダプタ         | [製品ページ][adirrvmd_HP] | [サポートページ][adirrvmd_SP] |
 | <a id="BFU2S">BFU2S</a>         | USBデュアルコネクトカスタムキーパッド | [製品ページ][BFU2S_HP]     |  [サポートページ][BFU2S_SP]  |
 | <a id="ADBSDIO">ADBSDIO</a>     | ブラウザスイッチDIO                  | [製品ページ][ADBSDIO_HP]     |  [サポートページ][ADBSDIO_SP]  |
+| <a id="ADBSDIO">ADBTIR</a>     | Bluetooth接続式赤外線送信モジュール   | [製品ページ][ADBTIR_HP]     |  [サポートページ][ADBTIR_SP]  |
 
  <!-- 参照形式によるリンク 参考https://hail2u.net/blog/coding/markdown-reference-style-links.html -->
 
@@ -554,6 +561,9 @@ CQ出版,技術評論社,日経BP,シェルスクリプトマガジン,ラジオ
 
 [ADBSDIO_HP]: https://bit-trade-one.co.jp/adbsdio/
 [ADBSDIO_SP]: https://bit-trade-one.github.io/ADBSDIO_BrowserSwitchDIO/
+
+[ADBTIR_HP]: https://bit-trade-one.co.jp/adbtir/
+[ADBTIR_SP]: https://github.com/bit-trade-one/ADBTIR
 
 ---
 
