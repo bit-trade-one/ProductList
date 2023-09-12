@@ -563,7 +563,7 @@ CQ出版,技術評論社,日経BP,シェルスクリプトマガジン,ラジオ
 [ADBSDIO_SP]: https://bit-trade-one.github.io/ADBSDIO_BrowserSwitchDIO/
 
 [ADBTIR_HP]: https://bit-trade-one.co.jp/adbtir/
-[ADBTIR_SP]: https://github.com/bit-trade-one/ADBTIR
+[ADBTIR_SP]: https://bit-trade-one.github.io/ADBTIR/
 
 ---
 
