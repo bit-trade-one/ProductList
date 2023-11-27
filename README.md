@@ -72,7 +72,7 @@ CQ出版,技術評論社,日経BP,シェルスクリプトマガジン,ラジオ
 | <a id="ADSLAR">ADSLAR</a>       | 自動走行ロボットキット「D3BV」                                         | [製品ページ][ADSLAR_HP] | [サポートページ][ADSLAR_SP] |
 | <a id="ADFBE">ADFBE</a>         | スマートテキスタイルセンサ開発ボードセット                              | [製品ページ][ADFBE_HP] | [サポートページ][ADFBE_SP] |
 | <a id="ADE32CD">ADE32CD</a>     | ESP32オーディオストリーミングスタンド実験ボード「Connected Doll」       | [製品ページ][ADE32CD_HP] | [サポートページ][ADE32CD_SP] |
-| <a id="ADTTM8">ADTTM8</a>       | ロジックICで創る自作CPU組み立てキット「TTM8」                           | [製品ページ][ADTTM8_HP] | - |
+| <a id="ADTTM8">ADTTM8</a>       | ロジックICで創る自作CPU組み立てキット「TTM8」                           | [製品ページ][ADTTM8_HP] | [サポートページ][ADTTM8_SP] |
 | <a id="ADSEMX">ADSEMX</a>       | 俺の効果音!!                                                          | [製品ページ][ADSEMX_HP] | [サポートページ][ADSEMX_SP] |
 | <a id="b03079">b03079</a>       | ESP32タッチ液晶モジュール                                              | [製品ページ][b03079_HP] | [サポートページ][b03079_SP] |
 | <a id="ADMGL">ADMGL</a>         | 磁気スイッチ付LEDマイクロモジュールADMGL                                 | [製品ページ][ADMGL_HP] | [サポートページ][ADMGL_SP] |
