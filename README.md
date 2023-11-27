@@ -207,7 +207,7 @@ CQ出版,技術評論社,日経BP,シェルスクリプトマガジン,ラジオ
 [ADE32CD_SP]: https://github.com/bit-trade-one/ADE32CD-Connected-Doll
 
 [ADTTM8_HP]: https://bit-trade-one.co.jp/adttm8/
-[ADTTM8_SP]: -
+[ADTTM8_SP]: https://github.com/denshirider/TTM8
 
 [ADSEMX_HP]: https://bit-trade-one.co.jp/adsemx/
 [ADSEMX_SP]: https://github.com/bit-trade-one/ADSEMX
