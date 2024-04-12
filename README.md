@@ -77,6 +77,7 @@ CQ出版,技術評論社,日経BP,シェルスクリプトマガジン,ラジオ
 | <a id="b03079">b03079</a>       | ESP32タッチ液晶モジュール                                              | [製品ページ][b03079_HP] | [サポートページ][b03079_SP] |
 | <a id="ADMGL">ADMGL</a>         | 磁気スイッチ付LEDマイクロモジュールADMGL                                 | [製品ページ][ADMGL_HP] | [サポートページ][ADMGL_SP] |
 | <a id="ADMGL">AD7SGPR</a>       | Nanapo                                                                | [製品ページ][AD7SGPR_HP] | [サポートページ][AD7SGPR_SP] |
+| <a id="ADHSPK">ADHSPK</a>       | LED搭載ハンドスピナー自作キット                                          | [製品ページ][ADHSPK_HP] | [サポートページ][ADHSPK_SP] |
 
  <!-- 参照形式によるリンク 参考https://hail2u.net/blog/coding/markdown-reference-style-links.html -->
  
@@ -221,7 +222,8 @@ CQ出版,技術評論社,日経BP,シェルスクリプトマガジン,ラジオ
 [AD7SGPR_HP]: https://bit-trade-one.co.jp/ad7sgpr/
 [AD7SGPR_SP]: https://bit-trade-one.github.io/AD7SGPR/
 
-
+[ADHSPK_HP]: https://bit-trade-one.co.jp/adhspk
+[ADHSPK_SP]: https://bit-trade-one.github.io/ADHSPK/#/README
 
  
 ---
