@@ -188,10 +188,10 @@ CQ出版,技術評論社,日経BP,シェルスクリプトマガジン,ラジオ
 [ADRVMIC_SP]: https://bit-trade-one.github.io/ADRVMIC-REVIVE-USB-Micro/
   
 [ADRVMICR2_HP]: https://bit-trade-one.co.jp/adrvmic/
-[ADRVMICR2_SP]: https://bit-trade-one.github.io/ADRVUSBC-REVIVE-USB-Type-C/
+[ADRVMICR2_SP]: https://bit-trade-one.github.io/ADRVUSBC-REVIVE-USB-Micro-Rev2/
 
 [ADRVUSBC_HP]: https://bit-trade-one.co.jp/adrvusbc/
-[ADRVUSBC_SP]: https://bit-trade-one.github.io/ADRVUSBC-REVIVE-USBType-C/
+[ADRVUSBC_SP]: https://bit-trade-one.github.io/ADRVUSBC-REVIVE-USB-Type-C/
   
 [ADSU01_HP]: https://bit-trade-one.co.jp/product/module/adsu01/
 [ADSU01_SP]: https://github.com/bit-trade-one/ADSU01_Sound_Player_Module
