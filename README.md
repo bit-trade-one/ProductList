@@ -66,6 +66,7 @@ CQ出版,技術評論社,日経BP,シェルスクリプトマガジン,ラジオ
 | <a id="ADRVBRBN">ADRVBRBN</a>   | REVIVE USB MICROマトリクスブレイクアウトボード 端子台無し               | [製品ページ][ADRVBRBN_HP] | [サポートページ][ADRVBRBN_SP] |
 | <a id="ADRVMIC">ADRVMIC</a>     | REVIVE USB †MICRO†                                                  | [製品ページ][ADRVMIC_HP] | [サポートページ][ADRVMIC_SP] |
 | <a id="ADRVMICR2">ADRVMICR2</a> | REVIVE USB †MICRO†Rev.2                                             | [製品ページ][ADRVMICR2_HP] | [サポートページ][ADRVMICR2_SP] |
+| <a id="ADRVMICR2">ADRVUSBC</a> | REVIVE USB Type-C                                                    | [製品ページ][ADRVUSBC_HP] | [サポートページ][ADRVUSBC_SP] |
 | <a id="ADSU01">ADSU01</a>       | USB録音・音源再生モジュール                                           | [製品ページ][ADSU01_HP] | [サポートページ][ADSU01_SP] |
 | <a id="ADSU01TB">ADSU01TB</a>   | USB録音・音源再生モジュール評価ボードセット（組立済）                    | [製品ページ][ADSU01TB_HP] | [サポートページ][ADSU01TB_SP] |
 | <a id="ADU2B01P">ADU2B01P</a>   | USB HID Bluetooth変換アダプタキット USB2BT（組立済）                   | [製品ページ][ADU2B01P_HP] | [サポートページ][ADU2B01P_SP] |
@@ -187,7 +188,10 @@ CQ出版,技術評論社,日経BP,シェルスクリプトマガジン,ラジオ
 [ADRVMIC_SP]: https://bit-trade-one.github.io/ADRVMIC-REVIVE-USB-Micro/
   
 [ADRVMICR2_HP]: https://bit-trade-one.co.jp/adrvmic/
-[ADRVMICR2_SP]: https://bit-trade-one.github.io/ADRVMICR2-REVIVE-USB-Micro-Rev2/
+[ADRVMICR2_SP]: https://bit-trade-one.github.io/ADRVUSBC-REVIVE-USB-Type-C/
+
+[ADRVUSBC_HP]: https://bit-trade-one.co.jp/adrvusbc/
+[ADRVUSBC_SP]: https://bit-trade-one.github.io/ADRVMICR2-REVIVE-USB-Micro-Rev2/
   
 [ADSU01_HP]: https://bit-trade-one.co.jp/product/module/adsu01/
 [ADSU01_SP]: https://github.com/bit-trade-one/ADSU01_Sound_Player_Module
