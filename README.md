@@ -37,6 +37,7 @@ CQ出版,技術評論社,日経BP,シェルスクリプトマガジン,ラジオ
 | <a id="AD00007P">AD00007P</a>   | REVIVE USB（組立済）                                                | [製品ページ][AD00007P_HP] | [サポートページ][AD00007P_SP] |
 | <a id="AD00008">AD00008</a>     | ASOOVU USB                                                         | [製品ページ][AD00008_HP] | [サポートページ][AD00008_SP] |
 | <a id="AD00009B">AD00009B</a>   | USB DELEGATER B                                                    | [製品ページ][AD00009B_HP] | [サポートページ][AD00009B_SP] |
+| <a id="ADDEGA-C">ADDEGA-C</a>   | USB DELEGATER Type-C                                               | [製品ページ][ADDEGA-C_HP] | [サポートページ][ADDEGA-C_SP] |
 | <a id="AD00010">AD00010</a>     | 貼る タッチスイッチ・丸                                              | [製品ページ][AD00010_HP] | [サポートページ][AD00010_SP] |
 | <a id="AD00011">AD00011</a>     | Bit Touch                                                          | [製品ページ][AD00011_HP] | [サポートページ][AD00011_SP] |
 | <a id="AD00012">AD00012</a>     | ASOOVU USB・かんたんUSB温度計（キット）                              | [製品ページ][AD00012_HP] | [サポートページ][AD00012_SP] |
@@ -102,6 +103,9 @@ CQ出版,技術評論社,日経BP,シェルスクリプトマガジン,ラジオ
   
 [AD00009B_HP]: https://bit-trade-one.co.jp/delegaterb/
 [AD00009B_SP]: https://github.com/bit-trade-one/AD00009-USB_DELEGATER_B
+
+[ADDEGA-C_HP]: https://bit-trade-one.co.jp/addegac/
+[ADDEGA-C_SP]: https://github.com/bit-trade-one/ADDEGA-C_USBDELEGATORType-C
   
 [AD00010_HP]: https://bit-trade-one.co.jp/product/module/ad00010/
 [AD00010_SP]: https://github.com/bit-trade-one/AD00010_Touch_Switch_Circle
