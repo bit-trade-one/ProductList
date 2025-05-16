@@ -313,7 +313,7 @@ CQ出版,技術評論社,日経BP,シェルスクリプトマガジン,ラジオ
 [ADHHKM_HP]: https://bit-trade-one.co.jp/adhhkm/
 [ADHHKM_SP]: https://github.com/ShowTakano/HHKM_Programmer/
 
-[WADFS-35_HP]: https://bit-trade-one.co.jp/WADFS-35/
+[WADFS-35_HP]: https://bit-trade-one.co.jp/wadfs35/
 [WADFS-35_SP]: https://github.com/bit-trade-one/WADFS-35/
 
 
