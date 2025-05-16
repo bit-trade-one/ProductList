@@ -258,6 +258,7 @@ CQ出版,技術評論社,日経BP,シェルスクリプトマガジン,ラジオ
 | <a id="ADUIC">ADUIC</a>       | UIcreator                                                         |  [製品ページ][ADUIC_HP]    | [サポートページ][ADUIC_SP] |
 | <a id="ADBMM">ADBMM</a>       | 美耳 バイノーラルマイク                                             |  [製品ページ][ADBMM_HP]    | [サポートページ][ADBMM_SP] |
 | <a id="ADBMM">ADHHKM</a>      | リモートワーク向けPC自動操作用小型USBデバイス 「HHKM」               |  [製品ページ][ADHHKM_HP]    | [サポートページ][ADHHKM_SP] |
+| <a id="WADFS-35">WADFS-35</a>       | USB接続3.5型ミニIPSディスプレイ                                          | [製品ページ][WADFS-35_HP] | [サポートページ][WADFS-35_SP] |
 
 <!-- 参照形式によるリンク 参考https://hail2u.net/blog/coding/markdown-reference-style-links.html -->
 
@@ -310,7 +311,10 @@ CQ出版,技術評論社,日経BP,シェルスクリプトマガジン,ラジオ
 [ADBMM_SP]: https://bit-trade-one.github.io/ADBMM/
 
 [ADHHKM_HP]: https://bit-trade-one.co.jp/adhhkm/
-[ADHHKM_SP]: https://github.com/ShowTakano/HHKM_Programmer
+[ADHHKM_SP]: https://github.com/ShowTakano/HHKM_Programmer/
+
+[WADFS-35_HP]: https://bit-trade-one.co.jp/WADFS-35/
+[WADFS-35_SP]: https://github.com/bit-trade-one/WADFS-35/
 
 
 
